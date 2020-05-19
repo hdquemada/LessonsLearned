@@ -1,0 +1,39 @@
+\# Document setup information
+.nr PO 1i
+.nr LL 6.5i
+.nr PS 11000
+.nr FL \n[LL]*9/10
+.nr FF 0
+.ds CH
+.ds CF -%-
+.AM \# Enables special characters
+
+.TL
+Lessons Learned From the Introduction of GM Crops: Relevance to Gene Drive Deployment
+.AU
+Hector Quemada
+.AI
+Western Michigan University
+.br
+Date
+.AB
+This is an abstract.
+.AE
+.NH
+Status of GMO Deployment
+.LP
+.so status
+.NH 
+Review of papers written about the mistakes of GM Crops
+.LP
+Another paragraph under subsection, with a footnote.
+\**
+.FS
+Text of the footnote.
+.FE
+.bp
+.SH
+.ce
+References
+.LP
+.so refs
