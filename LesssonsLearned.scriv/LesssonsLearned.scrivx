@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="CAS-QuemHe19L1" Author="Hector Quemada" Modified="2020-07-13 18:21:33 -0400" ModID="3845D310-C370-4CBB-B5FE-F0F87AF19233">
+    <Binder>
+        <BinderItem UUID="635EBC13-D148-438A-B009-59019784F6EC" Type="DraftFolder" Created="2020-07-12 23:57:12 -0400" Modified="2020-07-12 23:57:12 -0400">
+            <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem UUID="5428C32E-4196-4E19-A5BB-EC1DB818A524" Type="Text" Created="2020-07-12 23:57:12 -0400" Modified="2020-07-13 00:23:27 -0400">
+                    <Title>Title</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>113,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="A2920E67-208B-4E4D-B4CF-A1FB3493FB59" Type="Text" Created="2020-07-13 00:08:52 -0400" Modified="2020-07-13 13:27:44 -0400">
+                    <Title>Abstract</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>9,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="AC2B3649-E410-4B57-A92A-9256963927A0" Type="Text" Created="2020-07-13 00:14:34 -0400" Modified="2020-07-13 13:27:38 -0400">
+                    <Title>Status of GMO Deployment</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>94,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="ACC8EDB0-AB6A-4E19-BD6D-95ED1CC5540D" Type="Text" Created="2020-07-13 13:21:04 -0400" Modified="2020-07-13 15:06:43 -0400">
+                    <Title>Review of Literature</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>35,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="0140E97E-074D-4438-9139-F332A24D6CC6" Type="ResearchFolder" Created="2020-07-12 23:57:12 -0400" Modified="2020-07-12 23:57:12 -0400">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentUUIDs>C7046333-AD28-4BF2-9309-0DCBFC423953</SelectedSubdocumentUUIDs>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem UUID="07960FE3-31F0-41A3-80D3-D8ADC48983A7" Type="PDF" Created="2020-05-14 12:31:21 -0400" Modified="2020-05-19 14:40:39 -0400">
+                    <Title>Burke - 2004 - GM food and crops what went wrong in the UK Man</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                </BinderItem>
+                <BinderItem UUID="641D2A64-E3AF-4CDC-A27A-9801D820E12C" Type="PDF" Created="2020-05-14 12:34:29 -0400" Modified="2020-05-14 12:34:29 -0400">
+                    <Title>Dawe and Unnevehr - Crop Case Study GMO Golden Rice in Asia with Enha</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                </BinderItem>
+                <BinderItem UUID="FA7F31DC-AB96-4D73-B11B-DF8983A821D8" Type="PDF" Created="2020-05-21 15:35:43 -0400" Modified="2020-05-21 15:35:43 -0400">
+                    <Title>Fagerström et al. - 2012 - Stop worrying; start growing Risk research on GM </Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>0</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="207B8874-71C9-4EF7-80D3-577FB68FA2C4" Type="PDF" Created="2020-05-14 12:38:53 -0400" Modified="2020-05-14 12:38:53 -0400">
+                    <Title>Bazuin et al. - 2011 - Application of GM crops in Sub-Saharan Africa Les</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                </BinderItem>
+                <BinderItem UUID="E9E457A2-9E49-4234-9036-23B1D857D1B4" Type="PDF" Created="2020-05-14 12:39:59 -0400" Modified="2020-05-14 12:39:59 -0400">
+                    <Title>Falck-Zepeda et al. - 2013 - Genetically modified crops in Africa economic and</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                </BinderItem>
+                <BinderItem UUID="240824A1-37FB-46C1-98D5-494E42FFFCC2" Type="PDF" Created="2020-05-14 12:35:10 -0400" Modified="2020-05-14 12:35:10 -0400">
+                    <Title>Paull - 2015 - GMOS AND ORGANIC AGRICULTURE SIX LESSONS FROM AUS</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                </BinderItem>
+                <BinderItem UUID="C7046333-AD28-4BF2-9309-0DCBFC423953" Type="PDF" Created="2020-05-14 12:33:34 -0400" Modified="2020-05-14 12:33:34 -0400">
+                    <Title>Bruce - 2017 - Genome edited animals Learning from GM crops</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                </BinderItem>
+                <BinderItem UUID="85905494-5A75-43C5-8315-1AF462C9BD61" Type="WebArchive" Created="2020-07-13 14:13:26 -0400" Modified="2020-07-13 14:13:26 -0400">
+                    <Title>ISAAA Brief</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>webarchive</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>http://www.isaaa.org/resources/publications/briefs/54/executivesummary/default.asp</OriginalURL>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="40D74434-9A38-4603-ACE6-063034742229" Type="PDF" Created="2020-05-18 15:35:08 -0400" Modified="2020-05-18 15:35:08 -0400">
+                    <Title>Barragán-Ocaña et al. - 2019 - Transgenic crops trends and dynamics in the world</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="17FEDAE0-374C-4024-85EE-3D0BA6990237" Type="TrashFolder" Created="2020-07-12 23:57:12 -0400" Modified="2020-07-12 23:57:12 -0400">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem UUID="B79CC680-F121-4D4A-B288-8E46AF57F04F" Type="Text" Created="2020-07-13 00:07:44 -0400" Modified="2020-07-13 00:07:53 -0400">
+                    <Title>Abstract</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="61567624-B2EA-4636-990A-6C7C985C0242" Type="Text" Created="2020-07-13 00:12:41 -0400" Modified="2020-07-13 00:14:17 -0400">
+                    <Title>Statuss of GMO Deplowyment</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="80502976-F5FB-4F3E-BA2B-5290DB0BD15D" Type="Text" Created="2020-07-13 14:05:39 -0400" Modified="2020-07-13 14:05:41 -0400">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="0A915F3B-A97E-4B17-A3C1-8FFE823209B6" Type="PDF" Created="2020-05-21 15:35:43 -0400" Modified="2020-05-21 15:35:43 -0400">
+                    <Title>Fagerström et al. - 2012 - Stop worrying; start growing Risk research on GM </Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                </BinderItem>
+                <BinderItem UUID="307E0DF0-38EF-492A-8970-72878B56FAD6" Type="Text" Created="2020-07-13 14:07:35 -0400" Modified="2020-07-13 14:07:37 -0400">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="E4FF56C9-CFB2-4F0C-93CD-2E2BE80C6DB5" Type="Text" Created="2020-07-13 14:08:51 -0400" Modified="2020-07-13 14:08:51 -0400">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="74ED794A-A8E7-4BB2-82DC-C41202A773EF" Type="WebArchive" Created="2020-07-13 14:11:31 -0400" Modified="2020-07-13 14:11:31 -0400">
+                    <Title>     
+
+ISAAA Brief 54-2018: Executive Summary
+Biotech Crops Continue to Help Meet the Challenges of Increased Population and Climate Change</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>webarchive</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>http://www.isaaa.org/resources/publications/briefs/54/executivesummary/default.asp</OriginalURL>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="9EB009D9-8471-4C5D-B3D0-23089D45E028" Type="WebArchive" Created="2020-07-13 14:12:41 -0400" Modified="2020-07-13 14:12:41 -0400">
+                    <Title>ISAAA Brief 54-2018</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>webarchive</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>http://www.isaaa.org/resources/publications/briefs/54/executivesummary/default.asp%0A%0AISAAA%20Brief%2054-2018:%20Executive%20Summary%0ABiotech%20Crops%20Continue%20to%20Help%20Meet%20the%20Challenges%20of%20Increased%20Population%20and%20Climate%20Change</OriginalURL>
+                    </MediaSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="738590DC-7742-4737-B719-D789823214D6" Color="0.867145 0.834537 0.71934">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="09FF5E82-635F-4E22-A8EB-FAD8B43FF4A2" Color="0.632608 0.634196 0.802974">
+            <Title>Search Results</Title>
+        </Collection>
+    </Collections>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="68B93CDB-E3E6-40B7-91C3-FA211E652988">Heading</Type>
+            <Type ID="2FB31B55-043B-4839-8855-B503E34EA1A5">Sub-Heading</Type>
+            <Type ID="238DF250-B8A3-485A-B6C6-3E52363D2127">Section</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>68B93CDB-E3E6-40B7-91C3-FA211E652988</Type>
+            </Folders>
+            <Containers>
+                <Type>238DF250-B8A3-485A-B6C6-3E52363D2127</Type>
+            </Containers>
+            <Files>
+                <Type>238DF250-B8A3-485A-B6C6-3E52363D2127</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.993495 0.701207 0.732587">Red</Label>
+            <Label ID="1" Color="0.995418 0.790946 0.652385">Orange</Label>
+            <Label ID="2" Color="0.997722 0.89273 0.652569">Yellow</Label>
+            <Label ID="3" Color="0.715855 0.948712 0.697692">Green</Label>
+            <Label ID="4" Color="0.702319 0.888276 0.974252">Blue</Label>
+            <Label ID="5" Color="0.957566 0.766747 0.999616">Purple</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">To Do</Status>
+            <Status ID="1">In Progress</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-07-12 23:57:11 -0400" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-07-14 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="119" Characters="719" Date="2020-07-13 18:21:25 -0400"/>
+    </ProjectTargets>
+    <RecentWritingHistory Date="2020-07-13 00:00:00 -0400">
+        <DraftWordCount>119</DraftWordCount>
+        <DraftCharCount>719</DraftCharCount>
+        <OtherWordCount>59</OtherWordCount>
+        <OtherCharCount>475</OtherCharCount>
+    </RecentWritingHistory>
+    <PrintSettings PaperSize="611.999975,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+</ScrivenerProject>
