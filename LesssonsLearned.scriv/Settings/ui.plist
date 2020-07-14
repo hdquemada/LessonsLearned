@@ -3,11 +3,48 @@
 <plist version="1.0">
 <dict>
 	<key>CompileFolder</key>
-	<string>/Users/Hector/Science Team FNIH Dropbox/Hector Quemada/Downloads</string>
+	<string>/Users/hquemada/Desktop</string>
 	<key>NotesScaleFactor</key>
 	<real>1.5</real>
 	<key>QRPanelSettings</key>
 	<dict>
+		<key>07960FE3-31F0-41A3-80D3-D8ADC48983A7</key>
+		<dict>
+			<key>BinderUUID</key>
+			<string>07960FE3-31F0-41A3-80D3-D8ADC48983A7</string>
+			<key>CurrentMetaData</key>
+			<integer>-1</integer>
+			<key>MainPaneWidth</key>
+			<real>475</real>
+			<key>MediaSettings</key>
+			<dict>
+				<key>PDFPage</key>
+				<integer>2</integer>
+			</dict>
+			<key>PDFAutoScales</key>
+			<false/>
+			<key>PDFDisplayMode</key>
+			<integer>1</integer>
+			<key>PDFScale</key>
+			<real>1</real>
+			<key>ProjectBookmarksSplitInfo</key>
+			<array>
+				<string>{{0, 0}, {225, 495}}</string>
+				<string>{{235, 0}, {443, 495}}</string>
+			</array>
+			<key>ProjectBookmarksVisible</key>
+			<false/>
+			<key>ShowsFormatBar</key>
+			<false/>
+			<key>ShowsMetaData</key>
+			<false/>
+			<key>SplitInfo</key>
+			<array>
+				<string>{{0, 277}, {475, 167}}</string>
+			</array>
+			<key>WindowFrame</key>
+			<string>1042 -608 475 522 640 -800 1280 778 </string>
+		</dict>
 		<key>AC2B3649-E410-4B57-A92A-9256963927A0</key>
 		<dict>
 			<key>BinderUUID</key>
@@ -58,18 +95,14 @@
 	<false/>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {256, 697}}</string>
+		<string>{{0, 0}, {226, 969}}</string>
+		<string>{{227, 0}, {1453, 969}}</string>
 	</array>
 	<key>binderWidth</key>
-	<real>225</real>
+	<real>226</real>
 	<key>bookmarksSelectionInfo</key>
 	<dict>
 		<key>07960FE3-31F0-41A3-80D3-D8ADC48983A7</key>
-		<dict>
-			<key>Row</key>
-			<integer>-1</integer>
-		</dict>
-		<key>0A915F3B-A97E-4B17-A3C1-8FFE823209B6</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -84,11 +117,6 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
-		<key>307E0DF0-38EF-492A-8970-72878B56FAD6</key>
-		<dict>
-			<key>Row</key>
-			<integer>-1</integer>
-		</dict>
 		<key>40D74434-9A38-4603-ACE6-063034742229</key>
 		<dict>
 			<key>Row</key>
@@ -99,22 +127,7 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
-		<key>61567624-B2EA-4636-990A-6C7C985C0242</key>
-		<dict>
-			<key>Row</key>
-			<integer>-1</integer>
-		</dict>
 		<key>641D2A64-E3AF-4CDC-A27A-9801D820E12C</key>
-		<dict>
-			<key>Row</key>
-			<integer>-1</integer>
-		</dict>
-		<key>74ED794A-A8E7-4BB2-82DC-C41202A773EF</key>
-		<dict>
-			<key>Row</key>
-			<integer>-1</integer>
-		</dict>
-		<key>80502976-F5FB-4F3E-BA2B-5290DB0BD15D</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -124,7 +137,7 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
-		<key>9EB009D9-8471-4C5D-B3D0-23089D45E028</key>
+		<key>9853FFEC-B69D-476B-884C-74F44DC44264</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -144,17 +157,12 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
-		<key>B79CC680-F121-4D4A-B288-8E46AF57F04F</key>
+		<key>C4EA4997-736B-4FC5-96F7-39F0475DF247</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
 		<key>C7046333-AD28-4BF2-9309-0DCBFC423953</key>
-		<dict>
-			<key>Row</key>
-			<integer>-1</integer>
-		</dict>
-		<key>E4FF56C9-CFB2-4F0C-93CD-2E2BE80C6DB5</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -169,6 +177,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>Project</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 	</dict>
 	<key>collectionsRepresentedBinderDocumentsInfo</key>
 	<dict>
@@ -179,7 +192,7 @@
 	</dict>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{527, 0}, {527, 677}}</string>
+		<string>{{0, 0}, {1092, 224}}</string>
 	</array>
 	<key>fullScreenBackgroundFade</key>
 	<real>1</real>
@@ -202,7 +215,7 @@
 	<integer>2</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {256, 697}}</string>
+		<string>{{0, 0}, {336, 959}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>245</real>
@@ -210,27 +223,31 @@
 	<integer>1</integer>
 	<key>mainDocumentEditor.PDFAutoScales</key>
 	<false/>
+	<key>mainDocumentEditor.PDFScale</key>
+	<real>2.0974509716033936</real>
 	<key>mainDocumentEditor.dockedQRTextSettings</key>
 	<dict>
 		<key>textScaleFactor</key>
 		<real>1.5</real>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {341.33333333333331, 414}}</string>
+	<string>{{0, 0}, {484.33333333333331, 294.33333333333331}}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
-		<real>1.5</real>
+		<real>3</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>640 -751 1280 729 640 -800 1280 800 </string>
+	<string>0 36 1680 991 0 0 1680 1027 </string>
+	<key>supportingDocumentEditor.PDFAutoScales</key>
+	<false/>
 	<key>supportingDocumentEditor.dockedQRTextSettings</key>
 	<dict>
 		<key>textScaleFactor</key>
 		<real>1.5</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {620, 319.42857142857144}}</string>
+	<string>{{0, 0}, {620, 294}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
