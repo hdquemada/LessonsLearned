@@ -95,8 +95,8 @@
 	<false/>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {226, 969}}</string>
-		<string>{{227, 0}, {1453, 969}}</string>
+		<string>{{0, 0}, {175, 969}}</string>
+		<string>{{176, 0}, {1504, 969}}</string>
 	</array>
 	<key>binderWidth</key>
 	<real>226</real>
@@ -122,6 +122,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>4409E488-9A09-443A-BC1E-E5BE0BDCB8F2</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>5428C32E-4196-4E19-A5BB-EC1DB818A524</key>
 		<dict>
 			<key>Row</key>
@@ -132,12 +137,32 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>80ACAF6C-B0E3-4925-8DDF-A4035CE62721</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>85905494-5A75-43C5-8315-1AF462C9BD61</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>86AA508A-2253-43B1-A39F-E192A05A826A</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>8C7C70EF-B92F-4EBC-AD7A-4C8086F722F7</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>9853FFEC-B69D-476B-884C-74F44DC44264</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>9BB87261-2AAD-40A9-8431-EBC9A5A582FE</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -157,12 +182,22 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>BFC6B620-8F17-4B50-811F-3E1E28A1877C</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>C4EA4997-736B-4FC5-96F7-39F0475DF247</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
 		<key>C7046333-AD28-4BF2-9309-0DCBFC423953</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>DA9A04FD-6977-4FEF-BB48-DEADAC2BF5A9</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -192,7 +227,7 @@
 	</dict>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {1092, 224}}</string>
+		<string>{{429, 0}, {429, 677}}</string>
 	</array>
 	<key>fullScreenBackgroundFade</key>
 	<real>1</real>
@@ -231,11 +266,11 @@
 		<real>1.5</real>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {484.33333333333331, 294.33333333333331}}</string>
+	<string>{{0, 0}, {620, 294}}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
-		<real>3</real>
+		<real>2</real>
 	</dict>
 	<key>mainWindowFrame</key>
 	<string>0 36 1680 991 0 0 1680 1027 </string>
@@ -247,11 +282,11 @@
 		<real>1.5</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {620, 294}}</string>
+	<string>{{0, 0}, {620, 425.5}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
-		<real>1.75</real>
+		<real>2</real>
 	</dict>
 	<key>supportingDocumentViewIsCurrent</key>
 	<false/>

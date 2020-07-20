@@ -73,5 +73,7 @@
         <Print>DEFAULT</Print>
         <odt>DEFAULT</odt>
         <rtf>DEFAULT</rtf>
+        <pdf>DEFAULT</pdf>
+        <docx>DEFAULT</docx>
     </LastUsedFormats>
 </CompileSettings>
