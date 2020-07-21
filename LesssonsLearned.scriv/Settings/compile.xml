@@ -59,7 +59,7 @@
             </MMDMetaData>
         </MetaData>
     </ProjectSettings>
-    <CurrentFileType>odt</CurrentFileType>
+    <CurrentFileType>rtf</CurrentFileType>
     <FormatSettings>
         <Format ID="DEFAULT">
             <Font>TimesNewRomanPSMT</Font>
@@ -68,11 +68,19 @@
                 <Type ID="238DF250-B8A3-485A-B6C6-3E52363D2127">TEXT-SECTION</Type>
             </SectionLayouts>
         </Format>
+        <Format ID="8CA93A0A-259C-4F7B-9823-F33EA0052B26">
+            <Font>TimesNewRomanPSMT</Font>
+            <SectionLayouts>
+                <Type ID="68B93CDB-E3E6-40B7-91C3-FA211E652988">TEXT-WITH-HEADER</Type>
+                <Type ID="2FB31B55-043B-4839-8855-B503E34EA1A5">AS-IS</Type>
+                <Type ID="238DF250-B8A3-485A-B6C6-3E52363D2127">TEXT-SECTION</Type>
+            </SectionLayouts>
+        </Format>
     </FormatSettings>
     <LastUsedFormats>
         <Print>DEFAULT</Print>
-        <odt>DEFAULT</odt>
-        <rtf>DEFAULT</rtf>
+        <odt>8CA93A0A-259C-4F7B-9823-F33EA0052B26</odt>
+        <rtf>8CA93A0A-259C-4F7B-9823-F33EA0052B26</rtf>
         <pdf>DEFAULT</pdf>
         <docx>DEFAULT</docx>
     </LastUsedFormats>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="CAS-QuemHe19L1" Author="Hector Quemada" Modified="2020-07-19 17:33:42 -0400" ModID="580BFD81-BE01-4B94-97FC-83801C85B21E">
+<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="OSX-HQUEMADA" Author="Hector" Modified="2020-07-21 14:05:37 -0400" ModID="6E7210BA-DF81-4F89-BF69-66CC40724A40">
     <Binder>
         <BinderItem UUID="635EBC13-D148-438A-B009-59019784F6EC" Type="DraftFolder" Created="2020-07-12 23:57:12 -0400" Modified="2020-07-12 23:57:12 -0400">
             <Title>Draft</Title>
@@ -11,11 +11,8 @@
                 <CorkboardSettings>
                     <Arrangement>Linear</Arrangement>
                     <FreeformCorkboardDocuments>
-                        <IndexCardBinderUUID Position="0.086667,0.7466" TimeStamp="2020-07-15 13:27:16 -0400">ACC8EDB0-AB6A-4E19-BD6D-95ED1CC5540D</IndexCardBinderUUID>
-                        <IndexCardBinderUUID Position="2.186667,0.133333" TimeStamp="2020-07-15 13:27:16 -0400">AC2B3649-E410-4B57-A92A-9256963927A0</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="1.18,0.09" TimeStamp="2020-07-15 13:27:16 -0400">A2920E67-208B-4E4D-B4CF-A1FB3493FB59</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="0.18,0.043333" TimeStamp="2020-07-15 13:27:16 -0400">5428C32E-4196-4E19-A5BB-EC1DB818A524</IndexCardBinderUUID>
-                        <IndexCardBinderUUID Position="1.126667,0.829933" TimeStamp="2020-07-15 13:27:16 -0400">86AA508A-2253-43B1-A39F-E192A05A826A</IndexCardBinderUUID>
                     </FreeformCorkboardDocuments>
                 </CorkboardSettings>
             </CorkboardAndOutliner>
@@ -26,7 +23,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>114,0</TextSelection>
+                        <TextSelection>104,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="A2920E67-208B-4E4D-B4CF-A1FB3493FB59" Type="Text" Created="2020-07-13 00:08:52 -0400" Modified="2020-07-13 13:27:44 -0400">
@@ -38,31 +35,150 @@
                         <TextSelection>9,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="AC2B3649-E410-4B57-A92A-9256963927A0" Type="Text" Created="2020-07-13 00:14:34 -0400" Modified="2020-07-13 13:27:38 -0400">
-                    <Title>Status of GMO Deployment</Title>
+                <BinderItem UUID="ED927E96-CEE9-48B7-8BFF-A7329E7FBE72" Type="Text" Created="2020-07-21 00:38:26 -0400" Modified="2020-07-21 13:53:42 -0400">
+                    <Title>Table of Contents</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>33,0</TextSelection>
+                        <TextSelection>392,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="ACC8EDB0-AB6A-4E19-BD6D-95ED1CC5540D" Type="Text" Created="2020-07-13 13:21:04 -0400" Modified="2020-07-14 00:56:35 -0400">
-                    <Title>Review of Literature</Title>
+                <BinderItem UUID="DF6F13B3-93B8-4259-AC06-F48860307264" Type="Folder" Created="2020-07-21 00:35:01 -0400" Modified="2020-07-21 00:35:17 -0400">
+                    <Title>Introduction</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>42,0</TextSelection>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="16B6DED4-D60B-48C9-8995-A21012A4B1C0" Type="Folder" Created="2020-07-21 00:31:15 -0400" Modified="2020-07-21 00:32:23 -0400">
+                            <Title>GM Crop Status</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="AC2B3649-E410-4B57-A92A-9256963927A0" Type="Text" Created="2020-07-13 00:14:34 -0400" Modified="2020-07-21 14:05:37 -0400">
+                                    <Title>Status of GMO Crop Deployment</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>626,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="1BD71837-690A-4164-BD05-AC224D4D7BD9" Type="Folder" Created="2020-07-20 14:45:02 -0400" Modified="2020-07-20 14:45:45 -0400">
+                            <Title>Opposition to GM Crops</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="D3B4BCD3-E260-457B-84D5-5798402D7F13" Type="Folder" Created="2020-07-20 14:46:01 -0400" Modified="2020-07-20 14:52:11 -0400">
+                                    <Title>A story from Africa</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>35,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="4BF20E70-73B6-42D2-99F7-7CB31B1EB651" Type="Text" Created="2020-07-20 14:45:18 -0400" Modified="2020-07-21 13:35:30 -0400">
+                                            <Title>The case of opposition to GM maize despite the need for food</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>255,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="DFEB0688-F95A-44F8-A58C-A570215022BC" Type="Text" Created="2020-07-20 14:00:09 -0400" Modified="2020-07-20 14:44:08 -0400">
+                                            <Title>Huffman 2003</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>373,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem UUID="13D0027A-8C59-4DFE-868F-D996751FAD4E" Type="Folder" Created="2020-07-20 14:52:34 -0400" Modified="2020-07-20 14:52:42 -0400">
+                                    <Title>European Opposition</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="F6783F3E-3C73-4317-9407-0DB0AE93E416" Type="Text" Created="2020-07-20 15:25:11 -0400" Modified="2020-07-20 15:25:53 -0400">
+                                            <Title>Experience of GM crop approvals in Europe</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="C4EA4997-736B-4FC5-96F7-39F0475DF247" Type="Text" Created="2020-07-13 19:11:44 -0400" Modified="2020-07-20 10:36:53 -0400">
+                                            <Title> Burke, 2004</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="D8463700-FFD7-47F5-86C6-67A2A903D658" Type="Text" Created="2020-07-20 15:01:00 -0400" Modified="2020-07-20 15:04:54 -0400">
+                                            <Title>Zerbe</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>259,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem UUID="68EFCE19-D7DC-411A-8308-49179E4BC481" Type="Folder" Created="2020-07-20 15:26:10 -0400" Modified="2020-07-20 15:26:58 -0400">
+                                    <Title>Opposition Elsewhere</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="144E9C88-34CF-44BF-9A55-A70A581D19DE" Type="Folder" Created="2020-07-21 00:33:35 -0400" Modified="2020-07-21 00:34:29 -0400">
+                    <Title>Studies on GM Crop Acceptance</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="86AA508A-2253-43B1-A39F-E192A05A826A" Type="Text" Created="2020-07-14 19:42:27 -0400" Modified="2020-07-15 13:23:57 -0400">
-                    <Title>References</Title>
+                <BinderItem UUID="0DB1E929-F6B8-4428-B3BD-7F2EE70FDC81" Type="Folder" Created="2020-07-21 00:34:39 -0400" Modified="2020-07-21 00:34:45 -0400">
+                    <Title>Lessons Learned</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>494,0</TextSelection>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -94,38 +210,26 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem UUID="9853FFEC-B69D-476B-884C-74F44DC44264" Type="Folder" Created="2020-07-13 19:13:30 -0400" Modified="2020-07-13 19:13:42 -0400">
-                    <Title>Burke, 2004</Title>
+                <BinderItem UUID="07960FE3-31F0-41A3-80D3-D8ADC48983A7" Type="PDF" Created="2020-05-14 12:31:21 -0400" Modified="2020-05-19 14:40:39 -0400">
+                    <Title>Burke - 2004 - GM food and crops what went wrong in the UK Man</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
                     </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                    <CorkboardAndOutliner>
-                        <SelectedSubdocumentUUIDs>07960FE3-31F0-41A3-80D3-D8ADC48983A7</SelectedSubdocumentUUIDs>
-                    </CorkboardAndOutliner>
-                    <Children>
-                        <BinderItem UUID="C4EA4997-736B-4FC5-96F7-39F0475DF247" Type="Text" Created="2020-07-13 19:11:44 -0400" Modified="2020-07-13 19:17:09 -0400">
-                            <Title> Burke, 2004</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>718,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="07960FE3-31F0-41A3-80D3-D8ADC48983A7" Type="PDF" Created="2020-05-14 12:31:21 -0400" Modified="2020-05-19 14:40:39 -0400">
-                            <Title>Burke - 2004 - GM food and crops what went wrong in the UK Man</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>pdf</FileExtension>
-                            </MetaData>
-                            <MediaSettings>
-                                <CurrentPDFPage>0</CurrentPDFPage>
-                            </MediaSettings>
-                        </BinderItem>
-                    </Children>
+                    <MediaSettings>
+                        <CurrentPDFPage>4</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="710D72B6-F02F-42B0-9BAD-05089998EDE6" Type="PDF" Created="2020-07-20 10:38:55 -0400" Modified="2020-07-20 10:48:05 -0400">
+                    <Title>GM Science Review Second Report</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>0</CurrentPDFPage>
+                        <IsAlias Path="/Users/Hector/Science Team FNIH Dropbox/Hector Quemada/ZoteroLibrary/GM Science Review Second Report.pdf">Yes</IsAlias>
+                    </MediaSettings>
                 </BinderItem>
                 <BinderItem UUID="641D2A64-E3AF-4CDC-A27A-9801D820E12C" Type="PDF" Created="2020-05-14 12:34:29 -0400" Modified="2020-05-14 12:34:29 -0400">
                     <Title>Dawe and Unnevehr - Crop Case Study GMO Golden Rice in Asia with Enha</Title>
@@ -239,6 +343,58 @@
                         <TextSelection>380,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="DA51A9BD-BAA4-429F-BD21-5DD3CDA803AC" Type="PDF" Created="2020-06-29 16:47:10 -0400" Modified="2020-06-29 16:47:10 -0400">
+                    <Title>Chvatalova-2019-A-critical-evaluation-of-efsas-envi</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <IsAlias Path="/Users/Hector/Science Team FNIH Dropbox/Hector Quemada/GeneConvene/AdvisoryBoardMeeting/LessonsLearned/Chvatalova-2019-A-critical-evaluation-of-efsas-envi.pdf">Yes</IsAlias>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="F18FBF40-C54C-46B2-AAFE-4B9FEB0AF9B3" Type="PDF" Created="2020-07-20 14:49:51 -0400" Modified="2020-07-20 14:49:51 -0400">
+                    <Title>Zerbe - 2004 - Feeding the famine American food aid and the GMO </Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>0</CurrentPDFPage>
+                        <IsAlias Path="/Users/Hector/Science Team FNIH Dropbox/Hector Quemada/ZoteroLibrary/Zerbe - 2004 - Feeding the famine American food aid and the GMO .pdf">Yes</IsAlias>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="96DE8886-5AB0-44FF-8ADF-64C60241255A" Type="PDF" Created="2020-07-20 10:35:16 -0400" Modified="2020-07-20 10:35:16 -0400">
+                    <Title>Huffman et al. - Better Dead than GM-Fed Information and the Effec</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>3</CurrentPDFPage>
+                        <IsAlias Path="/Users/Hector/Science Team FNIH Dropbox/Hector Quemada/ZoteroLibrary/Huffman et al. - Better Dead than GM-Fed Information and the Effec.pdf">Yes</IsAlias>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="4D966E87-97C8-4688-82F2-3AB11AE24B67" Type="PDF" Created="2020-07-20 14:57:09 -0400" Modified="2020-07-20 14:57:10 -0400">
+                    <Title>Dorward and Kydd - 2004 - The Malawi 2002 food crisis the rural development</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>0</CurrentPDFPage>
+                        <IsAlias Path="/Users/Hector/Science Team FNIH Dropbox/Hector Quemada/ZoteroLibrary/Dorward and Kydd - 2004 - The Malawi 2002 food crisis the rural development.pdf">Yes</IsAlias>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="86AA508A-2253-43B1-A39F-E192A05A826A" Type="Text" Created="2020-07-14 19:42:27 -0400" Modified="2020-07-15 13:23:57 -0400">
+                    <Title>References</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>494,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem UUID="17FEDAE0-374C-4024-85EE-3D0BA6990237" Type="TrashFolder" Created="2020-07-12 23:57:12 -0400" Modified="2020-07-12 23:57:12 -0400">
@@ -246,6 +402,58 @@
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
+            <Children>
+                <BinderItem UUID="D267C100-3D1B-4B58-A324-A91C61E2A127" Type="Other" Created="2020-07-20 09:50:47 -0400" Modified="2020-07-20 09:50:47 -0400">
+                    <Title>Test</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>scap</FileExtension>
+                        <PreferredExternalApplication>/Applications/Scapple.app</PreferredExternalApplication>
+                    </MetaData>
+                </BinderItem>
+                <BinderItem UUID="1ED91A0D-92D3-4BC3-B920-1ACC2A756357" Type="Other" Created="2020-07-20 13:43:04 -0400" Modified="2020-07-20 13:55:25 -0400">
+                    <Title>Huffman</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>scap</FileExtension>
+                    </MetaData>
+                </BinderItem>
+                <BinderItem UUID="ED67A894-EEEA-40D2-9CF7-8B939C986417" Type="Text" Created="2020-07-20 14:23:43 -0400" Modified="2020-07-20 14:23:43 -0400">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="9853FFEC-B69D-476B-884C-74F44DC44264" Type="Folder" Created="2020-07-13 19:13:30 -0400" Modified="2020-07-13 19:13:42 -0400">
+                    <Title>Burke, 2004</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="EF75DCD1-7A2A-44B0-9C7B-45F74D00C25A" Type="Folder" Created="2020-07-20 13:55:43 -0400" Modified="2020-07-20 13:55:51 -0400">
+                    <Title>Huffman et al</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="ACC8EDB0-AB6A-4E19-BD6D-95ED1CC5540D" Type="Text" Created="2020-07-13 13:21:04 -0400" Modified="2020-07-20 14:14:31 -0400">
+                    <Title>Review of Literature</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>233,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
     </Binder>
     <Collections>
@@ -302,14 +510,14 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-07-12 23:57:11 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-07-20 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2020-07-19 17:22:13 -0400"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-07-22 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="89" Characters="591" Date="2020-07-21 09:34:52 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-07-19 00:00:00 -0400">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>62</OtherWordCount>
-        <OtherCharCount>666</OtherCharCount>
+    <RecentWritingHistory Date="2020-07-21 00:00:00 -0400">
+        <DraftWordCount>89</DraftWordCount>
+        <DraftCharCount>591</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999975,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>

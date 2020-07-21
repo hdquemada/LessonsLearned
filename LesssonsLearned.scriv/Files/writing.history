@@ -3,5 +3,7 @@
     <Day dwc="119" dcc="719" dtwc="119" owc="177" occ="1193" dtcc="719">2020-07-13</Day>
     <Day dwc="242" dcc="1672" owc="0" occ="0">2020-07-14</Day>
     <Day dwc="0" dcc="0" dtwc="0" owc="38" occ="219" dtcc="0">2020-07-15</Day>
-    <Day dwc="0" dcc="0" owc="17" occ="143">2020-07-19</Day>
+    <Day dwc="0" dcc="0" dtwc="0" owc="62" occ="666" dtcc="0">2020-07-19</Day>
+    <Day dwc="148" dcc="1049" dtwc="0" owc="170" occ="1117" dtcc="0">2020-07-20</Day>
+    <Day dwc="89" dcc="591" owc="0" occ="0">2020-07-21</Day>
 </WritingHistory>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CompileFolder</key>
-	<string>/Users/hquemada/Desktop</string>
+	<string>/Users/Hector/Science Team FNIH Dropbox/Hector Quemada/GeneConvene/AdvisoryBoardMeeting/LessonsLearned</string>
 	<key>NotesScaleFactor</key>
 	<real>1.5</real>
 	<key>QRPanelSettings</key>
@@ -93,16 +93,52 @@
 	</dict>
 	<key>SuppressBookmarksFolderCheck</key>
 	<false/>
+	<key>ToCIndent</key>
+	<real>36</real>
+	<key>ToCRightMargin</key>
+	<real>467.99997521926775</real>
+	<key>ToCUsePageWidth</key>
+	<true/>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {175, 969}}</string>
-		<string>{{176, 0}, {1504, 969}}</string>
+		<string>{{0, 0}, {175, 707}}</string>
+		<string>{{176, 0}, {1104, 707}}</string>
 	</array>
 	<key>binderWidth</key>
-	<real>226</real>
+	<real>175</real>
 	<key>bookmarksSelectionInfo</key>
 	<dict>
 		<key>07960FE3-31F0-41A3-80D3-D8ADC48983A7</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>0DB1E929-F6B8-4428-B3BD-7F2EE70FDC81</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>13D0027A-8C59-4DFE-868F-D996751FAD4E</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>144E9C88-34CF-44BF-9A55-A70A581D19DE</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>16B6DED4-D60B-48C9-8995-A21012A4B1C0</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>1BD71837-690A-4164-BD05-AC224D4D7BD9</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>1ED91A0D-92D3-4BC3-B920-1ACC2A756357</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -127,12 +163,32 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>4BF20E70-73B6-42D2-99F7-7CB31B1EB651</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>4D966E87-97C8-4688-82F2-3AB11AE24B67</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>5428C32E-4196-4E19-A5BB-EC1DB818A524</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
 		<key>641D2A64-E3AF-4CDC-A27A-9801D820E12C</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>68EFCE19-D7DC-411A-8308-49179E4BC481</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>710D72B6-F02F-42B0-9BAD-05089998EDE6</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -153,6 +209,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>8C7C70EF-B92F-4EBC-AD7A-4C8086F722F7</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>96DE8886-5AB0-44FF-8ADF-64C60241255A</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -197,12 +258,57 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>D3B4BCD3-E260-457B-84D5-5798402D7F13</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>D8463700-FFD7-47F5-86C6-67A2A903D658</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>DA9A04FD-6977-4FEF-BB48-DEADAC2BF5A9</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>DF6F13B3-93B8-4259-AC06-F48860307264</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>DFEB0688-F95A-44F8-A58C-A570215022BC</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>E9E457A2-9E49-4234-9036-23B1D857D1B4</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>ED67A894-EEEA-40D2-9CF7-8B939C986417</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>ED927E96-CEE9-48B7-8BFF-A7329E7FBE72</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>EF75DCD1-7A2A-44B0-9C7B-45F74D00C25A</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>F18FBF40-C54C-46B2-AAFE-4B9FEB0AF9B3</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>F6783F3E-3C73-4317-9407-0DB0AE93E416</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -227,7 +333,7 @@
 	</dict>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{429, 0}, {429, 677}}</string>
+		<string>{{543, 0}, {561, 677}}</string>
 	</array>
 	<key>fullScreenBackgroundFade</key>
 	<real>1</real>
@@ -250,7 +356,7 @@
 	<integer>2</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {336, 959}}</string>
+		<string>{{0, 0}, {256, 697}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>245</real>
@@ -266,23 +372,25 @@
 		<real>1.5</real>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {620, 294}}</string>
+	<string>{{0, 0}, {544.5, 310.5}}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
 		<real>2</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>0 36 1680 991 0 0 1680 1027 </string>
+	<string>640 -751 1280 729 640 -800 1280 778 </string>
 	<key>supportingDocumentEditor.PDFAutoScales</key>
 	<false/>
+	<key>supportingDocumentEditor.PDFScale</key>
+	<real>1.9999520778656006</real>
 	<key>supportingDocumentEditor.dockedQRTextSettings</key>
 	<dict>
 		<key>textScaleFactor</key>
 		<real>1.5</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {620, 425.5}}</string>
+	<string>{{0, 0}, {273, 295}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>

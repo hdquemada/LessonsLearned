@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScappleDocument Version="1.1" ID="270E04E4-72A3-4391-BEBB-BDA8C9588168">
+    <Notes>
+        <Note ID="0" FontSize="11.0" Position="164.0,62.0" Width="531.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <TextColor>0.0 0.0 0.0</TextColor>
+                <Border Weight="1" Style="Square"></Border>
+            </Appearance>
+            <String>Why the resistance of Presidents of southern African countries to food aid in 2002?
+
+
+There was a food crisis in southern Africa 2011-2003, due to drought and bad public policy.
+
+&gt; 15 million people were “dangerously hungry in Zambia, Mosambique, Malawi, Zimbabwe, Swaziland and Lesotho.
+
+Maize is the staple.
+
+1. NGOs let by Greenpeace and Friends of the Earth are disseminating information claiming that GM foods are dangerous to human health and are “Frankenfoods.” 
+
+
+
+ 2. people in European Union countries, who are not in any danger of starvation, have strong preferences for non-GM foods, which they can easily afford. </String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,85</FormatRange>
+            </Formatting>
+        </Note>
+    </Notes>
+    <BackgroundShapes></BackgroundShapes>
+    <NoteStyles>
+        <Style Name="Bubble (Blue)" ID="651E0541-EFAC-471A-B55C-5C01A8230801" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.561855 0.71062 0.779401</BorderColor>
+            <FillColor>0.702319 0.888276 0.974252</FillColor>
+        </Style>
+        <Style Name="Bubble (Green)" ID="2533E135-439F-4209-A234-F1E6AB3169F2" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.572684 0.758969 0.558154</BorderColor>
+            <FillColor>0.715855 0.948712 0.697692</FillColor>
+        </Style>
+        <Style Name="Bubble (Pink)" ID="1D9321FD-AB11-4F73-9CE8-3C9E06474AAE" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.794796 0.560965 0.58607</BorderColor>
+            <FillColor>0.957566 0.766747 0.999616</FillColor>
+        </Style>
+        <Style Name="Bubble (Red)" ID="A07B8BBC-76D4-4AA9-BAE2-D9CECD648A54" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.794796 0.560965 0.58607</BorderColor>
+            <FillColor>0.993495 0.701207 0.732587</FillColor>
+        </Style>
+        <Style Name="Bubble (Yellow)" ID="E448DF2B-FF34-4421-B2D4-135796857771" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.798177 0.714184 0.522055</BorderColor>
+            <FillColor>0.997722 0.89273 0.652569</FillColor>
+        </Style>
+        <Style Name="Red Text" ID="C17A8A12-B9C9-4427-AAD1-2EA883B90ECF" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="Yes" AffectNoteBody="No" AffectFade="No">
+            <TextColor>0.985948 0.0 0.026951</TextColor>
+        </Style>
+        <Style Name="Title Text" ID="262FD089-6841-4F21-840E-7CED8A58B9ED" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="No" AffectNoteBody="No" AffectFade="No">
+            <FontSize>28.0</FontSize>
+            <IsBold>Yes</IsBold>
+        </Style>
+    </NoteStyles>
+    <UISettings>
+        <BackgroundColor>0.989434 0.957944 0.86406</BackgroundColor>
+        <DefaultFont>Verdana</DefaultFont>
+        <DefaultTextColor>0.27672 0.35666 0.382985</DefaultTextColor>
+    </UISettings>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScappleDocument>
