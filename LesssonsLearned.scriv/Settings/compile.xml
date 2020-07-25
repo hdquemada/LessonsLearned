@@ -59,8 +59,37 @@
             </MMDMetaData>
         </MetaData>
     </ProjectSettings>
-    <CurrentFileType>rtf</CurrentFileType>
+    <CurrentFileType>odt</CurrentFileType>
     <FormatSettings>
+        <Format ID="8CA93A0A-259C-4F7B-9823-F33EA0052B26">
+            <Font>Georgia</Font>
+            <SectionLayouts>
+                <Type ID="68B93CDB-E3E6-40B7-91C3-FA211E652988">HEADER</Type>
+                <Type ID="2FB31B55-043B-4839-8855-B503E34EA1A5">AS-IS</Type>
+                <Type ID="238DF250-B8A3-485A-B6C6-3E52363D2127">TEXT-SECTION</Type>
+            </SectionLayouts>
+        </Format>
+        <Format ID="full-outline">
+            <SectionLayouts>
+                <Type ID="68B93CDB-E3E6-40B7-91C3-FA211E652988">TEXT-SECTION</Type>
+                <Type ID="2FB31B55-043B-4839-8855-B503E34EA1A5">AS-IS</Type>
+                <Type ID="238DF250-B8A3-485A-B6C6-3E52363D2127">AS-IS</Type>
+            </SectionLayouts>
+        </Format>
+        <Format ID="F7116D6F-BF38-4F5C-B9C0-5EBDEE70397F">
+            <SectionLayouts>
+                <Type ID="68B93CDB-E3E6-40B7-91C3-FA211E652988">HEADER</Type>
+                <Type ID="2FB31B55-043B-4839-8855-B503E34EA1A5">9BBFD0FE-66DB-4A30-B00A-A42C66F16F5E</Type>
+                <Type ID="238DF250-B8A3-485A-B6C6-3E52363D2127">AS-IS</Type>
+            </SectionLayouts>
+        </Format>
+        <Format ID="55B560D5-5FAE-4891-8B1E-E62FA77DBC16">
+            <SectionLayouts>
+                <Type ID="68B93CDB-E3E6-40B7-91C3-FA211E652988">HEADER</Type>
+                <Type ID="2FB31B55-043B-4839-8855-B503E34EA1A5">3255ECAA-05FB-4177-8BB5-CE9E3AB2B90A</Type>
+                <Type ID="238DF250-B8A3-485A-B6C6-3E52363D2127">AS-IS</Type>
+            </SectionLayouts>
+        </Format>
         <Format ID="DEFAULT">
             <Font>TimesNewRomanPSMT</Font>
             <SectionLayouts>
@@ -68,20 +97,40 @@
                 <Type ID="238DF250-B8A3-485A-B6C6-3E52363D2127">TEXT-SECTION</Type>
             </SectionLayouts>
         </Format>
-        <Format ID="8CA93A0A-259C-4F7B-9823-F33EA0052B26">
-            <Font>TimesNewRomanPSMT</Font>
+        <Format ID="523F4149-06B7-4873-8C26-2CF84B411DE9">
             <SectionLayouts>
-                <Type ID="68B93CDB-E3E6-40B7-91C3-FA211E652988">TEXT-WITH-HEADER</Type>
-                <Type ID="2FB31B55-043B-4839-8855-B503E34EA1A5">AS-IS</Type>
-                <Type ID="238DF250-B8A3-485A-B6C6-3E52363D2127">TEXT-SECTION</Type>
+                <Type ID="68B93CDB-E3E6-40B7-91C3-FA211E652988">HEADER</Type>
+                <Type ID="2FB31B55-043B-4839-8855-B503E34EA1A5">9BBFD0FE-66DB-4A30-B00A-A42C66F16F5E</Type>
+                <Type ID="238DF250-B8A3-485A-B6C6-3E52363D2127">AS-IS</Type>
+            </SectionLayouts>
+        </Format>
+        <Format ID="3ED5C2E0-1BCB-447A-B09B-8D8D90D81CA5">
+            <SectionLayouts>
+                <Type ID="68B93CDB-E3E6-40B7-91C3-FA211E652988">TEXT-SECTION</Type>
+                <Type ID="2FB31B55-043B-4839-8855-B503E34EA1A5">TEXT-SECTION</Type>
+                <Type ID="238DF250-B8A3-485A-B6C6-3E52363D2127">AS-IS</Type>
+            </SectionLayouts>
+        </Format>
+        <Format ID="outline-document">
+            <SectionLayouts>
+                <Type ID="68B93CDB-E3E6-40B7-91C3-FA211E652988">EB0A531D-3373-4A50-BE2F-3F28FE0F8040</Type>
+                <Type ID="2FB31B55-043B-4839-8855-B503E34EA1A5">EB0A531D-3373-4A50-BE2F-3F28FE0F8040</Type>
+                <Type ID="238DF250-B8A3-485A-B6C6-3E52363D2127">11A9BC07-517E-4989-9837-4C5BA9C5E1BE</Type>
+            </SectionLayouts>
+        </Format>
+        <Format ID="enumerated-outline">
+            <SectionLayouts>
+                <Type ID="68B93CDB-E3E6-40B7-91C3-FA211E652988">TEXT-SECTION</Type>
+                <Type ID="2FB31B55-043B-4839-8855-B503E34EA1A5">TEXT-SECTION</Type>
+                <Type ID="238DF250-B8A3-485A-B6C6-3E52363D2127">AS-IS</Type>
             </SectionLayouts>
         </Format>
     </FormatSettings>
     <LastUsedFormats>
         <Print>DEFAULT</Print>
-        <odt>8CA93A0A-259C-4F7B-9823-F33EA0052B26</odt>
+        <odt>523F4149-06B7-4873-8C26-2CF84B411DE9</odt>
         <rtf>8CA93A0A-259C-4F7B-9823-F33EA0052B26</rtf>
-        <pdf>DEFAULT</pdf>
+        <pdf>523F4149-06B7-4873-8C26-2CF84B411DE9</pdf>
         <docx>DEFAULT</docx>
     </LastUsedFormats>
 </CompileSettings>

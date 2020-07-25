@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CompileFolder</key>
-	<string>/Users/Hector/Science Team FNIH Dropbox/Hector Quemada/GeneConvene/AdvisoryBoardMeeting/LessonsLearned</string>
+	<string>/Users/hquemada/Desktop</string>
 	<key>NotesScaleFactor</key>
 	<real>1.5</real>
 	<key>QRPanelSettings</key>
@@ -101,8 +101,8 @@
 	<true/>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {175, 707}}</string>
-		<string>{{176, 0}, {1104, 707}}</string>
+		<string>{{0, 0}, {175, 724}}</string>
+		<string>{{176, 0}, {1460, 724}}</string>
 	</array>
 	<key>binderWidth</key>
 	<real>175</real>
@@ -233,6 +233,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>A9C4C734-CB12-45AD-BCA1-FC85B05E4070</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>AC2B3649-E410-4B57-A92A-9256963927A0</key>
 		<dict>
 			<key>Row</key>
@@ -333,7 +338,7 @@
 	</dict>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{543, 0}, {561, 677}}</string>
+		<string>{{552, 0}, {552, 697}}</string>
 	</array>
 	<key>fullScreenBackgroundFade</key>
 	<real>1</real>
@@ -356,7 +361,7 @@
 	<integer>2</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {256, 697}}</string>
+		<string>{{0, 0}, {336, 717}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>245</real>
@@ -372,14 +377,14 @@
 		<real>1.5</real>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {544.5, 310.5}}</string>
+	<string>{{0, 0}, {620, 294}}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
 		<real>2</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>640 -751 1280 729 640 -800 1280 778 </string>
+	<string>22 281 1636 746 0 0 1680 1027 </string>
 	<key>supportingDocumentEditor.PDFAutoScales</key>
 	<false/>
 	<key>supportingDocumentEditor.PDFScale</key>
@@ -390,11 +395,11 @@
 		<real>1.5</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {273, 295}}</string>
+	<string>{{0, 0}, {620, 346.28571428571428}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
-		<real>2</real>
+		<real>1.75</real>
 	</dict>
 	<key>supportingDocumentViewIsCurrent</key>
 	<false/>
