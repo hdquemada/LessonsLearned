@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CompileFolder</key>
-	<string>/Users/hquemada/Desktop</string>
+	<string>/Users/hquemada/Science Team FNIH Dropbox/Hector Quemada/GeneConvene/AdvisoryBoardMeeting/LessonsLearned</string>
 	<key>NotesScaleFactor</key>
 	<real>1.5</real>
 	<key>QRPanelSettings</key>
@@ -101,13 +101,18 @@
 	<true/>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {175, 724}}</string>
-		<string>{{176, 0}, {1460, 724}}</string>
+		<string>{{0, 0}, {230, 707}}</string>
+		<string>{{231, 0}, {1049, 707}}</string>
 	</array>
 	<key>binderWidth</key>
 	<real>175</real>
 	<key>bookmarksSelectionInfo</key>
 	<dict>
+		<key>034F4959-1D01-4C3B-9B20-E51A4EB2DD77</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>07960FE3-31F0-41A3-80D3-D8ADC48983A7</key>
 		<dict>
 			<key>Row</key>
@@ -183,12 +188,32 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>645A8B31-4E6B-479A-9A47-2328367F05C1</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>64DD9AC3-AF2C-4808-B019-B3C76F7692DE</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>68EFCE19-D7DC-411A-8308-49179E4BC481</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
 		<key>710D72B6-F02F-42B0-9BAD-05089998EDE6</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>74BFC439-4F31-4992-90A6-E31BBBA4FBB7</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>7BBC9ADF-6B60-4E4B-8C51-786A6CBB2E15</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -258,6 +283,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>C58574ED-DF47-4133-8111-DD772687A131</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>C7046333-AD28-4BF2-9309-0DCBFC423953</key>
 		<dict>
 			<key>Row</key>
@@ -274,6 +304,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>DA9A04FD-6977-4FEF-BB48-DEADAC2BF5A9</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>DE468BDB-7DC0-4E53-9382-11A6C8E924BE</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -361,7 +396,7 @@
 	<integer>2</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {336, 717}}</string>
+		<string>{{0, 0}, {336, 697}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>245</real>
@@ -384,7 +419,9 @@
 		<real>2</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>22 281 1636 746 0 0 1680 1027 </string>
+	<string>640 -751 1280 729 640 -800 1280 778 </string>
+	<key>previousDocumentTargetType</key>
+	<integer>0</integer>
 	<key>supportingDocumentEditor.PDFAutoScales</key>
 	<false/>
 	<key>supportingDocumentEditor.PDFScale</key>
@@ -395,7 +432,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {620, 346.28571428571428}}</string>
+	<string>{{0, 0}, {599.42857142857144, 336.57142857142856}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="CAS-QuemHe19L1" Author="Hector Quemada" Modified="2020-07-24 20:40:31 -0400" ModID="D28BE1AA-DAF2-491E-A7D9-CB19520A1073">
+<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="CAS-QuemHe19L1" Author="Hector Quemada" Modified="2020-07-29 16:18:42 -0400" ModID="9DF95074-91AE-4705-BC71-29F9D3739845">
     <Binder>
         <BinderItem UUID="635EBC13-D148-438A-B009-59019784F6EC" Type="DraftFolder" Created="2020-07-12 23:57:12 -0400" Modified="2020-07-12 23:57:12 -0400">
             <Title>Draft</Title>
@@ -17,14 +17,14 @@
                 </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem UUID="5428C32E-4196-4E19-A5BB-EC1DB818A524" Type="Text" Created="2020-07-12 23:57:12 -0400" Modified="2020-07-14 15:40:03 -0400">
+                <BinderItem UUID="5428C32E-4196-4E19-A5BB-EC1DB818A524" Type="Text" Created="2020-07-12 23:57:12 -0400" Modified="2020-07-29 11:54:45 -0400">
                     <Title>Title</Title>
                     <MetaData>
                         <SectionType>238DF250-B8A3-485A-B6C6-3E52363D2127</SectionType>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>105,0</TextSelection>
+                        <TextSelection>109,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="A2920E67-208B-4E4D-B4CF-A1FB3493FB59" Type="Text" Created="2020-07-13 00:08:52 -0400" Modified="2020-07-24 15:57:38 -0400">
@@ -37,13 +37,23 @@
                         <TextSelection>9,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="ED927E96-CEE9-48B7-8BFF-A7329E7FBE72" Type="Text" Created="2020-07-21 00:38:26 -0400" Modified="2020-07-24 20:36:49 -0400">
+                <BinderItem UUID="ED927E96-CEE9-48B7-8BFF-A7329E7FBE72" Type="Text" Created="2020-07-21 00:38:26 -0400" Modified="2020-07-29 11:56:00 -0400">
                     <Title>Table of Contents</Title>
+                    <MetaData>
+                        <SectionType>238DF250-B8A3-485A-B6C6-3E52363D2127</SectionType>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>8,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="DE468BDB-7DC0-4E53-9382-11A6C8E924BE" Type="Text" Created="2020-07-29 12:01:42 -0400" Modified="2020-07-29 14:20:30 -0400">
+                    <Title>Table of Abbreviations</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>416,0</TextSelection>
+                        <TextSelection>77,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="DF6F13B3-93B8-4259-AC06-F48860307264" Type="Folder" Created="2020-07-21 00:35:01 -0400" Modified="2020-07-21 00:35:17 -0400">
@@ -56,6 +66,16 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
+                        <BinderItem UUID="034F4959-1D01-4C3B-9B20-E51A4EB2DD77" Type="Text" Created="2020-07-29 10:18:41 -0400" Modified="2020-07-29 15:38:02 -0400">
+                            <Title>Introduction</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2527,0</TextSelection>
+                                <Target Type="Words" Notify="No">400</Target>
+                            </TextSettings>
+                        </BinderItem>
                         <BinderItem UUID="16B6DED4-D60B-48C9-8995-A21012A4B1C0" Type="Folder" Created="2020-07-21 00:31:15 -0400" Modified="2020-07-21 00:32:23 -0400">
                             <Title>GM Crop Status</Title>
                             <MetaData>
@@ -66,14 +86,14 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="AC2B3649-E410-4B57-A92A-9256963927A0" Type="Text" Created="2020-07-13 00:14:34 -0400" Modified="2020-07-24 16:15:49 -0400">
+                                <BinderItem UUID="AC2B3649-E410-4B57-A92A-9256963927A0" Type="Text" Created="2020-07-13 00:14:34 -0400" Modified="2020-07-29 15:44:51 -0400">
                                     <Title>Status of GMO Crop Deployment</Title>
                                     <MetaData>
                                         <SectionType>238DF250-B8A3-485A-B6C6-3E52363D2127</SectionType>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1119,0</TextSelection>
+                                        <TextSelection>1712,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -88,14 +108,23 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="A9C4C734-CB12-45AD-BCA1-FC85B05E4070" Type="Text" Created="2020-07-22 15:12:09 -0400" Modified="2020-07-24 16:15:49 -0400">
+                                <BinderItem UUID="64DD9AC3-AF2C-4808-B019-B3C76F7692DE" Type="Text" Created="2020-07-29 10:22:43 -0400" Modified="2020-07-29 10:24:24 -0400">
+                                    <Title>Rationale for looking at Europe</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>14,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="A9C4C734-CB12-45AD-BCA1-FC85B05E4070" Type="Text" Created="2020-07-22 15:12:09 -0400" Modified="2020-07-29 15:45:07 -0400">
                                     <Title>Opposition remains</Title>
                                     <MetaData>
                                         <SectionType>238DF250-B8A3-485A-B6C6-3E52363D2127</SectionType>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>461,0</TextSelection>
+                                        <TextSelection>260,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="D3B4BCD3-E260-457B-84D5-5798402D7F13" Type="Folder" Created="2020-07-20 14:46:01 -0400" Modified="2020-07-20 14:52:11 -0400">
@@ -109,14 +138,14 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="4BF20E70-73B6-42D2-99F7-7CB31B1EB651" Type="Text" Created="2020-07-20 14:45:18 -0400" Modified="2020-07-24 16:15:35 -0400">
+                                        <BinderItem UUID="4BF20E70-73B6-42D2-99F7-7CB31B1EB651" Type="Text" Created="2020-07-20 14:45:18 -0400" Modified="2020-07-29 15:40:09 -0400">
                                             <Title>The case of opposition to GM maize despite the need for food</Title>
                                             <MetaData>
                                                 <SectionType>238DF250-B8A3-485A-B6C6-3E52363D2127</SectionType>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>485,0</TextSelection>
+                                                <TextSelection>581,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="DFEB0688-F95A-44F8-A58C-A570215022BC" Type="Text" Created="2020-07-20 14:00:09 -0400" Modified="2020-07-24 15:56:58 -0400">
@@ -126,12 +155,12 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>306,0</TextSelection>
+                                                <TextSelection>233,2</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="13D0027A-8C59-4DFE-868F-D996751FAD4E" Type="Folder" Created="2020-07-20 14:52:34 -0400" Modified="2020-07-20 14:52:42 -0400">
+                                <BinderItem UUID="13D0027A-8C59-4DFE-868F-D996751FAD4E" Type="Folder" Created="2020-07-20 14:52:34 -0400" Modified="2020-07-29 10:12:11 -0400">
                                     <Title>European Opposition</Title>
                                     <MetaData>
                                         <SectionType>2FB31B55-043B-4839-8855-B503E34EA1A5</SectionType>
@@ -141,10 +170,30 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="F6783F3E-3C73-4317-9407-0DB0AE93E416" Type="Text" Created="2020-07-20 15:25:11 -0400" Modified="2020-07-20 15:25:53 -0400">
-                                            <Title>Experience of GM crop approvals in Europe</Title>
+                                        <BinderItem UUID="F6783F3E-3C73-4317-9407-0DB0AE93E416" Type="Folder" Created="2020-07-20 15:25:11 -0400" Modified="2020-07-29 10:18:07 -0400">
+                                            <Title>GM crop approvals in Europe</Title>
                                             <MetaData>
                                                 <SectionType>238DF250-B8A3-485A-B6C6-3E52363D2127</SectionType>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                            <Children>
+                                                <BinderItem UUID="645A8B31-4E6B-479A-9A47-2328367F05C1" Type="Text" Created="2020-07-29 10:11:48 -0400" Modified="2020-07-29 15:47:34 -0400">
+                                                    <Title>Status of GM Crops in Europe</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>2513,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                            </Children>
+                                        </BinderItem>
+                                        <BinderItem UUID="74BFC439-4F31-4992-90A6-E31BBBA4FBB7" Type="Folder" Created="2020-07-29 10:16:52 -0400" Modified="2020-07-29 10:17:54 -0400">
+                                            <Title>European objections</Title>
+                                            <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
@@ -158,17 +207,17 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>0,614</TextSelection>
+                                                <TextSelection>17,2</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="D8463700-FFD7-47F5-86C6-67A2A903D658" Type="Text" Created="2020-07-20 15:01:00 -0400" Modified="2020-07-24 16:16:16 -0400">
+                                        <BinderItem UUID="D8463700-FFD7-47F5-86C6-67A2A903D658" Type="Text" Created="2020-07-20 15:01:00 -0400" Modified="2020-07-29 15:40:28 -0400">
                                             <Title>Zerbe</Title>
                                             <MetaData>
                                                 <SectionType>238DF250-B8A3-485A-B6C6-3E52363D2127</SectionType>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>262,0</TextSelection>
+                                                <TextSelection>47,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -196,6 +245,17 @@
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
+                    <Children>
+                        <BinderItem UUID="7BBC9ADF-6B60-4E4B-8C51-786A6CBB2E15" Type="Text" Created="2020-07-26 09:14:42 -0400" Modified="2020-07-26 09:37:44 -0400">
+                            <Title>Natural or manipulated</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>257,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
                 </BinderItem>
                 <BinderItem UUID="0DB1E929-F6B8-4428-B3BD-7F2EE70FDC81" Type="Folder" Created="2020-07-21 00:34:39 -0400" Modified="2020-07-21 00:34:45 -0400">
                     <Title>Lessons Learned</Title>
@@ -491,6 +551,16 @@
                         <TextSelection>233,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="C58574ED-DF47-4133-8111-DD772687A131" Type="Folder" Created="2020-07-25 11:15:17 -0400" Modified="2020-07-25 11:15:45 -0400">
+                    <Title>Table of Contents</Title>
+                    <MetaData>
+                        <SectionType>68B93CDB-E3E6-40B7-91C3-FA211E652988</SectionType>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -548,12 +618,12 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-07-12 23:57:11 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-07-25 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="3" Characters="24" Date="2020-07-24 19:52:06 -0400"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-07-30 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="406" Characters="2784" Date="2020-07-29 16:16:32 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-07-24 00:00:00 -0400">
-        <DraftWordCount>3</DraftWordCount>
-        <DraftCharCount>24</DraftCharCount>
+    <RecentWritingHistory Date="2020-07-29 00:00:00 -0400">
+        <DraftWordCount>406</DraftWordCount>
+        <DraftCharCount>2784</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
