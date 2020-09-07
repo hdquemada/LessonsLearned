@@ -101,8 +101,8 @@
 	<true/>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {230, 707}}</string>
-		<string>{{231, 0}, {1049, 707}}</string>
+		<string>{{0, 0}, {243, 707}}</string>
+		<string>{{244, 0}, {1036, 707}}</string>
 	</array>
 	<key>binderWidth</key>
 	<real>175</real>
@@ -173,6 +173,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>3B08210B-AE1A-4119-A4E7-3D54B94A6EC6</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>3B11751D-2587-4587-9628-4194188BDE39</key>
 		<dict>
 			<key>Row</key>
@@ -204,6 +209,21 @@
 			<integer>-1</integer>
 		</dict>
 		<key>5428C32E-4196-4E19-A5BB-EC1DB818A524</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>56DC9BD7-DE7A-45DE-85E7-1CF51238AE59</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>5ABDDC0B-694D-43EB-A68A-8EC7278FD218</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>5ACE7D36-D297-429F-B808-7C79F4709D54</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -249,6 +269,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>80ACAF6C-B0E3-4925-8DDF-A4035CE62721</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>83047406-E5FD-496D-AAAC-B98BD14E6B32</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -383,6 +408,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>E5FE27EF-89C8-40F9-8C19-A8650A2879E2</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>E9E457A2-9E49-4234-9036-23B1D857D1B4</key>
 		<dict>
 			<key>Row</key>
@@ -404,6 +434,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>F18FBF40-C54C-46B2-AAFE-4B9FEB0AF9B3</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>F42BB1C7-4546-4F2E-A994-46E80C4AEC75</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -477,27 +512,27 @@
 		<real>1.5</real>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {621, 294}}</string>
+	<string>{{0, 0}, {606, 294}}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
 		<real>2</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>640 -751 1280 729 640 -800 1280 778 </string>
+	<string>412 247 1280 729 0 0 1920 1058 </string>
 	<key>previousDocumentTargetType</key>
 	<integer>0</integer>
 	<key>supportingDocumentEditor.PDFAutoScales</key>
 	<false/>
 	<key>supportingDocumentEditor.PDFScale</key>
-	<real>1.9999520778656006</real>
+	<real>1</real>
 	<key>supportingDocumentEditor.dockedQRTextSettings</key>
 	<dict>
 		<key>textScaleFactor</key>
 		<real>1.5</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {590.85714285714278, 337.14285714285717}}</string>
+	<string>{{0, 0}, {583.42857142857144, 337.14285714285717}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>

@@ -1,0 +1,541 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+<noscript><meta http-equiv="Refresh" content="0; URL=/big_pipe/no-js?destination=/publications/cs/pdfs/41/5/1551%3Fq%3Dpublications/cs/pdfs/41/5/1551" />
+</noscript><meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="/files/images/logos/dl.ico" type="image/vnd.microsoft.icon" />
+<script>window.a2a_config=window.a2a_config||{};a2a_config.callbacks=a2a_config.callbacks||[];a2a_config.templates=a2a_config.templates||{};</script>
+
+    <title>PDF | Digital Library</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport" />
+	<link rel="stylesheet" href="/core/modules/system/css/components/ajax-progress.module.css?pa6ew9" media="all" />
+<link rel="stylesheet" href="/core/modules/system/css/components/align.module.css?pa6ew9" media="all" />
+<link rel="stylesheet" href="/core/modules/system/css/components/autocomplete-loading.module.css?pa6ew9" media="all" />
+<link rel="stylesheet" href="/core/modules/system/css/components/fieldgroup.module.css?pa6ew9" media="all" />
+<link rel="stylesheet" href="/core/modules/system/css/components/container-inline.module.css?pa6ew9" media="all" />
+<link rel="stylesheet" href="/core/modules/system/css/components/clearfix.module.css?pa6ew9" media="all" />
+<link rel="stylesheet" href="/core/modules/system/css/components/details.module.css?pa6ew9" media="all" />
+<link rel="stylesheet" href="/core/modules/system/css/components/hidden.module.css?pa6ew9" media="all" />
+<link rel="stylesheet" href="/core/modules/system/css/components/item-list.module.css?pa6ew9" media="all" />
+<link rel="stylesheet" href="/core/modules/system/css/components/js.module.css?pa6ew9" media="all" />
+<link rel="stylesheet" href="/core/modules/system/css/components/nowrap.module.css?pa6ew9" media="all" />
+<link rel="stylesheet" href="/core/modules/system/css/components/position-container.module.css?pa6ew9" media="all" />
+<link rel="stylesheet" href="/core/modules/system/css/components/progress.module.css?pa6ew9" media="all" />
+<link rel="stylesheet" href="/core/modules/system/css/components/reset-appearance.module.css?pa6ew9" media="all" />
+<link rel="stylesheet" href="/core/modules/system/css/components/resize.module.css?pa6ew9" media="all" />
+<link rel="stylesheet" href="/core/modules/system/css/components/sticky-header.module.css?pa6ew9" media="all" />
+<link rel="stylesheet" href="/core/modules/system/css/components/system-status-counter.css?pa6ew9" media="all" />
+<link rel="stylesheet" href="/core/modules/system/css/components/system-status-report-counters.css?pa6ew9" media="all" />
+<link rel="stylesheet" href="/core/modules/system/css/components/system-status-report-general-info.css?pa6ew9" media="all" />
+<link rel="stylesheet" href="/core/modules/system/css/components/tabledrag.module.css?pa6ew9" media="all" />
+<link rel="stylesheet" href="/core/modules/system/css/components/tablesort.module.css?pa6ew9" media="all" />
+<link rel="stylesheet" href="/core/modules/system/css/components/tree-child.module.css?pa6ew9" media="all" />
+<link rel="stylesheet" href="/modules/3rdParty/addtoany/css/addtoany.css?pa6ew9" media="all" />
+<link rel="stylesheet" href="/sites/dl.sciencesocieties.org/themes/dl/css/base.css?pa6ew9" media="all" />
+<link rel="stylesheet" href="/sites/dl.sciencesocieties.org/themes/dl/css/style.css?pa6ew9" media="all" />
+<link rel="stylesheet" href="/sites/dl.sciencesocieties.org/themes/dl/css/stylePrint.css?pa6ew9" media="print" />
+<link rel="stylesheet" href="/sites/dl.sciencesocieties.org/themes/dl/css/dl.css?pa6ew9" media="all" />
+<link rel="stylesheet" href="/themes/shared/css/acs-styles.css?pa6ew9" media="all" />
+
+    
+<!--[if lte IE 8]>
+<script src="/core/assets/vendor/html5shiv/html5shiv.min.js?v=3.7.3"></script>
+<![endif]-->
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.2.1"></script>
+<script src="/sites/dl.sciencesocieties.org/themes/dl/js/script.js?pa6ew9"></script>
+<script src="/sites/dl.sciencesocieties.org/themes/dl/js/jquery.captions.js?pa6ew9"></script>
+<script src="/webscripts/acs.js?pa6ew9"></script>
+
+	<link rel="stylesheet" type="text/css" href="/sites/all/themes/css/acs-styles.css" media="all">
+	<script src="/webscripts/webtrends/webtrends.load.js" ></script>
+
+	
+  </head>
+  <body class="one-sidebar sidebar-right">
+	<div id="insideBodyWrapper">
+				<a href="#main-content" class="visually-hidden focusable skip-link">
+		  Skip to main content
+		</a>
+<!-- Page Top -->
+		
+<!-- Page -->
+		  <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+<div id="universal" role="NAVIGATION" aria-label="Quick Links">
+	<div id="nav_universal">
+		<div id="quick_links"><div class="inside_5"></div></div>
+	</div>
+</div>
+
+<div id="wrapper">
+	<div style="float: right;" role="NAVIGATION" aria-label="Quick Links 2"><a href='/about'>About Us</a> | <a href='/tutorials'>Help Videos</a> | <a href='/contact'>Contact Us</a> | <a href='/publications/subscriptions'>Subscriptions</a></div>
+	<div style='clear: both;'>&nbsp;</div>
+	<div id="header" role="BANNER">
+		<div id="nav_global" role="NAVIGATION" aria-label="Primary Navigation">
+			<a href="/" class="acsPlain"><img id="home_link_img" src="/sites/dl.sciencesocieties.org/themes/dl/trans_dot.gif" alt="banner" /></a>
+			        <div class="region region-primary-nav">
+        
+    
+          
+    
+    
+  
+        
+            
+      <div id="block-acsnavmenusprimarynavbasic" class="settings-tray-editable block block-acs-nav-menus block-acs-nav-menusblock-primary-nav-basic" data-drupal-settingstray="editable">
+                  
+
+
+
+
+	  	  	  		        		        		        		        	  			      <ul ACS="" class="menu nav" id="primary-links-primaryNav">
+		    	
+		              <li class="menu-item">
+        <a href="https://www.agronomy.org" title="">American Society of Agronomy</a>
+              </li>
+    	              <li class="menu-item">
+        <a href="https://www.crops.org" title="">Crop Science Society of America</a>
+              </li>
+    	              <li class="menu-item">
+        <a href="https://www.soils.org" title="">Soil Science Society of America</a>
+              </li>
+    	              <li class="menu-item">
+        <a href="/publications/csa-news/contact" title="CSA News Contact" data-drupal-link-system-path="node/539">CSA News Contact</a>
+              </li>
+        </ul>
+  
+  
+
+              </div>
+  
+<link rel="stylesheet" type="text/css" href="/webscripts/lightbox2/css/lightbox.css" media="all">
+<script src="/webscripts/lightbox2/js/lightbox.min.js" ></script>
+
+
+    </div>
+  
+		</div>
+
+		<div id="nav_functional">
+			<div id="titling">
+				<div class="inside_5">
+									</div>
+			</div>
+			<div id="search">
+				<div class="inside_5">
+					<form action='/publications/search' method='get' id="search-block-form">
+						<div>
+							<div class="container-inline" style="white-space: nowrap; overflow: auto;">
+								<div class="form-item" id="edit-search-block-form-1-wrapper">
+									<label for="edit-search-block-form-1">Search this site: </label>
+									<input id="edit-search-block-form-1" type='text' name='search[0]' value='' maxlength='128' size='18' class="form-text" style='border: 0px; font-size: 16px;'  aria-label="Search this site." />
+								</div>
+								<input type='submit' name='submit' value='Search' style='margin-left: 5px; font-size: 14px;'  aria-label="Submit Search"/>
+								<input type='hidden' name='searchType[0]' value='Manual' />
+								<input type='hidden' name='num-results' value='10' />
+								<input type='hidden' name='stem' value='false' />
+								<input type='hidden' name='sort' value='relevance' />
+								<input type='hidden' name='open-access' value='false' />
+							</div>
+						</div>
+						<div style="margin-top: 6px;text-align: right;"><a href="/publications/search">Advanced Search</a></div>
+					</form>
+				</div>
+			</div>
+			<div id="member_info"><div class="inside_5">
+				        <div class="region region-myaccount">
+        
+    
+          
+    
+    
+  
+        
+            
+      <div id="block-acsmyaccountjoinrenew" class="settings-tray-editable block block-acs-personal-menus block-acs-personal-menusblock-login-acs-old" data-drupal-settingstray="editable">
+                  
+				<p>My Account: <a href="javascript:void(0);" id="member_show">Log In</a> | <a href="/renewals" >Join</a> | <a href="/renewals" >Renew</a></p>
+			
+              </div>
+  
+
+
+
+    </div>
+  
+			</div></div>
+		</div>
+	</div>
+
+	<div id="content" role="MAIN">
+		<div id="member_panel" style="display: none;">
+	               <div class="region region-login">
+        
+    
+          
+    
+    
+  
+        
+            
+      <div id="block-user" class="settings-tray-editable block block-user block-user-login-block" data-drupal-settingstray="editable" role="form">
+                  <form class="user-login-form" data-drupal-selector="user-login-form-2" action="/publications/cs/pdfs/41/5/1551?destination=/publications/cs/pdfs/41/5/1551%3Fq%3Dpublications/cs/pdfs/41/5/1551" method="post" id="user-login-form--2" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-username form-item-username">
+      <label for="edit-username--2">Email Address</label>
+        <input data-drupal-selector="edit-username" type="text" id="edit-username--2" name="username" value="" size="25" maxlength="255" class="form-text" />
+
+        </div>
+<div class="js-form-item form-item js-form-type-password form-type-password js-form-item-password form-item-password">
+      <label for="edit-password--2">Password</label>
+        <input data-drupal-selector="edit-password" aria-describedby="edit-password--2--description" type="password" id="edit-password--2" name="password" size="25" maxlength="255" class="form-text" />
+
+            <div id="edit-password--2--description" class="description">
+      <a href="/login/forgot-password">Forgot My Password</a>
+    </div>
+  </div>
+<input autocomplete="off" data-drupal-selector="form-ksxoqjhjwj-j9u-zwmgquzrlwmx5y4ldqdsmqdw9bxw" type="hidden" name="form_build_id" value="form-ksxOQJhjWJ_J9u-ZWMgQUzrLwmx5Y4LDqdSmQDw9Bxw" />
+<input data-drupal-selector="edit-user-login-form-2" type="hidden" name="form_id" value="user_login_form" />
+<input data-drupal-selector="edit-getvalues" type="hidden" name="getValues" value="a%3A0%3A%7B%7D" />
+<input data-drupal-selector="edit-submit" type="submit" id="edit-submit--2" name="op" value="Log In" class="button js-form-submit form-submit" />
+
+</form>
+<div class="item-list"><ul><li><a href="/user/password" title="Send password reset instructions via email." class="request-password-link">Reset your password</a></li></ul></div>
+              </div>
+  
+<link rel="stylesheet" type="text/css" href="/sites/all/themes/css/acs-styles.css" media="all">
+
+
+    </div>
+  
+	    </div>
+		
+		<div id="below_header"></div>
+    	<div id="one">
+			<div class="inside_one">
+
+				        <div class="region region-first">
+      
+
+
+  
+    
+          
+    
+    
+  
+        
+            
+      <div id="block-breadcrumbs" class="settings-tray-editable block block-system block-system-breadcrumb-block" data-drupal-settingstray="editable">
+                    <div class="breadcrumb" role="navigation" aria-labelledby="system-breadcrumb">
+    <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+                        <a href="/">Home</a>
+                 »               <a href="/publications">Publications</a>
+                 »               <a href="/publications/cs">Crop Science</a>
+            </div>
+
+              </div>
+  
+
+
+
+    </div>
+  
+				        <div class="region region-breadcrumb">
+      <span data-big-pipe-placeholder-id="callback=Drupal%5CCore%5CRender%5CElement%5CStatusMessages%3A%3ArenderMessages&amp;args%5B0%5D&amp;token=_HAdUpwWmet0TOTe2PSiJuMntExoshbm1kh2wQzzzAA"></span>
+
+    </div>
+  
+				
+
+				<h1>        <div class="region region-title">
+        
+    
+          
+    
+    
+  
+        
+            
+      <div id="block-dl-page-title--2" class="block block-core block-page-title-block">
+                  
+  <h1 class="page-title">PDF</h1>
+
+
+              </div>
+  
+
+
+
+    </div>
+  </h1>
+				
+				
+				
+				<div class="clear-block">
+					        <div class="region region-content">
+      
+	<div style="margin-left: auto; margin-right: auto;">
+
+		<div style="margin: 0px 10px; position: relative;">
+			<h2 style="margin: 10px;">Log In to your account</h2>
+			<br />
+			<p>Already a member, certified, or existing customer?*</p>
+			<form class="user-login-form" data-drupal-selector="user-login-form" action="/publications/cs/pdfs/41/5/1551" method="post" id="user-login-form" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-username form-item-username">
+      <label for="edit-username">Email Address</label>
+        <input data-drupal-selector="edit-username" type="text" id="edit-username" name="username" value="" size="25" maxlength="255" class="form-text" />
+
+        </div>
+<div class="js-form-item form-item js-form-type-password form-type-password js-form-item-password form-item-password">
+      <label for="edit-password">Password</label>
+        <input data-drupal-selector="edit-password" aria-describedby="edit-password--description" type="password" id="edit-password" name="password" size="25" maxlength="255" class="form-text" />
+
+            <div id="edit-password--description" class="description">
+      <a href="/login/forgot-password">Forgot My Password</a>
+    </div>
+  </div>
+<input autocomplete="off" data-drupal-selector="form-dz4gmwcn5qdu3cnu3vuagvbbgtr6jjak-es6bk9wtuu" type="hidden" name="form_build_id" value="form-dZ4gMWCN5Qdu3CNU3vUAGVbbgtr6jJAK-es6bk9WtUU" />
+<input data-drupal-selector="edit-user-login-form" type="hidden" name="form_id" value="user_login_form" />
+<input data-drupal-selector="edit-getvalues" type="hidden" name="getValues" value="a%3A0%3A%7B%7D" />
+<input data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Log In" class="button js-form-submit form-submit" />
+
+</form>
+
+			<p class="note" style="margin-top: 10px;">* Cookies must be accepted to log in.</p>
+			<p>
+				<strong>Not sure if you have an account or are a new user?</strong><br />
+				<strong><a href="/login/check-email?login-return=2f1ca240c4ce290fada9a9446b16a6858c0484f96f25be572bb5027663aa5814">Check Your Email/Create an Account</a></strong>
+			</p>
+		</div>
+		<div style="clear: both;">&nbsp;</div>
+		
+	
+	</div>
+	<div style="clear: both;"><br /></div>
+	<h3><a name="email"></a>Email</h3>
+	<p>Your email address is the one we have on file if you are a member, certified, an existing customer (purchased a product or attended a conference in the past) or have created an account for any other reason.</p>
+	
+	<h3><a name="password"></a>Forgot My Password</h3>
+	<p>Click on “Forgot My Password” and we will reset your password to a temporary one and send it to the email we have on file for you. Once you have logged in with the temporary password, you will need to change it</p>
+	<h3><a name="new-user"></a>New User</h3>
+	If you are not a member, certified, an existing customer or do not remember which email address you provided to us and need to login, start at the “Check Your Email” link above.
+	<h3><a name="contact-us"></a>Contact Us</h3>
+	For Login help, call us at 608-273-8080, or email us at <a href="mailto:membership@sciencesocieties.org">membership@sciencesocieties.org</a>
+
+    </div>
+  
+					
+					
+				</div>
+				
+
+			</div>
+		</div>
+
+
+	    <div id="three" role="COMPLEMENTARY" aria-label="Sidebar Right">
+	     <div class="inside_three">
+	       <div id="sidebar-right" class="sidebar">
+	        	                <div class="region region-right">
+        
+    
+          
+    
+    
+  
+        
+            
+      <div id="block-dl-acsjsgoogletranslate" class="settings-tray-editable block block-acs-javascript-blocks block-acsjavascript-blocksblockgoogle-translate" data-drupal-settingstray="editable">
+                  
+				<div id="google_translate_element"></div>
+				<script type="text/javascript">
+					function googleTranslateElementInit() {
+						new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+					}
+				</script>
+				<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+			
+              </div>
+  
+
+
+  
+    
+          
+    
+    
+  
+        
+            
+      <div id="block-dl-publicationsdropdown" class="settings-tray-editable block block-acs-mark-logic block-acs-mark-logicblock-publications-dropdown" data-drupal-settingstray="editable">
+                  <select onchange="window.location.href=this.value" style='width: 170px; margin: 10px 0px 10px 0px;'>
+					<option value="">Publications</option><option value='/publications/ael'>Agricultural & Environmental Letters</option><option value='/publications/aj'>Agronomy Journal</option><option value='/publications/age'>Agrosystems, Geosciences & Environment</option><option value='/publications/meetings/browse'>Annual Meetings Abstracts</option><option value='/publications/ats'>Applied Turfgrass Science</option><option value='/publications/books'>Books</option><option value='/publications/cm'>Crop Management</option><option value='/publications/cs'>Crop Science</option><option value='/publications/cftm'>Crop, Forage and Turfgrass Management</option><option value='/publications/cns'>Crops & Soils Magazine</option><option value='/publications/csa'>CSA News Magazine</option><option value='/publications/tcsae'>TCSAE</option><option value='/publications/fg'>Forage & Grazinglands</option><option value='/publications/its'>International Turfgrass Society Research Journal</option><option value='/publications/jeq'>Journal of Environmental Quality</option><option value='/publications/jpr'>Journal of Plant Registrations</option><option value='/publications/jpa'>Journal of Production Agriculture</option><option value='/publications/mmb'>Meat and Muscle Biology</option><option value='/publications/methods-soils'>Methods of Soil Analysis</option><option value='/publications/nse'>Natural Sciences Education</option><option value='/publications/sh'>Soil Horizons</option><option value='/publications/sssaj'>Soil Science Society of America Journal</option><option value='/publications/tpg'>The Plant Genome</option><option value='/publications/tppj'>The Plant Phenome Journal</option><option value='/publications/ua'>Urban Agriculture & Regional Food Systems</option><option value='/publications/vzj'>Vadose Zone Journal</option></select>
+              </div>
+  
+
+
+
+
+
+  
+    
+          
+    
+    
+  
+        
+              <h2 class="block-title">Journal Links</h2>
+            
+      <div id="block-block-1" class="settings-tray-editable block block-block-content block-block-content170d484e-3cea-4f28-9290-34855f760f4f" data-drupal-settingstray="editable">
+                  
+            <p><a href="/publications/cs/author-instructions">Author Information</a></p>
+
+<p><a href="/publications/editors-reviewers">Editor/Reviewer Information</a></p>
+
+<p><a href="https://dl.sciencesocieties.org/about-society/committees/C302/members/">Editorial Board</a></p>
+
+<p><a href="/publications/list-alerts">Email Alerts</a></p>
+
+<p><a href="https://dl.sciencesocieties.org/publications/permissions">Permissions</a> </p>
+
+<p><a href="http://usage.sciencesocietiesreports.org">Journal Usage Statistics</a></p>
+
+<p><a href="/publications/browse">Browse All Journals</a></p>
+
+<p><a href="https://web.sciencesocieties.org/My-Account/My-Invoices">Manuscript Invoice Payment</a></p>
+      
+              </div>
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+          
+    
+    
+  
+        
+            
+      <div id="block-block-63" class="settings-tray-editable block block-block-content block-block-contentcbcf6a20-03cb-4046-927d-a5268d48722e" data-drupal-settingstray="editable">
+                  
+            <p><a href="https://dl.sciencesocieties.org/open-access"><img alt="open access publishing options" src="/files/images/publications/lock-oa.jpg" /></a></p>
+      
+              </div>
+  
+
+
+<span data-big-pipe-placeholder-id="callback=Drupal%5Cblock%5CBlockViewBuilder%3A%3AlazyBuilder&amp;args%5B0%5D=views_block__highlights_block_2&amp;args%5B1%5D=full&amp;args%5B2%5D&amp;token=C41acSs9iVmwl6WPdQ58RHromAvhxaZLcRuXgj8Nnek"></span>  
+    
+          
+    
+    
+  
+        
+            
+      <div id="block-pubtwittercs" class="settings-tray-editable block block-acs-pub-twitter-blocks block-acs-pub-twitter-blockspub-twitter-cs" data-drupal-settingstray="editable">
+                  
+		<a class="twitter-follow-button" href="https://twitter.com/crop_science" data-show-count="false" data-dnt="true" data-lang="en">Follow @CS</a>
+	
+		<script type="text/javascript">
+			!function(d,s,id){
+				var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+				if(!d.getElementById(id)){
+					js=d.createElement(s);
+					js.id=id;
+					js.src=p+'://platform.twitter.com/widgets.js';
+					fjs.parentNode.insertBefore(js,fjs);
+				}
+			} (document, 'script', 'twitter-wjs');
+		</script>
+	
+              </div>
+  
+
+
+
+    </div>
+  
+	       </div>
+	     </div>
+	    </div>
+	</div>
+	
+	
+	<div id="footer" role="CONTENTINFO">
+		<div class="inside_10">
+			         <div class="region region-footer">
+        
+    
+          
+    
+    
+  
+        
+            
+      <div id="block-dl-acsfootercopyrightdl" class="settings-tray-editable block block-acs-footer-blocks block-acs-footer-blockscopyright-dl" data-drupal-settingstray="editable">
+                  
+		<div style="margin: 10px;">&copy; Copyright 2018 - <a href="/copyright/">Copyright Information, Privacy Statement, and Terms of Use</a><br />
+			5585 Guilford Road | Madison, WI 53711-5801 | 608-273-8080 | Fax 608-273-2021<br />
+			<a href="https://www.agronomy.org/certifications">Certification:</a> 608-273-8085 | Fax 608-273-2081<br />
+			<br />
+			<div class="button red" style="font-size: 12px;"><a href="/contact">Contact Us</a></div>
+		</div>
+	
+              </div>
+  
+
+
+
+    </div>
+  
+		</div>
+	</div>
+
+</div>
+
+
+
+  </div>
+
+<!-- Page Bottom -->
+		
+	</div>
+	
+	
+	
+  <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"publications\/cs\/pdfs\/41\/5\/1551","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en","currentQuery":{"q":"publications\/cs\/pdfs\/41\/5\/1551"}},"pluralDelimiter":"\u0003","ajaxPageState":{"libraries":"addtoany\/addtoany,big_pipe\/big_pipe,core\/html5shiv,dl\/global-styling,dl\/js-footer,dl\/js-header,system\/base","theme":"dl","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"bigPipePlaceholderIds":{"callback=Drupal%5Cblock%5CBlockViewBuilder%3A%3AlazyBuilder\u0026args%5B0%5D=views_block__highlights_block_2\u0026args%5B1%5D=full\u0026args%5B2%5D\u0026token=C41acSs9iVmwl6WPdQ58RHromAvhxaZLcRuXgj8Nnek":true,"callback=Drupal%5CCore%5CRender%5CElement%5CStatusMessages%3A%3ArenderMessages\u0026args%5B0%5D\u0026token=_HAdUpwWmet0TOTe2PSiJuMntExoshbm1kh2wQzzzAA":true},"user":{"uid":0,"permissionsHash":"180767019ce081557e1b216f9fdd1896f9c3fcef7853d554955966ded16809bc"}}</script>
+<script src="/core/assets/vendor/domready/ready.min.js?v=1.0.8"></script>
+<script src="/core/assets/vendor/jquery-once/jquery.once.min.js?v=2.2.0"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=8.5.3"></script>
+<script src="/core/misc/drupal.js?v=8.5.3"></script>
+<script src="/core/misc/drupal.init.js?v=8.5.3"></script>
+<script src="https://static.addtoany.com/menu/page.js" async></script>
+<script src="/modules/3rdParty/addtoany/js/addtoany.js?v=8.5.3"></script>
+<script src="/sites/dl.sciencesocieties.org/themes/dl/js/script-footer.js?pa6ew9"></script>
+<script src="/core/misc/progress.js?v=8.5.3"></script>
+<script src="/core/misc/ajax.js?v=8.5.3"></script>
+<script src="/core/modules/big_pipe/js/big_pipe.js?v=8.5.3"></script>
+
+<script type="application/vnd.drupal-ajax" data-big-pipe-event="start"></script>
+    <script type="application/vnd.drupal-ajax" data-big-pipe-replacement-for-placeholder-with-id="callback=Drupal%5Cblock%5CBlockViewBuilder%3A%3AlazyBuilder&amp;args%5B0%5D=views_block__highlights_block_2&amp;args%5B1%5D=full&amp;args%5B2%5D&amp;token=C41acSs9iVmwl6WPdQ58RHromAvhxaZLcRuXgj8Nnek">
+    [{"command":"settings","settings":{"ajaxPageState":{"theme":"dl","libraries":"addtoany\/addtoany,big_pipe\/big_pipe,core\/html5shiv,dl\/global-styling,dl\/js-footer,dl\/js-header,system\/base,views\/views.module"},"pluralDelimiter":"\u0003","user":{"uid":0,"permissionsHash":"180767019ce081557e1b216f9fdd1896f9c3fcef7853d554955966ded16809bc"}},"merge":true},{"command":"add_css","data":"\u003Clink rel=\u0022stylesheet\u0022 href=\u0022\/core\/modules\/views\/css\/views.module.css?pa6ew9\u0022 media=\u0022all\u0022 \/\u003E\n"},{"command":"insert","method":"replaceWith","selector":"[data-big-pipe-placeholder-id=\u0022callback=Drupal%5Cblock%5CBlockViewBuilder%3A%3AlazyBuilder\u0026args%5B0%5D=views_block__highlights_block_2\u0026args%5B1%5D=full\u0026args%5B2%5D\u0026token=C41acSs9iVmwl6WPdQ58RHromAvhxaZLcRuXgj8Nnek\u0022]","data":"  \n    \n          \n    \n    \n  \n        \n            \n      \u003Cdiv class=\u0022views-element-container settings-tray-editable block block-views block-views-blockhighlights-block-2\u0022 id=\u0022block-views-block-highlights-block-2\u0022 data-drupal-settingstray=\u0022editable\u0022\u003E\n                  \u003Cdiv\u003E\u003Cdiv class=\u0022view view-highlights view-id-highlights view-display-id-block_2 js-view-dom-id-7b8b2aec47bc5149af35e595e1780a80dd4c0fdf7baadd74c390ee3dff39930a\u0022\u003E\n  \n    \n      \n      \u003Cdiv class=\u0022view-content\u0022\u003E\n          \u003Cdiv class=\u0022views-row\u0022\u003E\n    \u003Cdiv class=\u0022views-field views-field-title\u0022\u003E\u003Cspan class=\u0022field-content\u0022\u003EPredicting Stem Strength in Bioenergy Sorghum\u003C\/span\u003E\u003C\/div\u003E\u003Cdiv class=\u0022views-field views-field-view-node\u0022\u003E\u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/content\/predicting-stem-strength-bioenergy-sorghum\u0022 hreflang=\u0022en\u0022\u003ERead More\u003C\/a\u003E\u003C\/span\u003E\u003C\/div\u003E\n  \u003C\/div\u003E\n    \u003Cdiv class=\u0022views-row\u0022\u003E\n    \u003Cdiv class=\u0022views-field views-field-title\u0022\u003E\u003Cspan class=\u0022field-content\u0022\u003EUsing Spectral Reflectance Indices for Selection in Winter Wheat\u003C\/span\u003E\u003C\/div\u003E\u003Cdiv class=\u0022views-field views-field-view-node\u0022\u003E\u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/content\/using-spectral-reflectance-indices-selection-winter-wheat\u0022 hreflang=\u0022en\u0022\u003ERead More\u003C\/a\u003E\u003C\/span\u003E\u003C\/div\u003E\n  \u003C\/div\u003E\n    \u003Cdiv class=\u0022views-row\u0022\u003E\n    \u003Cdiv class=\u0022views-field views-field-title\u0022\u003E\u003Cspan class=\u0022field-content\u0022\u003EInfluence of Annual Bluegrass on Ball Roll\u003C\/span\u003E\u003C\/div\u003E\u003Cdiv class=\u0022views-field views-field-view-node\u0022\u003E\u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/story\/2018\/apr\/wed\/influence-of-annual-bluegrass-on-ball-roll\u0022 hreflang=\u0022und\u0022\u003ERead More\u003C\/a\u003E\u003C\/span\u003E\u003C\/div\u003E\n  \u003C\/div\u003E\n    \u003Cdiv class=\u0022views-row\u0022\u003E\n    \u003Cdiv class=\u0022views-field views-field-title\u0022\u003E\u003Cspan class=\u0022field-content\u0022\u003EUsing Glycine tomentella to Increase Soybean Yield \u003C\/span\u003E\u003C\/div\u003E\u003Cdiv class=\u0022views-field views-field-view-node\u0022\u003E\u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/story\/2018\/apr\/wed\/using-glycine-tomentella-to-increase-soybean-yield\u0022 hreflang=\u0022und\u0022\u003ERead More\u003C\/a\u003E\u003C\/span\u003E\u003C\/div\u003E\n  \u003C\/div\u003E\n\n    \u003C\/div\u003E\n  \n            \u003Cdiv class=\u0022view-footer\u0022\u003E\n      \u003Cp\u003E\u003Ca href=\u0022\/category\/highlights\/Crop-Science-Research-Highlights \u0022\u003EMore Highlights\u003C\/a\u003E\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003C\/div\u003E\n\u003C\/div\u003E\n\n              \u003C\/div\u003E\n  \n\n\n","settings":null}]
+    </script>    <script type="application/vnd.drupal-ajax" data-big-pipe-replacement-for-placeholder-with-id="callback=Drupal%5CCore%5CRender%5CElement%5CStatusMessages%3A%3ArenderMessages&amp;args%5B0%5D&amp;token=_HAdUpwWmet0TOTe2PSiJuMntExoshbm1kh2wQzzzAA">
+    [{"command":"insert","method":"replaceWith","selector":"[data-big-pipe-placeholder-id=\u0022callback=Drupal%5CCore%5CRender%5CElement%5CStatusMessages%3A%3ArenderMessages\u0026args%5B0%5D\u0026token=_HAdUpwWmet0TOTe2PSiJuMntExoshbm1kh2wQzzzAA\u0022]","data":"    \u003Cdiv role=\u0022contentinfo\u0022 aria-label=\u0022Status message\u0022 class=\u0022messages messages--status\u0022\u003E\n                  \u003Ch2 class=\u0022visually-hidden\u0022\u003EStatus message\u003C\/h2\u003E\n                    This article requires a subscription. Please login to access your subscription or purchase a \u0022pay per view\u0022 session. The \u0022pay per view\u0022 options are a pass to the whole journal (14 days for $30.00) or to this article (2 days for $15.00).\n            \u003C\/div\u003E\n    ","settings":null}]
+    </script>
+<script type="application/vnd.drupal-ajax" data-big-pipe-event="stop"></script>
+</body>
+</html>

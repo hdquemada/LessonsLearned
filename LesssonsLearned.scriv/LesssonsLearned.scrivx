@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="OSX-HQUEMADA" Author="Hector Quemada" Modified="2020-08-04 15:21:00 -0400" ModID="555BD9DD-63B0-4500-931B-CEB7B7583553">
+<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="OSX-HQUEMADA" Author="Hector Quemada" Modified="2020-09-03 09:32:42 -0400" ModID="4A45502D-5DEC-4056-AEA5-634C7F4D881E">
     <Binder>
         <BinderItem UUID="635EBC13-D148-438A-B009-59019784F6EC" Type="DraftFolder" Created="2020-07-12 23:57:12 -0400" Modified="2020-07-12 23:57:12 -0400">
             <Title>Draft</Title>
@@ -94,6 +94,53 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>1712,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="5ACE7D36-D297-429F-B808-7C79F4709D54" Type="Folder" Created="2020-09-03 09:17:24 -0400" Modified="2020-09-03 09:17:55 -0400">
+                            <Title>Case Study: Bt Cotton in Burkina Faso</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="E5FE27EF-89C8-40F9-8C19-A8650A2879E2" Type="Text" Created="2020-09-03 09:18:13 -0400" Modified="2020-09-03 09:18:55 -0400">
+                                    <Title>History of Bt Cotton Commercialization in Burkina Faso</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="F42BB1C7-4546-4F2E-A994-46E80C4AEC75" Type="Text" Created="2020-09-03 09:18:58 -0400" Modified="2020-09-03 09:19:15 -0400">
+                                    <Title>Negative Narratives</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="3B08210B-AE1A-4119-A4E7-3D54B94A6EC6" Type="Text" Created="2020-09-03 09:19:16 -0400" Modified="2020-09-03 09:32:42 -0400">
+                                    <Title>Positive Narratives</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>25,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="07B6CEF0-38FB-4E22-8980-4E3C22D9926A" Type="Folder" Created="2020-09-03 09:30:01 -0400" Modified="2020-09-03 09:30:01 -0400">
+                                    <Title>ZoteroLibrary</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -312,7 +359,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="2E5425B1-E00C-4106-9811-07825054608A" Type="Text" Created="2020-08-04 14:28:24 -0400" Modified="2020-08-04 14:28:41 -0400">
+                                        <BinderItem UUID="2E5425B1-E00C-4106-9811-07825054608A" Type="Text" Created="2020-08-04 14:28:24 -0400" Modified="2020-09-03 09:23:32 -0400">
                                             <Title>Opposition to GM Mosquitoes</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -606,6 +653,16 @@
                         <IsAlias Path="/Users/Hector/Science Team FNIH Dropbox/Hector Quemada/ZoteroLibrary/Dorward and Kydd - 2004 - The Malawi 2002 food crisis the rural development.pdf">Yes</IsAlias>
                     </MediaSettings>
                 </BinderItem>
+                <BinderItem UUID="83047406-E5FD-496D-AAAC-B98BD14E6B32" Type="PDF" Created="2020-09-03 09:09:54 -0400" Modified="2020-09-03 09:09:54 -0400">
+                    <Title>Luna and Dowd-Uribe - 2020 - Knowledge politics and the Bt cotton success narra</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>0</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
                 <BinderItem UUID="86AA508A-2253-43B1-A39F-E192A05A826A" Type="Text" Created="2020-07-14 19:42:27 -0400" Modified="2020-07-15 13:23:57 -0400">
                     <Title>References</Title>
                     <MetaData>
@@ -692,6 +749,80 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="5ABDDC0B-694D-43EB-A68A-8EC7278FD218" Type="Folder" Created="2020-09-03 09:30:06 -0400" Modified="2020-09-03 09:30:06 -0400">
+                    <Title>Imported Media [9/3/20, 09:30]</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="743BAE7D-002A-49C7-AF53-5FAC7AEE75A9" Type="PDF" Created="2020-04-26 23:50:28 -0400" Modified="2020-04-26 23:50:28 -0400">
+                            <Title>Hammond et al. - 2018 - Regulation of gene drive expression increases inva</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                            </MetaData>
+                        </BinderItem>
+                        <BinderItem UUID="DE5F5E20-7ADC-4FCB-9570-19B6537420EB" Type="PDF" Created="2020-03-20 09:38:33 -0400" Modified="2020-03-20 09:38:33 -0400">
+                            <Title>Martin-Laffon et al. - 2019 - Worldwide CRISPR patent landscape shows strong geo</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                            </MetaData>
+                        </BinderItem>
+                        <BinderItem UUID="FCEF5694-6897-4BC9-AC33-5350CA58DCFC" Type="PDF" Created="2020-09-03 09:09:54 -0400" Modified="2020-09-03 09:09:54 -0400">
+                            <Title>Luna and Dowd-Uribe - 2020 - Knowledge politics and the Bt cotton success narra</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                            </MetaData>
+                        </BinderItem>
+                        <BinderItem UUID="F0994F10-658A-4DCC-995A-7ED5AACD69D4" Type="PDF" Created="2020-01-28 08:48:48 -0500" Modified="2020-01-28 08:48:48 -0500">
+                            <Title>Buchman et al. - Broad dengue neutralization in mosquitoes expressi</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                            </MetaData>
+                        </BinderItem>
+                        <BinderItem UUID="E2F2379D-60B1-40F3-974C-D9A9EDF31F00" Type="PDF" Created="2018-11-18 13:06:56 -0500" Modified="2018-11-18 13:06:56 -0500">
+                            <Title>Luna V. et al. - 2001 - Maize Pollen Longevity and Distance Isolation Requ</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                            </MetaData>
+                        </BinderItem>
+                        <BinderItem UUID="4E6BA7BA-5AA3-44F8-95AA-315D34C36687" Type="PDF" Created="2020-07-06 11:38:01 -0400" Modified="2020-07-06 11:38:01 -0400">
+                            <Title>Garcia-Alonso and Raybould - 2014 - Protection goals in environmental risk assessment</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                            </MetaData>
+                        </BinderItem>
+                        <BinderItem UUID="1C24E149-C814-4ED1-89AC-61495604B739" Type="PDF" Created="2019-06-27 17:26:01 -0400" Modified="2019-10-04 09:59:46 -0400">
+                            <Title>Pixley et al. - 2019 - Genome Editing, Gene Drives, and Synthetic Biology</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                            </MetaData>
+                        </BinderItem>
+                        <BinderItem UUID="0CBA6206-084D-4EA5-BC61-ADF908717CD9" Type="PDF" Created="2018-11-18 13:06:26 -0500" Modified="2019-10-04 10:00:13 -0400">
+                            <Title>Oye - 2014 - Proceed With Caution</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                            </MetaData>
+                        </BinderItem>
+                        <BinderItem UUID="E65C4AB4-2FC9-43FA-9E23-8B591EDCD6E2" Type="PDF" Created="2020-07-25 07:24:14 -0400" Modified="2020-07-25 07:24:14 -0400">
+                            <Title>Brookes and Barfoot - 2020 - Environmental impacts of genetically modified (GM)</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                            </MetaData>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -749,12 +880,12 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-07-12 23:57:11 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-08-05 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="222" Characters="1407" Date="2020-08-04 13:56:50 -0400"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-09-04 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="4" Characters="25" Date="2020-09-03 09:15:30 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-08-04 00:00:00 -0400">
-        <DraftWordCount>222</DraftWordCount>
-        <DraftCharCount>1407</DraftCharCount>
+    <RecentWritingHistory Date="2020-09-03 00:00:00 -0400">
+        <DraftWordCount>4</DraftWordCount>
+        <DraftCharCount>25</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
