@@ -313,6 +313,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>A040A4AB-3867-46CD-93CE-CACC6FABC0C1</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>A162369E-A1A3-44A3-B4DC-7586A6FD356D</key>
 		<dict>
 			<key>Row</key>
@@ -359,6 +364,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>C7046333-AD28-4BF2-9309-0DCBFC423953</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>C9DBE7E2-FD8F-49FD-B35B-0CB16601777C</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -496,7 +506,7 @@
 	<integer>2</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {384, 697}}</string>
+		<string>{{0, 0}, {256, 697}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>245</real>
@@ -512,7 +522,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {606, 294}}</string>
+	<string>{{0, 0}, {621, 294}}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
@@ -532,7 +542,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {583.42857142857144, 337.14285714285717}}</string>
+	<string>{{0, 0}, {583.42857142857133, 337.14285714285717}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>

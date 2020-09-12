@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="OSX-HQUEMADA" Author="Hector Quemada" Modified="2020-09-03 09:32:42 -0400" ModID="4A45502D-5DEC-4056-AEA5-634C7F4D881E">
+<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="OSX-HQUEMADA" Author="Hector Quemada" Modified="2020-09-08 11:59:51 -0400" ModID="6267FF6C-2B4C-4034-85E8-F6B45B212244">
     <Binder>
         <BinderItem UUID="635EBC13-D148-438A-B009-59019784F6EC" Type="DraftFolder" Created="2020-07-12 23:57:12 -0400" Modified="2020-07-12 23:57:12 -0400">
             <Title>Draft</Title>
@@ -86,14 +86,14 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="AC2B3649-E410-4B57-A92A-9256963927A0" Type="Text" Created="2020-07-13 00:14:34 -0400" Modified="2020-07-29 15:44:51 -0400">
+                                <BinderItem UUID="AC2B3649-E410-4B57-A92A-9256963927A0" Type="Text" Created="2020-07-13 00:14:34 -0400" Modified="2020-09-08 10:53:19 -0400">
                                     <Title>Status of GMO Crop Deployment</Title>
                                     <MetaData>
                                         <SectionType>238DF250-B8A3-485A-B6C6-3E52363D2127</SectionType>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1712,0</TextSelection>
+                                        <TextSelection>1009,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -422,6 +422,15 @@
                                         <TextSelection>257,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
+                                <BinderItem UUID="C9DBE7E2-FD8F-49FD-B35B-0CB16601777C" Type="Text" Created="2020-09-08 11:56:05 -0400" Modified="2020-09-08 11:59:48 -0400">
+                                    <Title>Responsible Innovation Cultural Perceptions of Biotechnology in Food Systems</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>57,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
                             </Children>
                         </BinderItem>
                         <BinderItem UUID="52FB49EE-3BD9-4235-8C27-3A8302B45A0C" Type="Folder" Created="2020-08-04 14:22:37 -0400" Modified="2020-08-04 14:22:54 -0400">
@@ -681,6 +690,16 @@
                         <TextSelection>12,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="A040A4AB-3867-46CD-93CE-CACC6FABC0C1" Type="PDF" Created="2020-09-08 11:50:59 -0400" Modified="2020-09-08 11:50:59 -0400">
+                    <Title>RaJade M. Berry-James - 2019 - Responsible Innovation Cultural Perceptions of Bio</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>0</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem UUID="17FEDAE0-374C-4024-85EE-3D0BA6990237" Type="TrashFolder" Created="2020-07-12 23:57:12 -0400" Modified="2020-07-12 23:57:12 -0400">
@@ -880,12 +899,12 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-07-12 23:57:11 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-09-04 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="4" Characters="25" Date="2020-09-03 09:15:30 -0400"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-09-09 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="176" Characters="1175" Date="2020-09-08 11:55:25 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-09-03 00:00:00 -0400">
-        <DraftWordCount>4</DraftWordCount>
-        <DraftCharCount>25</DraftCharCount>
+    <RecentWritingHistory Date="2020-09-08 00:00:00 -0400">
+        <DraftWordCount>176</DraftWordCount>
+        <DraftCharCount>1175</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
