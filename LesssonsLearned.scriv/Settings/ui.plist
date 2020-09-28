@@ -506,7 +506,7 @@
 	<integer>2</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {256, 697}}</string>
+		<string>{{0, 0}, {336, 697}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>245</real>
@@ -522,7 +522,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {621, 294}}</string>
+	<string>{{0, 0}, {620, 294}}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
@@ -542,7 +542,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {583.42857142857133, 337.14285714285717}}</string>
+	<string>{{0, 14.857142857142856}, {592, 354.85714285714283}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
