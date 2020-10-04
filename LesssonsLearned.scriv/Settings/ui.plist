@@ -418,6 +418,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>E2FCE79D-39B8-4A69-8419-855E1E51515E</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>E5FE27EF-89C8-40F9-8C19-A8650A2879E2</key>
 		<dict>
 			<key>Row</key>
@@ -542,7 +547,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 14.857142857142856}, {592, 354.85714285714283}}</string>
+	<string>{{0, 32.285714285714285}, {592, 354.85714285714289}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
