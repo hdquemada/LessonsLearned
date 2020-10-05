@@ -101,8 +101,8 @@
 	<true/>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {243, 707}}</string>
-		<string>{{244, 0}, {1036, 707}}</string>
+		<string>{{0, 0}, {243, 956}}</string>
+		<string>{{244, 0}, {1036, 956}}</string>
 	</array>
 	<key>binderWidth</key>
 	<real>175</real>
@@ -511,7 +511,7 @@
 	<integer>2</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {336, 697}}</string>
+		<string>{{0, 0}, {336, 946}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>245</real>
@@ -534,7 +534,7 @@
 		<real>2</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>412 247 1280 729 0 0 1920 1058 </string>
+	<string>229 49 1280 978 0 0 1680 1027 </string>
 	<key>previousDocumentTargetType</key>
 	<integer>0</integer>
 	<key>supportingDocumentEditor.PDFAutoScales</key>
@@ -547,7 +547,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 32.285714285714285}, {592, 354.85714285714289}}</string>
+	<string>{{0, 0}, {592, 478.85714285714283}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
