@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="CAS-QuemHe19L1" Author="Hector Quemada" Modified="2020-10-06 08:20:35 -0400" ModID="36DAE51C-478B-482E-842C-017017E30AE5">
+<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="CAS-QuemHe19L1" Author="Hector Quemada" Modified="2020-10-06 16:56:57 -0400" ModID="59E88713-E368-4F2A-ACE6-9B68DF8694D6">
     <Binder>
         <BinderItem UUID="635EBC13-D148-438A-B009-59019784F6EC" Type="DraftFolder" Created="2020-07-12 23:57:12 -0400" Modified="2020-07-12 23:57:12 -0400">
             <Title>Draft</Title>
@@ -132,15 +132,6 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>25,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="07B6CEF0-38FB-4E22-8980-4E3C22D9926A" Type="Folder" Created="2020-09-03 09:30:01 -0400" Modified="2020-09-03 09:30:01 -0400">
-                                    <Title>ZoteroLibrary</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -453,6 +444,17 @@
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
+                    <Children>
+                        <BinderItem UUID="CD0473CB-7874-4D6D-A070-DAF096207444" Type="Text" Created="2020-10-06 08:20:14 -0400" Modified="2020-10-06 16:26:33 -0400">
+                            <Title>Reynolds 2020: Similarities and Differences Between Agricultural GMOs and Gene Drives</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1465,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
                 </BinderItem>
             </Children>
         </BinderItem>
@@ -473,15 +475,6 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>219,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="CD0473CB-7874-4D6D-A070-DAF096207444" Type="Text" Created="2020-10-06 08:20:14 -0400" Modified="2020-10-06 08:20:32 -0400">
-                    <Title>Reynolds 2020</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -861,6 +854,15 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
+                <BinderItem UUID="07B6CEF0-38FB-4E22-8980-4E3C22D9926A" Type="Folder" Created="2020-09-03 09:30:01 -0400" Modified="2020-09-03 09:30:01 -0400">
+                    <Title>ZoteroLibrary</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -919,13 +921,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-07-12 23:57:11 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-10-07 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2020-10-06 08:19:34 -0400"/>
+        <PreviousSession Words="10" Characters="72" Date="2020-10-06 16:56:54 -0400"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2020-10-06 00:00:00 -0400">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+        <DraftWordCount>10</DraftWordCount>
+        <DraftCharCount>72</DraftCharCount>
+        <OtherWordCount>572</OtherWordCount>
+        <OtherCharCount>4182</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999975,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>

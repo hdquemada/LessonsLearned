@@ -2,6 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>CommentsScaleFactor</key>
+	<real>1</real>
+	<key>CommentsUseTextScale</key>
+	<true/>
 	<key>CompileFolder</key>
 	<string>/Users/hquemada/Science Team FNIH Dropbox/Hector Quemada/GeneConvene/AdvisoryBoardMeeting/LessonsLearned</string>
 	<key>NotesScaleFactor</key>
@@ -102,10 +106,10 @@
 	<key>binderSplitFrames</key>
 	<array>
 		<string>{{0, 0}, {243, 956}}</string>
-		<string>{{244, 0}, {1036, 956}}</string>
+		<string>{{244, 0}, {1436, 956}}</string>
 	</array>
 	<key>binderWidth</key>
-	<real>175</real>
+	<real>243</real>
 	<key>bookmarksSelectionInfo</key>
 	<dict>
 		<key>034F4959-1D01-4C3B-9B20-E51A4EB2DD77</key>
@@ -114,6 +118,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>07960FE3-31F0-41A3-80D3-D8ADC48983A7</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>07B6CEF0-38FB-4E22-8980-4E3C22D9926A</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -506,11 +515,11 @@
 	<key>fullScreenPaperHeight</key>
 	<integer>-1</integer>
 	<key>fullScreenPaperWidth</key>
-	<integer>850</integer>
+	<integer>1551</integer>
 	<key>fullScreenTextEditorSettings</key>
 	<dict>
 		<key>textScaleFactor</key>
-		<real>1.25</real>
+		<real>2</real>
 	</dict>
 	<key>fullScreenVerticalPaperPosition</key>
 	<integer>2</integer>
@@ -539,7 +548,7 @@
 		<real>2</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>229 49 1280 978 0 0 1680 1027 </string>
+	<string>0 49 1680 978 0 0 1680 1050 </string>
 	<key>previousDocumentTargetType</key>
 	<integer>0</integer>
 	<key>supportingDocumentEditor.PDFAutoScales</key>
@@ -552,11 +561,11 @@
 		<real>1.5</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {592, 478.85714285714283}}</string>
+	<string>{{0, 0}, {620, 419}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
-		<real>1.75</real>
+		<real>2</real>
 	</dict>
 	<key>supportingDocumentViewIsCurrent</key>
 	<false/>
