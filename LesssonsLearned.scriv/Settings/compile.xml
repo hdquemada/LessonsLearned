@@ -59,7 +59,7 @@
             </MMDMetaData>
         </MetaData>
     </ProjectSettings>
-    <CurrentFileType>odt</CurrentFileType>
+    <CurrentFileType>mmd-odt</CurrentFileType>
     <FormatSettings>
         <Format ID="8CA93A0A-259C-4F7B-9823-F33EA0052B26">
             <Font>Georgia</Font>
@@ -128,6 +128,7 @@
     </FormatSettings>
     <LastUsedFormats>
         <Print>DEFAULT</Print>
+        <mmd-odt>F7116D6F-BF38-4F5C-B9C0-5EBDEE70397F</mmd-odt>
         <odt>F7116D6F-BF38-4F5C-B9C0-5EBDEE70397F</odt>
         <rtf>8CA93A0A-259C-4F7B-9823-F33EA0052B26</rtf>
         <pdf>523F4149-06B7-4873-8C26-2CF84B411DE9</pdf>
