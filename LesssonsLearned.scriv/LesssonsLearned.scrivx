@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="CAS-QuemHe19L1" Author="Hector Quemada" Modified="2020-10-20 10:15:05 -0400" ModID="EBC62C74-C4CC-4E64-B9D5-F844B34B41F9">
+<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="CAS-QuemHe19L1" Author="Hector Quemada" Modified="2020-10-26 15:51:25 -0400" ModID="DBAAA913-442B-487E-95CB-042646DF4B15">
     <Binder>
         <BinderItem UUID="635EBC13-D148-438A-B009-59019784F6EC" Type="DraftFolder" Created="2020-07-12 23:57:12 -0400" Modified="2020-07-12 23:57:12 -0400">
             <Title>Draft</Title>
@@ -421,13 +421,13 @@
                                 <TextSelection>2311,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="ECD45DE1-EA1F-4ECC-8647-9779C342A384" Type="Text" Created="2020-10-14 14:54:35 -0400" Modified="2020-10-14 14:55:18 -0400">
+                        <BinderItem UUID="ECD45DE1-EA1F-4ECC-8647-9779C342A384" Type="Text" Created="2020-10-14 14:54:35 -0400" Modified="2020-10-26 13:21:18 -0400">
                             <Title>SummaryOfLessonsLearned</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>3041,0</TextSelection>
+                                <TextSelection>3642,28</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -496,6 +496,24 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="EE4E97CA-8415-4704-8FCC-89B5DF0BAC2C" Type="Text" Created="2020-10-26 08:33:53 -0400" Modified="2020-10-26 11:52:20 -0400">
+                    <Title>Key problem publications</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>396,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="C84A2CDD-6371-4AF9-84D2-68A479973B13" Type="Text" Created="2020-10-26 11:51:48 -0400" Modified="2020-10-26 13:13:10 -0400">
+                    <Title>Scientific Society and agency positions</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>995,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -893,16 +911,16 @@
                         <TextSelection>8,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="0DFF557A-21D9-47E9-8D3C-A547CDA27AD2" Type="Text" Created="2020-10-14 14:29:44 -0400" Modified="2020-10-14 18:29:24 -0400">
+                <BinderItem UUID="0DFF557A-21D9-47E9-8D3C-A547CDA27AD2" Type="Text" Created="2020-10-14 14:29:44 -0400" Modified="2020-10-26 13:21:48 -0400">
                     <Title>LessonsLearned</Title>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>3844,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="71898535-7BCA-44A8-BBEF-7A97F2814542" Type="Text" Created="2020-10-13 16:53:07 -0400" Modified="2020-10-14 09:51:59 -0400">
+                <BinderItem UUID="71898535-7BCA-44A8-BBEF-7A97F2814542" Type="Text" Created="2020-10-13 16:53:07 -0400" Modified="2020-10-26 13:21:58 -0400">
                     <Title>Summary of lessons learned for FNIH team</Title>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>3316,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -914,6 +932,7 @@
         </Collection>
         <Collection Type="RecentSearch" ID="09FF5E82-635F-4E22-A8EB-FAD8B43FF4A2" Color="0.632608 0.634196 0.802974">
             <Title>Search Results</Title>
+            <SearchSettings Operator="Any" Type="All" CaseSensitive="No" IgnoreDiacritics="No">Farid</SearchSettings>
         </Collection>
     </Collections>
     <SectionTypes>
@@ -962,14 +981,14 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-07-12 23:57:11 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-10-21 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2020-10-20 10:14:58 -0400"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-10-27 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="6" Characters="28" Date="2020-10-26 15:51:17 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-10-20 00:00:00 -0400">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+    <RecentWritingHistory Date="2020-10-26 00:00:00 -0400">
+        <DraftWordCount>6</DraftWordCount>
+        <DraftCharCount>28</DraftCharCount>
+        <OtherWordCount>218</OtherWordCount>
+        <OtherCharCount>1548</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999975,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>

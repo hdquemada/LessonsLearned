@@ -2,6 +2,13 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>CollectionSelections</key>
+	<dict>
+		<key>09FF5E82-635F-4E22-A8EB-FAD8B43FF4A2</key>
+		<array>
+			<string>71898535-7BCA-44A8-BBEF-7A97F2814542</string>
+		</array>
+	</dict>
 	<key>CommentsScaleFactor</key>
 	<real>1</real>
 	<key>CommentsUseTextScale</key>
@@ -407,6 +414,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>C84A2CDD-6371-4AF9-84D2-68A479973B13</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>C9DBE7E2-FD8F-49FD-B35B-0CB16601777C</key>
 		<dict>
 			<key>Row</key>
@@ -497,6 +509,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>EE4E97CA-8415-4704-8FCC-89B5DF0BAC2C</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>EF04B115-9C3F-4DB9-819F-B016AA7FA841</key>
 		<dict>
 			<key>Row</key>
@@ -538,6 +555,10 @@
 			<integer>-1</integer>
 		</dict>
 	</dict>
+	<key>collectionSelectionAutosaveName</key>
+	<array>
+		<integer>2</integer>
+	</array>
 	<key>collectionsRepresentedBinderDocumentsInfo</key>
 	<dict>
 		<key>MainID</key>
@@ -596,6 +617,18 @@
 	<string>0 49 1680 978 0 0 1680 1050 </string>
 	<key>previousDocumentTargetType</key>
 	<integer>0</integer>
+	<key>searchResultsTable</key>
+	<dict>
+		<key>order</key>
+		<array>
+			<string>TITLE</string>
+		</array>
+		<key>widths</key>
+		<dict>
+			<key>TITLE</key>
+			<real>241</real>
+		</dict>
+	</dict>
 	<key>supportingDocumentEditor.PDFAutoScales</key>
 	<false/>
 	<key>supportingDocumentEditor.PDFScale</key>
@@ -606,7 +639,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {620, 419}}</string>
+	<string>{{0, 395}, {620, 435}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
