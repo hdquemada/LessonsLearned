@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="CAS-QuemHe19L1" Author="Hector Quemada" Modified="2020-10-26 15:51:25 -0400" ModID="DBAAA913-442B-487E-95CB-042646DF4B15">
+<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="CAS-QuemHe19L1" Author="Hector Quemada" Modified="2020-10-29 09:33:21 -0400" ModID="AAEB5D61-F200-4345-9D50-0A09654A6C2F">
     <Binder>
         <BinderItem UUID="635EBC13-D148-438A-B009-59019784F6EC" Type="DraftFolder" Created="2020-07-12 23:57:12 -0400" Modified="2020-07-12 23:57:12 -0400">
             <Title>Draft</Title>
@@ -516,6 +516,24 @@
                         <TextSelection>995,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="426D7488-A651-430C-938B-F2601B09EA6F" Type="Text" Created="2020-10-29 09:31:11 -0400" Modified="2020-10-29 09:32:23 -0400">
+                    <Title>Organizational connections</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>114,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="3444E868-1B10-4B47-8911-E1493AB2D44E" Type="Text" Created="2020-10-29 09:32:29 -0400" Modified="2020-10-29 09:33:21 -0400">
+                    <Title>Experience</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>131,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem UUID="0140E97E-074D-4438-9139-F332A24D6CC6" Type="ResearchFolder" Created="2020-07-12 23:57:12 -0400" Modified="2020-07-12 23:57:12 -0400">
@@ -981,14 +999,14 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-07-12 23:57:11 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-10-27 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="6" Characters="28" Date="2020-10-26 15:51:17 -0400"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-10-30 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2020-10-29 09:30:55 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-10-26 00:00:00 -0400">
-        <DraftWordCount>6</DraftWordCount>
-        <DraftCharCount>28</DraftCharCount>
-        <OtherWordCount>218</OtherWordCount>
-        <OtherCharCount>1548</OtherCharCount>
+    <RecentWritingHistory Date="2020-10-29 00:00:00 -0400">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>32</OtherWordCount>
+        <OtherCharCount>245</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999975,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
