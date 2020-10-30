@@ -7897,30 +7897,12 @@ This level of adoption throughout the world has resulted in significant socio-ec
             <Title>Opposition remains</Title>
             <Text>Despite these documented benefits to farmer income, health and the environment, opposition to GM crops remains strong in many parts of the world, in particular Europe { | ISAAA, 2018 | | |zu:5334702:QDQ4ENZ7}{ | Zilberman et al., 2013 | | |zu:5334702:A5LLMP5T}, with its consequent impact on Africa { | Huffman et al., 2003 | | |zu:5334702:R3839H27}add more references here. Even in countries where there is widespread adoption by farmers, the consuming public remains divided over the safety or simply the overall acceptability of these productsadd references. The acceptance or rejection of GM crops by different populations has been studied extensively over the years. The lessons learned from the experience of deployment of GM crops could provide lessons for the development and deployment of gene drive technologies, which are currently receiving attention similar to that which was experienced by GM crops while they were being developed and when they were initially introduced. Interestingly, in the light of GM organisms containing gene drives, GM crops and other “traditional” transgenic products recently seem to be viewed in a more benign light, due to their familiarity, even by long-term opponents of GMOsadd reference.</Text>
         </Document>
+        <Document ID="2C05D0EB-596D-4ABE-89C6-3C685290554A">
+            <Title>GM Animals</Title>
+            <Text>Consider just saying there are experiences with GM animals as well, but you will focus on GM crops for this analysis, because there is much more extensive experience with that class of GMOs.</Text>
+        </Document>
         <Document ID="F6783F3E-3C73-4317-9407-0DB0AE93E416">
             <Title>GM crop approvals in Europe</Title>
-        </Document>
-        <Document ID="86AA508A-2253-43B1-A39F-E192A05A826A">
-            <Title>References</Title>
-            <Text>References
-Barragán-Ocaña, A., Reyes-Ruiz, G., Olmos-Peña, S., and Gómez-Viquez, H. (2019). Transgenic crops: trends and dynamics in the world and in Latin America. Transgenic Research 28, 391-399.
-
-Bazuin, S., Azadi, H., and Witlox, F. (2011). Application of GM crops in Sub-Saharan Africa: Lessons learned from Green Revolution. Biotechnology Advances 29, 908-912.
-
-Bruce, A. (2017). Genome edited animals: Learning from GM crops? Transgenic Research 26, 385-398.
-
-Burke, D. (2004). GM food and crops: what went wrong in the UK?: Many of the public's concerns have little to do with science. EMBO Reports 5, 432-436.
-
-Dawe, D., and Unnevehr, L. (2007). Crop Case Study: GMO Golden Rice in Asia with Enhanced Vitamin A Benefits for Consumers. AgBioForum 10, 154-160.
-
-Fagerström, T., Dixelius, C., Magnusson, U., and Sundström, J.F. (2012). Stop worrying; start growing: Risk research on GM crops is a dead parrot: it is time to start reaping the benefits of GM. EMBO Rep 13, 493–497.
-
-Falck-Zepeda, José Benjamin, Guillaume P. Gruère, and Idah Sithole-Niang, eds. (2013). Genetically modified crops in Africa: economic and policy lessons from countries south of the Sahara (Washington, DC: International Food Policy Research Institute).
-
-ISAAA (2020). Biotech Crops Continue to Help Meet the Challenges of Increased Population and Climate Change Introduction. ISAAA Brief 54-2018: Executive Summary  http://www.isaaa.org/resources/publications/briefs/54/executivesummary/default.asp. Accessed 2020-05-21.
-
-Paull, J. (2015). GMOs and Organic Agriculture: Six Lessons from Australia. Agriculture and Forestry 61, 7-14.
-</Text>
         </Document>
         <Document ID="DA51A9BD-BAA4-429F-BD21-5DD3CDA803AC">
             <Title>Chvatalova-2019-A-critical-evaluation-of-efsas-envi</Title>
@@ -8427,6 +8409,28 @@ from Bacillus thuringiensis are released in root exudates of transgenic B. thuri
 73. Leroux J (2017) GM maize for cultivation. The Commission must accept the appeal committee’s vote and refuse new authorizations. https:// www.greens-efa.eu/en/article/news/gm-maize-for-cultivation/. Accessed 22 Mar 2019
 Publisher’s Note
 Springer Nature remains neutral with regard to jurisdictional claims in pub- lished maps and institutional affiliations.
+</Text>
+        </Document>
+        <Document ID="86AA508A-2253-43B1-A39F-E192A05A826A">
+            <Title>References</Title>
+            <Text>References
+Barragán-Ocaña, A., Reyes-Ruiz, G., Olmos-Peña, S., and Gómez-Viquez, H. (2019). Transgenic crops: trends and dynamics in the world and in Latin America. Transgenic Research 28, 391-399.
+
+Bazuin, S., Azadi, H., and Witlox, F. (2011). Application of GM crops in Sub-Saharan Africa: Lessons learned from Green Revolution. Biotechnology Advances 29, 908-912.
+
+Bruce, A. (2017). Genome edited animals: Learning from GM crops? Transgenic Research 26, 385-398.
+
+Burke, D. (2004). GM food and crops: what went wrong in the UK?: Many of the public's concerns have little to do with science. EMBO Reports 5, 432-436.
+
+Dawe, D., and Unnevehr, L. (2007). Crop Case Study: GMO Golden Rice in Asia with Enhanced Vitamin A Benefits for Consumers. AgBioForum 10, 154-160.
+
+Fagerström, T., Dixelius, C., Magnusson, U., and Sundström, J.F. (2012). Stop worrying; start growing: Risk research on GM crops is a dead parrot: it is time to start reaping the benefits of GM. EMBO Rep 13, 493–497.
+
+Falck-Zepeda, José Benjamin, Guillaume P. Gruère, and Idah Sithole-Niang, eds. (2013). Genetically modified crops in Africa: economic and policy lessons from countries south of the Sahara (Washington, DC: International Food Policy Research Institute).
+
+ISAAA (2020). Biotech Crops Continue to Help Meet the Challenges of Increased Population and Climate Change Introduction. ISAAA Brief 54-2018: Executive Summary  http://www.isaaa.org/resources/publications/briefs/54/executivesummary/default.asp. Accessed 2020-05-21.
+
+Paull, J. (2015). GMOs and Organic Agriculture: Six Lessons from Australia. Agriculture and Forestry 61, 7-14.
 </Text>
         </Document>
         <Document ID="F9EB544F-E345-445D-9CFB-258AE28FE527">
@@ -9493,9 +9497,10 @@ Start reading this book for free: https://a.co/av7sw2i</Text>
             <Title>Luna V. et al. - 2001 - Maize Pollen Longevity and Distance Isolation Requ</Title>
         </Document>
         <Document ID="EE4E97CA-8415-4704-8FCC-89B5DF0BAC2C">
+            <Title>Key problem publications</Title>
             <Text>Some scientific publications were key in the controversy:
 1. Cornell monarch butterfly paper
-2. Puzstai paper
+2. Puzstai paper { | Ewen, &amp; Pusztai, 1999 | | |zu:5334702:2PFUIWFL}
 3. Seralini papers
 Lots of other scientific papers that reported potential harm, even today. Cite some of them. However, these papers were prominent in their effect. Also point out that some organizations established and published their own papers (e.g. I-SIS; https://www.i-sis.org.uk)</Text>
         </Document>
@@ -12420,6 +12425,10 @@ M White*
         <Document ID="CC2E3B12-C157-4B2B-BDF1-87B58C44A0EF">
             <Title>AquaBounty Salmon Development and Deployment</Title>
         </Document>
+        <Document ID="426D7488-A651-430C-938B-F2601B09EA6F">
+            <Title>Organizational connections</Title>
+            <Text>Relationship with governmental organizations, e.g. environmental ministries like in the CBD (if you can document).</Text>
+        </Document>
         <Document ID="DE5F5E20-7ADC-4FCB-9570-19B6537420EB">
             <Title>Martin-Laffon et al. - 2019 - Worldwide CRISPR patent landscape shows strong geo</Title>
             <Text>1,000 900 800 700 600 500 400 300 200 100 0
@@ -12801,10 +12810,6 @@ NAture BiotechNology | VOL 37 | JUNE 2019 | 601–621 | www.nature.com/naturebio
             <Title>test markdown</Title>
             <Text># Title
 </Text>
-        </Document>
-        <Document ID="426D7488-A651-430C-938B-F2601B09EA6F">
-            <Title>Organizational connections</Title>
-            <Text>Relationship with governmental organizations, e.g. environmental ministries like in the CBD (if you can document).</Text>
         </Document>
         <Document ID="743BAE7D-002A-49C7-AF53-5FAC7AEE75A9">
             <Title>Hammond et al. - 2018 - Regulation of gene drive expression increases inva</Title>

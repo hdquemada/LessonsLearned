@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="CAS-QuemHe19L1" Author="Hector Quemada" Modified="2020-10-29 09:33:21 -0400" ModID="AAEB5D61-F200-4345-9D50-0A09654A6C2F">
+<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="CAS-QuemHe19L1" Author="Hector Quemada" Modified="2020-10-29 15:19:18 -0400" ModID="705202C5-7334-4DD1-81C7-8A1C6D02F934">
     <Binder>
         <BinderItem UUID="635EBC13-D148-438A-B009-59019784F6EC" Type="DraftFolder" Created="2020-07-12 23:57:12 -0400" Modified="2020-07-12 23:57:12 -0400">
             <Title>Draft</Title>
@@ -112,10 +112,10 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="2C05D0EB-596D-4ABE-89C6-3C685290554A" Type="Folder" Created="2020-08-04 14:19:28 -0400" Modified="2020-08-04 14:19:45 -0400">
+                        <BinderItem UUID="2C05D0EB-596D-4ABE-89C6-3C685290554A" Type="Folder" Created="2020-08-04 14:19:28 -0400" Modified="2020-10-29 13:45:30 -0400">
                             <Title>GM Animals</Title>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>190,0</TextSelection>
                             </TextSettings>
                             <Children>
                                 <BinderItem UUID="DB605C69-5E4C-4101-B7D3-D57CF32F2EE0" Type="Folder" Created="2020-08-04 14:23:58 -0400" Modified="2020-08-04 14:25:11 -0400">
@@ -498,13 +498,13 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="EE4E97CA-8415-4704-8FCC-89B5DF0BAC2C" Type="Text" Created="2020-10-26 08:33:53 -0400" Modified="2020-10-26 11:52:20 -0400">
+                <BinderItem UUID="EE4E97CA-8415-4704-8FCC-89B5DF0BAC2C" Type="Text" Created="2020-10-26 08:33:53 -0400" Modified="2020-10-29 15:19:18 -0400">
                     <Title>Key problem publications</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>396,0</TextSelection>
+                        <TextSelection>161,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="C84A2CDD-6371-4AF9-84D2-68A479973B13" Type="Text" Created="2020-10-26 11:51:48 -0400" Modified="2020-10-26 13:13:10 -0400">
@@ -1000,13 +1000,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-07-12 23:57:11 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-10-30 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2020-10-29 09:30:55 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2020-10-29 15:05:41 -0400"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2020-10-29 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>32</OtherWordCount>
-        <OtherCharCount>245</OtherCharCount>
+        <OtherWordCount>71</OtherWordCount>
+        <OtherCharCount>487</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999975,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
