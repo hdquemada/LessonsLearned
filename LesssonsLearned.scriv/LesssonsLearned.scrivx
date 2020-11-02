@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="CAS-QuemHe19L1" Author="Hector Quemada" Modified="2020-10-30 14:13:50 -0400" ModID="1B205C4D-3B10-464A-BF57-75C8491327DD">
+<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="CAS-QuemHe19L1" Author="Hector Quemada" Modified="2020-11-02 16:11:11 -0500" ModID="E2616B16-3E4B-4C5A-9CCE-452FF1721E91">
     <Binder>
         <BinderItem UUID="635EBC13-D148-438A-B009-59019784F6EC" Type="DraftFolder" Created="2020-07-12 23:57:12 -0400" Modified="2020-07-12 23:57:12 -0400">
             <Title>Draft</Title>
@@ -272,7 +272,7 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>581,0</TextSelection>
+                                                <TextSelection>26,59</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="DFEB0688-F95A-44F8-A58C-A570215022BC" Type="Text" Created="2020-07-20 14:00:09 -0400" Modified="2020-07-24 15:56:58 -0400">
@@ -421,13 +421,13 @@
                                 <TextSelection>2311,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="ECD45DE1-EA1F-4ECC-8647-9779C342A384" Type="Text" Created="2020-10-14 14:54:35 -0400" Modified="2020-10-26 13:21:18 -0400">
+                        <BinderItem UUID="ECD45DE1-EA1F-4ECC-8647-9779C342A384" Type="Text" Created="2020-10-14 14:54:35 -0400" Modified="2020-11-02 16:11:11 -0500">
                             <Title>SummaryOfLessonsLearned</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>3642,28</TextSelection>
+                                <TextSelection>3366,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -999,12 +999,12 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-07-12 23:57:11 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-10-31 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2020-10-30 14:11:19 -0400"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-11-03 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="6" Characters="29" Date="2020-11-02 15:51:29 -0500"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-10-30 00:00:00 -0400">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
+    <RecentWritingHistory Date="2020-11-02 00:00:00 -0500">
+        <DraftWordCount>6</DraftWordCount>
+        <DraftCharCount>29</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
