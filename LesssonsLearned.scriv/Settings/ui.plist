@@ -14,7 +14,7 @@
 	<key>CommentsUseTextScale</key>
 	<true/>
 	<key>CompileFolder</key>
-	<string>/Users/hquemada/Science Team FNIH Dropbox/Hector Quemada/GeneConvene/AdvisoryBoardMeeting/LessonsLearned</string>
+	<string>/Users/Hector/Desktop</string>
 	<key>NotesScaleFactor</key>
 	<real>1.5</real>
 	<key>QRPanelSettings</key>
@@ -112,8 +112,8 @@
 	<true/>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {243, 956}}</string>
-		<string>{{244, 0}, {1436, 956}}</string>
+		<string>{{0, 0}, {185, 707}}</string>
+		<string>{{186, 0}, {1094, 707}}</string>
 	</array>
 	<key>binderWidth</key>
 	<real>243</real>
@@ -225,6 +225,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>3B11751D-2587-4587-9628-4194188BDE39</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>3DB5508E-CDB8-4989-B181-076EBDD1A7F2</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -583,7 +588,7 @@
 	</dict>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{552, 0}, {552, 697}}</string>
+		<string>{{547, 0}, {547, 677}}</string>
 	</array>
 	<key>fullScreenBackgroundFade</key>
 	<real>1</real>
@@ -606,10 +611,10 @@
 	<integer>2</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {336, 946}}</string>
+		<string>{{0, 0}, {256, 697}}</string>
 	</array>
 	<key>inspectorWidth</key>
-	<real>245</real>
+	<real>227</real>
 	<key>lastDocumentSplitType</key>
 	<integer>1</integer>
 	<key>mainDocumentEditor.PDFAutoScales</key>
@@ -622,7 +627,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {606, 294}}</string>
+	<string>{{0, 0}, {621, 294}}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
@@ -641,7 +646,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>230</real>
+			<real>229</real>
 		</dict>
 	</dict>
 	<key>supportingDocumentEditor.PDFAutoScales</key>
@@ -654,7 +659,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {620, 419}}</string>
+	<string>{{0, 1043.5}, {547, 295}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>

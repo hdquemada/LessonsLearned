@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="CAS-QuemHe19L1" Author="Hector Quemada" Modified="2020-11-16 00:16:44 -0500" ModID="0AE5926E-D952-4B69-AE91-F2AA4100319B">
+<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.2.1-14481" Device="OSX-HQUEMADA" Author="Hector Quemada" Modified="2020-11-23 13:09:45 -0500" ModID="814DC21A-DBF1-419B-87DA-2CF45F1F40D6">
     <Binder>
         <BinderItem UUID="635EBC13-D148-438A-B009-59019784F6EC" Type="DraftFolder" Created="2020-07-12 23:57:12 -0400" Modified="2020-07-12 23:57:12 -0400">
             <Title>Draft</Title>
@@ -17,28 +17,31 @@
                 </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem UUID="5428C32E-4196-4E19-A5BB-EC1DB818A524" Type="Text" Created="2020-07-12 23:57:12 -0400" Modified="2020-07-29 11:54:45 -0400">
+                <BinderItem UUID="5428C32E-4196-4E19-A5BB-EC1DB818A524" Type="Text" Created="2020-07-12 23:57:12 -0400" Modified="2020-11-20 12:27:24 -0500">
                     <Title>Title</Title>
                     <MetaData>
                         <SectionType>238DF250-B8A3-485A-B6C6-3E52363D2127</SectionType>
+                        <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>109,0</TextSelection>
+                        <TextSelection>118,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="A2920E67-208B-4E4D-B4CF-A1FB3493FB59" Type="Text" Created="2020-07-13 00:08:52 -0400" Modified="2020-07-24 15:57:38 -0400">
+                <BinderItem UUID="A2920E67-208B-4E4D-B4CF-A1FB3493FB59" Type="Text" Created="2020-07-13 00:08:52 -0400" Modified="2020-11-20 12:27:49 -0500">
                     <Title>Abstract</Title>
                     <MetaData>
                         <SectionType>238DF250-B8A3-485A-B6C6-3E52363D2127</SectionType>
+                        <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>9,0</TextSelection>
+                        <TextSelection>0,8</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="ED927E96-CEE9-48B7-8BFF-A7329E7FBE72" Type="Text" Created="2020-07-21 00:38:26 -0400" Modified="2020-08-04 14:38:23 -0400">
                     <Title>Table of Contents</Title>
                     <MetaData>
                         <SectionType>238DF250-B8A3-485A-B6C6-3E52363D2127</SectionType>
+                        <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
@@ -46,23 +49,30 @@
                 </BinderItem>
                 <BinderItem UUID="DE468BDB-7DC0-4E53-9382-11A6C8E924BE" Type="Text" Created="2020-07-29 12:01:42 -0400" Modified="2020-08-04 15:10:58 -0400">
                     <Title>Table of Abbreviations</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
                     <TextSettings>
-                        <TextSelection>77,0</TextSelection>
+                        <TextSelection>79,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="DF6F13B3-93B8-4259-AC06-F48860307264" Type="Folder" Created="2020-07-21 00:35:01 -0400" Modified="2020-07-21 00:35:17 -0400">
                     <Title>Introduction</Title>
                     <MetaData>
                         <SectionType>68B93CDB-E3E6-40B7-91C3-FA211E652988</SectionType>
+                        <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="034F4959-1D01-4C3B-9B20-E51A4EB2DD77" Type="Text" Created="2020-07-29 10:18:41 -0400" Modified="2020-08-04 15:21:00 -0400">
+                        <BinderItem UUID="034F4959-1D01-4C3B-9B20-E51A4EB2DD77" Type="Text" Created="2020-07-29 10:18:41 -0400" Modified="2020-11-20 12:22:18 -0500">
                             <Title>Introduction</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
                             <TextSettings>
-                                <TextSelection>4297,0</TextSelection>
+                                <TextSelection>4447,0</TextSelection>
                                 <Target Type="Words" Notify="No">400</Target>
                             </TextSettings>
                         </BinderItem>
@@ -70,95 +80,58 @@
                             <Title>GM Crop Status</Title>
                             <MetaData>
                                 <SectionType ChildDefault="2FB31B55-043B-4839-8855-B503E34EA1A5">2FB31B55-043B-4839-8855-B503E34EA1A5</SectionType>
+                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="AC2B3649-E410-4B57-A92A-9256963927A0" Type="Text" Created="2020-07-13 00:14:34 -0400" Modified="2020-10-05 11:05:49 -0400">
+                                <BinderItem UUID="AC2B3649-E410-4B57-A92A-9256963927A0" Type="Text" Created="2020-07-13 00:14:34 -0400" Modified="2020-11-20 12:44:39 -0500">
                                     <Title>Status of GMO Crop Deployment</Title>
                                     <MetaData>
                                         <SectionType>238DF250-B8A3-485A-B6C6-3E52363D2127</SectionType>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>2158,0</TextSelection>
+                                        <TextSelection>3037,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
                         <BinderItem UUID="5ACE7D36-D297-429F-B808-7C79F4709D54" Type="Folder" Created="2020-09-03 09:17:24 -0400" Modified="2020-09-03 09:17:55 -0400">
                             <Title>Case Study: Bt Cotton in Burkina Faso</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
                                 <BinderItem UUID="E5FE27EF-89C8-40F9-8C19-A8650A2879E2" Type="Text" Created="2020-09-03 09:18:13 -0400" Modified="2020-09-03 09:18:55 -0400">
                                     <Title>History of Bt Cotton Commercialization in Burkina Faso</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="F42BB1C7-4546-4F2E-A994-46E80C4AEC75" Type="Text" Created="2020-09-03 09:18:58 -0400" Modified="2020-09-03 09:19:15 -0400">
                                     <Title>Negative Narratives</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="3B08210B-AE1A-4119-A4E7-3D54B94A6EC6" Type="Text" Created="2020-09-03 09:19:16 -0400" Modified="2020-09-03 09:32:42 -0400">
                                     <Title>Positive Narratives</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
                                     <TextSettings>
                                         <TextSelection>25,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem UUID="2C05D0EB-596D-4ABE-89C6-3C685290554A" Type="Folder" Created="2020-08-04 14:19:28 -0400" Modified="2020-10-29 13:45:30 -0400">
-                            <Title>GM Animals</Title>
-                            <TextSettings>
-                                <TextSelection>190,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem UUID="DB605C69-5E4C-4101-B7D3-D57CF32F2EE0" Type="Folder" Created="2020-08-04 14:23:58 -0400" Modified="2020-08-04 14:25:11 -0400">
-                                    <Title>GM Salmon</Title>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                    <Children>
-                                        <BinderItem UUID="CC2E3B12-C157-4B2B-BDF1-87B58C44A0EF" Type="Text" Created="2020-08-04 14:24:48 -0400" Modified="2020-08-04 14:25:51 -0400">
-                                            <Title>AquaBounty Salmon Development and Deployment</Title>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                    </Children>
-                                </BinderItem>
-                                <BinderItem UUID="F9EB544F-E345-445D-9CFB-258AE28FE527" Type="Folder" Created="2020-08-04 14:35:55 -0400" Modified="2020-08-04 14:36:52 -0400">
-                                    <Title>GM Mosquitoes (Non-Driving)</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                    <Children>
-                                        <BinderItem UUID="A303EFC9-EB34-4039-BE99-B01F982B15E8" Type="Text" Created="2020-08-04 14:37:05 -0400" Modified="2020-08-04 14:37:13 -0400">
-                                            <Title>Oxitec Mosquitoes</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                    </Children>
-                                </BinderItem>
-                                <BinderItem UUID="94A7DEA9-A39B-4E2E-82FE-30CF3DB2E5AA" Type="Folder" Created="2020-08-04 14:24:34 -0400" Modified="2020-08-04 14:24:44 -0400">
-                                    <Title>Other GM Animals</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -212,13 +185,13 @@
                                                 <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                             <Children>
-                                                <BinderItem UUID="645A8B31-4E6B-479A-9A47-2328367F05C1" Type="Text" Created="2020-07-29 10:11:48 -0400" Modified="2020-07-29 15:47:34 -0400">
+                                                <BinderItem UUID="645A8B31-4E6B-479A-9A47-2328367F05C1" Type="Text" Created="2020-07-29 10:11:48 -0400" Modified="2020-11-20 12:19:52 -0500">
                                                     <Title>Status of GM Crops in Europe</Title>
                                                     <MetaData>
                                                         <IncludeInCompile>Yes</IncludeInCompile>
                                                     </MetaData>
                                                     <TextSettings>
-                                                        <TextSelection>2513,0</TextSelection>
+                                                        <TextSelection>3343,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
                                             </Children>
@@ -301,27 +274,18 @@
                         </BinderItem>
                         <BinderItem UUID="A162369E-A1A3-44A3-B4DC-7586A6FD356D" Type="Folder" Created="2020-08-04 14:15:01 -0400" Modified="2020-08-04 14:15:33 -0400">
                             <Title>Opposition to Other GMOs</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
                                 <BinderItem UUID="60BA6896-E4F9-4FC2-B493-52DC5C74F5CE" Type="Folder" Created="2020-08-04 14:17:45 -0400" Modified="2020-08-04 14:18:06 -0400">
                                     <Title>GM Mosquitoes (Non-Driving)</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
                                         <BinderItem UUID="2E5425B1-E00C-4106-9811-07825054608A" Type="Text" Created="2020-08-04 14:28:24 -0400" Modified="2020-09-03 09:23:32 -0400">
                                             <Title>Opposition to GM Mosquitoes</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
                                             <TextSettings>
                                                 <TextSelection>0,0</TextSelection>
                                             </TextSettings>
@@ -330,18 +294,12 @@
                                 </BinderItem>
                                 <BinderItem UUID="3B11751D-2587-4587-9628-4194188BDE39" Type="Folder" Created="2020-08-04 14:18:11 -0400" Modified="2020-08-04 14:28:20 -0400">
                                     <Title>Other GM Animals</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
                                         <BinderItem UUID="DB31776F-29F6-44F3-8C13-725F4B9E8E1D" Type="Text" Created="2020-08-04 14:18:49 -0400" Modified="2020-08-04 14:28:02 -0400">
                                             <Title>Opposition to GM Salmon</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
                                             <TextSettings>
                                                 <TextSelection>0,0</TextSelection>
                                             </TextSettings>
@@ -393,9 +351,6 @@
                         </BinderItem>
                         <BinderItem UUID="52FB49EE-3BD9-4235-8C27-3A8302B45A0C" Type="Folder" Created="2020-08-04 14:22:37 -0400" Modified="2020-08-04 14:22:54 -0400">
                             <Title>Interview: Fil Randazzo</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
@@ -421,13 +376,76 @@
                                 <TextSelection>2311,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="ECD45DE1-EA1F-4ECC-8647-9779C342A384" Type="Text" Created="2020-10-14 14:54:35 -0400" Modified="2020-11-02 16:11:11 -0500">
+                        <BinderItem UUID="ECD45DE1-EA1F-4ECC-8647-9779C342A384" Type="Text" Created="2020-10-14 14:54:35 -0400" Modified="2020-11-23 13:09:45 -0500">
                             <Title>SummaryOfLessonsLearned</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>3366,0</TextSelection>
+                                <TextSelection>2871,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="3DB5508E-CDB8-4989-B181-076EBDD1A7F2" Type="Folder" Created="2020-11-20 12:22:52 -0500" Modified="2020-11-20 12:23:05 -0500">
+            <Title>Parking Lot</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Notes (Green Notepad)</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="2C05D0EB-596D-4ABE-89C6-3C685290554A" Type="Folder" Created="2020-08-04 14:19:28 -0400" Modified="2020-10-29 13:45:30 -0400">
+                    <Title>GM Animals</Title>
+                    <TextSettings>
+                        <TextSelection>190,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="DB605C69-5E4C-4101-B7D3-D57CF32F2EE0" Type="Folder" Created="2020-08-04 14:23:58 -0400" Modified="2020-08-04 14:25:11 -0400">
+                            <Title>GM Salmon</Title>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="CC2E3B12-C157-4B2B-BDF1-87B58C44A0EF" Type="Text" Created="2020-08-04 14:24:48 -0400" Modified="2020-08-04 14:25:51 -0400">
+                                    <Title>AquaBounty Salmon Development and Deployment</Title>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="F9EB544F-E345-445D-9CFB-258AE28FE527" Type="Folder" Created="2020-08-04 14:35:55 -0400" Modified="2020-08-04 14:36:52 -0400">
+                            <Title>GM Mosquitoes (Non-Driving)</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="A303EFC9-EB34-4039-BE99-B01F982B15E8" Type="Text" Created="2020-08-04 14:37:05 -0400" Modified="2020-08-04 14:37:13 -0400">
+                                    <Title>Oxitec Mosquitoes</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="94A7DEA9-A39B-4E2E-82FE-30CF3DB2E5AA" Type="Folder" Created="2020-08-04 14:24:34 -0400" Modified="2020-08-04 14:24:44 -0400">
+                            <Title>Other GM Animals</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -1008,12 +1026,12 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-07-12 23:57:11 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-11-17 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="30" Characters="206" Date="2020-11-16 00:14:32 -0500"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-11-24 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="28" Characters="189" Date="2020-11-23 13:03:02 -0500"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-11-16 00:00:00 -0500">
-        <DraftWordCount>30</DraftWordCount>
-        <DraftCharCount>206</DraftCharCount>
+    <RecentWritingHistory Date="2020-11-23 00:00:00 -0500">
+        <DraftWordCount>28</DraftWordCount>
+        <DraftCharCount>189</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
