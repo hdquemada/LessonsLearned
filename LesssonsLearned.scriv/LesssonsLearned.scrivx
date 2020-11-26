@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.2.1-14481" Device="OSX-HQUEMADA" Author="Hector Quemada" Modified="2020-11-23 13:09:45 -0500" ModID="814DC21A-DBF1-419B-87DA-2CF45F1F40D6">
+<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.2.1-14481" Device="CAS-QuemHe19L1" Author="Hector Quemada" Modified="2020-11-24 20:45:06 -0500" ModID="94D0146F-45DF-47FD-9ED1-E58694D823FD">
     <Binder>
         <BinderItem UUID="635EBC13-D148-438A-B009-59019784F6EC" Type="DraftFolder" Created="2020-07-12 23:57:12 -0400" Modified="2020-07-12 23:57:12 -0400">
             <Title>Draft</Title>
@@ -198,6 +198,15 @@
                                         </BinderItem>
                                         <BinderItem UUID="74BFC439-4F31-4992-90A6-E31BBBA4FBB7" Type="Folder" Created="2020-07-29 10:16:52 -0400" Modified="2020-07-29 10:17:54 -0400">
                                             <Title>European objections</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="F679101C-B45B-4108-97A8-280B57065735" Type="Text" Created="2020-11-24 20:10:39 -0500" Modified="2020-11-24 20:45:06 -0500">
+                                            <Title>Eiropean anti-GMO agenda</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
@@ -796,6 +805,80 @@
                         <CurrentPDFPage>0</CurrentPDFPage>
                     </MediaSettings>
                 </BinderItem>
+                <BinderItem UUID="CA48D06E-B317-447F-8164-6172AE01B882" Type="Folder" Created="2020-11-24 20:43:46 -0500" Modified="2020-11-24 20:43:46 -0500">
+                    <Title>Imported Media [11/24/20, 20:43]</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="C904F040-883B-403A-BBCC-07A462CE7AAF" Type="PDF" Created="2020-05-10 16:36:47 -0400" Modified="2020-05-10 16:36:47 -0400">
+                            <Title>COGEM2019GeneEditedCrops</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                            </MetaData>
+                        </BinderItem>
+                        <BinderItem UUID="8BDDA3AC-3942-4515-B530-C72B9719D1CD" Type="PDF" Created="2020-05-12 11:55:51 -0400" Modified="2020-05-12 11:55:51 -0400">
+                            <Title>Hoerman2020Converting endogenous genesof the malaria mosquito into simple non-autonomous gene drives for population replacement</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                            </MetaData>
+                        </BinderItem>
+                        <BinderItem UUID="114A9B2D-0DD7-474F-87BE-CAD5E2D62D83" Type="PDF" Created="2020-06-23 09:53:47 -0400" Modified="2020-06-23 09:53:47 -0400">
+                            <Title>Pollegioni-2020-Detecting-the-population-dynamics-o</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                            </MetaData>
+                        </BinderItem>
+                        <BinderItem UUID="50C2759B-B30D-483A-BB22-14D96D1514DF" Type="PDF" Created="2020-07-22 20:21:59 -0400" Modified="2020-07-22 20:21:59 -0400">
+                            <Title>Taitingfong2020Islands as Laboratories Indigenous Knowledge and Gene Drives in the Pacific</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                            </MetaData>
+                        </BinderItem>
+                        <BinderItem UUID="CBB474ED-B5D3-4E99-9FAC-04F442058627" Type="PDF" Created="2020-01-31 14:09:14 -0500" Modified="2020-01-31 14:09:14 -0500">
+                            <Title>CRSIPRplants2019</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                            </MetaData>
+                        </BinderItem>
+                        <BinderItem UUID="A009C37F-41E5-4738-9B3B-7C916FF11C8D" Type="PDF" Created="2020-09-14 09:31:04 -0400" Modified="2020-09-14 09:31:04 -0400">
+                            <Title>Smith2020CliimateSuitabilityModelsAndMalaria</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                            </MetaData>
+                        </BinderItem>
+                        <BinderItem UUID="53A241DC-7547-4E89-AE2A-AB661A5A5EF6" Type="PDF" Created="2020-01-16 09:31:54 -0500" Modified="2020-01-16 09:31:54 -0500">
+                            <Title>Kohl-2020-Metaphor-trust-and-support-for-non-</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                            </MetaData>
+                        </BinderItem>
+                        <BinderItem UUID="082F2B5C-86C5-4E32-8FDD-43B00E16A337" Type="PDF" Created="2020-10-02 09:43:37 -0400" Modified="2020-10-02 09:43:37 -0400">
+                            <Title>Golnar-2020-Embracing-dynamic-models-for-gene-d</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                            </MetaData>
+                        </BinderItem>
+                        <BinderItem UUID="B76D44C2-772E-4E09-8A68-B1E56201A455" Type="PDF" Created="2020-03-31 12:00:26 -0400" Modified="2020-03-31 12:00:26 -0400">
+                            <Title>Caragata-2020-A-non-live-preparation-of-chromobac</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                            </MetaData>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem UUID="17FEDAE0-374C-4024-85EE-3D0BA6990237" Type="TrashFolder" Created="2020-07-12 23:57:12 -0400" Modified="2020-07-12 23:57:12 -0400">
@@ -968,6 +1051,15 @@
                         <TextSelection>3316,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="264C0F2D-A575-4F48-BF9C-E6E567D4B71E" Type="Folder" Created="2020-11-24 20:43:40 -0500" Modified="2020-11-24 20:43:40 -0500">
+                    <Title>Downloads</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -1026,12 +1118,12 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-07-12 23:57:11 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-11-24 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="28" Characters="189" Date="2020-11-23 13:03:02 -0500"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-11-25 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="2" Date="2020-11-24 20:41:10 -0500"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-11-23 00:00:00 -0500">
-        <DraftWordCount>28</DraftWordCount>
-        <DraftCharCount>189</DraftCharCount>
+    <RecentWritingHistory Date="2020-11-24 00:00:00 -0500">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>2</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
