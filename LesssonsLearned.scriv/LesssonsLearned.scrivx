@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.2.1-14481" Device="CAS-QuemHe19L1" Author="Hector Quemada" Modified="2020-11-24 20:45:06 -0500" ModID="94D0146F-45DF-47FD-9ED1-E58694D823FD">
+<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.2.1-14481" Device="CAS-QuemHe19L1" Author="Hector Quemada" Modified="2020-12-04 12:34:32 -0500" ModID="A7439D11-CF2C-40CC-8713-CA5271055DD1">
     <Binder>
         <BinderItem UUID="635EBC13-D148-438A-B009-59019784F6EC" Type="DraftFolder" Created="2020-07-12 23:57:12 -0400" Modified="2020-07-12 23:57:12 -0400">
             <Title>Draft</Title>
@@ -66,34 +66,34 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="034F4959-1D01-4C3B-9B20-E51A4EB2DD77" Type="Text" Created="2020-07-29 10:18:41 -0400" Modified="2020-11-20 12:22:18 -0500">
+                        <BinderItem UUID="034F4959-1D01-4C3B-9B20-E51A4EB2DD77" Type="Text" Created="2020-07-29 10:18:41 -0400" Modified="2020-12-04 11:51:30 -0500">
                             <Title>Introduction</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4447,0</TextSelection>
+                                <TextSelection>4599,0</TextSelection>
                                 <Target Type="Words" Notify="No">400</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="16B6DED4-D60B-48C9-8995-A21012A4B1C0" Type="Folder" Created="2020-07-21 00:31:15 -0400" Modified="2020-07-21 00:32:23 -0400">
+                        <BinderItem UUID="16B6DED4-D60B-48C9-8995-A21012A4B1C0" Type="Folder" Created="2020-07-21 00:31:15 -0400" Modified="2020-11-30 11:05:23 -0500">
                             <Title>GM Crop Status</Title>
                             <MetaData>
                                 <SectionType ChildDefault="2FB31B55-043B-4839-8855-B503E34EA1A5">2FB31B55-043B-4839-8855-B503E34EA1A5</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>279,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="AC2B3649-E410-4B57-A92A-9256963927A0" Type="Text" Created="2020-07-13 00:14:34 -0400" Modified="2020-11-20 12:44:39 -0500">
+                                <BinderItem UUID="AC2B3649-E410-4B57-A92A-9256963927A0" Type="Text" Created="2020-07-13 00:14:34 -0400" Modified="2020-12-01 14:00:43 -0500">
                                     <Title>Status of GMO Crop Deployment</Title>
                                     <MetaData>
                                         <SectionType>238DF250-B8A3-485A-B6C6-3E52363D2127</SectionType>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>3037,0</TextSelection>
+                                        <TextSelection>824,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -107,13 +107,13 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="E5FE27EF-89C8-40F9-8C19-A8650A2879E2" Type="Text" Created="2020-09-03 09:18:13 -0400" Modified="2020-09-03 09:18:55 -0400">
+                                <BinderItem UUID="E5FE27EF-89C8-40F9-8C19-A8650A2879E2" Type="Text" Created="2020-09-03 09:18:13 -0400" Modified="2020-12-01 14:12:28 -0500">
                                     <Title>History of Bt Cotton Commercialization in Burkina Faso</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>142,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="F42BB1C7-4546-4F2E-A994-46E80C4AEC75" Type="Text" Created="2020-09-03 09:18:58 -0400" Modified="2020-09-03 09:19:15 -0400">
@@ -146,13 +146,13 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="64DD9AC3-AF2C-4808-B019-B3C76F7692DE" Type="Text" Created="2020-07-29 10:22:43 -0400" Modified="2020-07-29 10:24:24 -0400">
+                                <BinderItem UUID="64DD9AC3-AF2C-4808-B019-B3C76F7692DE" Type="Text" Created="2020-07-29 10:22:43 -0400" Modified="2020-12-03 17:05:18 -0500">
                                     <Title>Rationale for looking at Europe</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>14,0</TextSelection>
+                                        <TextSelection>565,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="A9C4C734-CB12-45AD-BCA1-FC85B05E4070" Type="Text" Created="2020-07-22 15:12:09 -0400" Modified="2020-11-16 00:16:44 -0500">
@@ -212,6 +212,15 @@
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="F03A2A1F-B0E5-47D9-A101-11AE067E242B" Type="Text" Created="2020-11-30 10:59:41 -0500" Modified="2020-11-30 11:01:17 -0500">
+                                            <Title>Agroecology</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>190,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="C4EA4997-736B-4FC5-96F7-39F0475DF247" Type="Text" Created="2020-07-13 19:11:44 -0400" Modified="2020-10-13 11:46:26 -0400">
@@ -385,13 +394,51 @@
                                 <TextSelection>2311,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="ECD45DE1-EA1F-4ECC-8647-9779C342A384" Type="Text" Created="2020-10-14 14:54:35 -0400" Modified="2020-11-23 13:09:45 -0500">
+                        <BinderItem UUID="ECD45DE1-EA1F-4ECC-8647-9779C342A384" Type="Text" Created="2020-10-14 14:54:35 -0400" Modified="2020-12-04 12:22:11 -0500">
                             <Title>SummaryOfLessonsLearned</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2871,0</TextSelection>
+                                <TextSelection>1410,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="FD5B6504-09DD-488C-BAB4-45380AFDFEC7" Type="Text" Created="2020-11-30 11:11:24 -0500" Modified="2020-11-30 20:40:01 -0500">
+                            <Title>Unexpected political events</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>83,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="5BD7D490-610F-41C9-98C1-5E999B4BF352" Type="Text" Created="2020-11-30 20:45:01 -0500" Modified="2020-11-30 20:48:26 -0500">
+                            <Title>Text of my presentation to board</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>18,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="21C1A976-2C99-4F8A-A9F3-9BCA720BA2DA" Type="Folder" Created="2020-12-04 11:51:54 -0500" Modified="2020-12-04 11:52:09 -0500">
+                    <Title>Conclusions</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="F10B4A13-6D8B-41D4-921B-7B080FED66FB" Type="Text" Created="2020-12-04 11:52:20 -0500" Modified="2020-12-04 12:34:32 -0500">
+                            <Title>Differences between GM crops and gene drive health applications</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>653,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -820,6 +867,18 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>pdf</FileExtension>
                             </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>0</CurrentPDFPage>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem UUID="96E33789-717A-43FD-8FCA-93095A1E6BB1" Type="Text" Created="2020-11-10 14:10:13 -0500" Modified="2020-11-12 09:44:30 -0500">
+                            <Title>LessonsLearnedText</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="8BDDA3AC-3942-4515-B530-C72B9719D1CD" Type="PDF" Created="2020-05-12 11:55:51 -0400" Modified="2020-05-12 11:55:51 -0400">
                             <Title>Hoerman2020Converting endogenous genesof the malaria mosquito into simple non-autonomous gene drives for population replacement</Title>
@@ -841,6 +900,9 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>pdf</FileExtension>
                             </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>0</CurrentPDFPage>
+                            </MediaSettings>
                         </BinderItem>
                         <BinderItem UUID="CBB474ED-B5D3-4E99-9FAC-04F442058627" Type="PDF" Created="2020-01-31 14:09:14 -0500" Modified="2020-01-31 14:09:14 -0500">
                             <Title>CRSIPRplants2019</Title>
@@ -876,6 +938,9 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>pdf</FileExtension>
                             </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>0</CurrentPDFPage>
+                            </MediaSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -1060,6 +1125,23 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="A35E2E36-B163-4832-8FB2-F78140E48AD2" Type="Text" Created="2020-11-30 20:44:17 -0500" Modified="2020-11-30 20:44:17 -0500">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="CFF8B046-867E-4D91-A7F3-1A6978395DFB" Type="Text" Created="2020-11-30 20:42:47 -0500" Modified="2020-11-30 20:43:09 -0500">
+                    <Title>Text of my presentation to the board</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -1118,12 +1200,12 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-07-12 23:57:11 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-11-25 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="2" Date="2020-11-24 20:41:10 -0500"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-12-05 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="220" Characters="1473" Date="2020-12-04 12:05:21 -0500"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-11-24 00:00:00 -0500">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>2</DraftCharCount>
+    <RecentWritingHistory Date="2020-12-04 00:00:00 -0500">
+        <DraftWordCount>220</DraftWordCount>
+        <DraftCharCount>1473</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>

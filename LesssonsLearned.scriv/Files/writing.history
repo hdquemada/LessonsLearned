@@ -29,5 +29,9 @@
     <Day dwc="0" dcc="0" dtwc="0" owc="10" occ="74" dtcc="0">2020-11-19</Day>
     <Day dwc="123" dcc="945" dtwc="0" owc="50" occ="336" dtcc="0">2020-11-20</Day>
     <Day dwc="28" dcc="189" owc="0" occ="0">2020-11-23</Day>
-    <Day dwc="0" dcc="1" owc="0" occ="0">2020-11-24</Day>
+    <Day dwc="0" dcc="2" dtwc="0" owc="0" occ="0" dtcc="0">2020-11-24</Day>
+    <Day dwc="96" dcc="652" dtwc="0" owc="1" occ="18" dtcc="0">2020-11-30</Day>
+    <Day dwc="47" dcc="339" dtwc="0" owc="0" occ="0" dtcc="0">2020-12-01</Day>
+    <Day dwc="68" dcc="433" dtwc="0" owc="0" occ="0" dtcc="0">2020-12-03</Day>
+    <Day dwc="81" dcc="531" owc="0" occ="0">2020-12-04</Day>
 </WritingHistory>
