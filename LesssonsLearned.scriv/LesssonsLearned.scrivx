@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.2.1-14481" Device="CAS-QuemHe19L1" Author="Hector Quemada" Modified="2020-12-04 12:34:32 -0500" ModID="A7439D11-CF2C-40CC-8713-CA5271055DD1">
+<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.2.1-14481" Device="CAS-QuemHe19L1" Author="Hector Quemada" Modified="2020-12-04 15:41:15 -0500" ModID="B37B1D79-9691-4AE9-AA56-4F2855EBC07A">
     <Binder>
         <BinderItem UUID="635EBC13-D148-438A-B009-59019784F6EC" Type="DraftFolder" Created="2020-07-12 23:57:12 -0400" Modified="2020-07-12 23:57:12 -0400">
             <Title>Draft</Title>
@@ -432,13 +432,13 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="F10B4A13-6D8B-41D4-921B-7B080FED66FB" Type="Text" Created="2020-12-04 11:52:20 -0500" Modified="2020-12-04 12:34:32 -0500">
+                        <BinderItem UUID="F10B4A13-6D8B-41D4-921B-7B080FED66FB" Type="Text" Created="2020-12-04 11:52:20 -0500" Modified="2020-12-04 15:41:15 -0500">
                             <Title>Differences between GM crops and gene drive health applications</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>653,0</TextSelection>
+                                <TextSelection>1956,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -1201,11 +1201,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-07-12 23:57:11 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-12-05 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="220" Characters="1473" Date="2020-12-04 12:05:21 -0500"/>
+        <PreviousSession Words="352" Characters="2328" Date="2020-12-04 15:33:56 -0500"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2020-12-04 00:00:00 -0500">
-        <DraftWordCount>220</DraftWordCount>
-        <DraftCharCount>1473</DraftCharCount>
+        <DraftWordCount>352</DraftWordCount>
+        <DraftCharCount>2328</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
