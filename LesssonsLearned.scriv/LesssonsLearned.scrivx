@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.2.1-14481" Device="CAS-QuemHe19L1" Author="Hector Quemada" Modified="2020-12-04 15:41:15 -0500" ModID="B37B1D79-9691-4AE9-AA56-4F2855EBC07A">
+<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.2.1-14481" Device="OSX-HQUEMADA" Author="Hector Quemada" Modified="2020-12-11 11:46:13 -0500" ModID="3BA36C81-821A-403A-B531-5A716930FD33">
     <Binder>
         <BinderItem UUID="635EBC13-D148-438A-B009-59019784F6EC" Type="DraftFolder" Created="2020-07-12 23:57:12 -0400" Modified="2020-07-12 23:57:12 -0400">
             <Title>Draft</Title>
@@ -394,13 +394,13 @@
                                 <TextSelection>2311,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="ECD45DE1-EA1F-4ECC-8647-9779C342A384" Type="Text" Created="2020-10-14 14:54:35 -0400" Modified="2020-12-04 12:22:11 -0500">
+                        <BinderItem UUID="ECD45DE1-EA1F-4ECC-8647-9779C342A384" Type="Text" Created="2020-10-14 14:54:35 -0400" Modified="2020-12-11 11:46:13 -0500">
                             <Title>SummaryOfLessonsLearned</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1410,0</TextSelection>
+                                <TextSelection>2462,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="FD5B6504-09DD-488C-BAB4-45380AFDFEC7" Type="Text" Created="2020-11-30 11:11:24 -0500" Modified="2020-11-30 20:40:01 -0500">
@@ -1200,12 +1200,12 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-07-12 23:57:11 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-12-05 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="352" Characters="2328" Date="2020-12-04 15:33:56 -0500"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-12-12 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="15" Characters="116" Date="2020-12-11 11:43:32 -0500"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-12-04 00:00:00 -0500">
-        <DraftWordCount>352</DraftWordCount>
-        <DraftCharCount>2328</DraftCharCount>
+    <RecentWritingHistory Date="2020-12-11 00:00:00 -0500">
+        <DraftWordCount>15</DraftWordCount>
+        <DraftCharCount>116</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>

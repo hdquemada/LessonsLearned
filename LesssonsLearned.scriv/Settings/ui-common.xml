@@ -21,7 +21,7 @@
             <ItemID>CA48D06E-B317-447F-8164-6172AE01B882</ItemID>
         </ExpandedItems>
         <Selection>
-            <ItemID>F10B4A13-6D8B-41D4-921B-7B080FED66FB</ItemID>
+            <ItemID>ECD45DE1-EA1F-4ECC-8647-9779C342A384</ItemID>
         </Selection>
         <SearchResultsSort Titles="Ascending" Dates="Ascending">None</SearchResultsSort>
     </Binder>
@@ -123,11 +123,9 @@
                 <CurrentViewMode>Single</CurrentViewMode>
                 <SelectionAffects>None</SelectionAffects>
                 <Content>
-                    <ItemID>F10B4A13-6D8B-41D4-921B-7B080FED66FB</ItemID>
+                    <ItemID>ECD45DE1-EA1F-4ECC-8647-9779C342A384</ItemID>
                 </Content>
                 <NavigationHistory CurrentIndex="99">
-                    <HistoryItem Type="BinderItems" ViewMode="Single">5428C32E-4196-4E19-A5BB-EC1DB818A524</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">DE468BDB-7DC0-4E53-9382-11A6C8E924BE</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">5428C32E-4196-4E19-A5BB-EC1DB818A524</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">A2920E67-208B-4E4D-B4CF-A1FB3493FB59</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">ED927E96-CEE9-48B7-8BFF-A7329E7FBE72</HistoryItem>
@@ -226,6 +224,8 @@
                     <HistoryItem Type="BinderItems" ViewMode="Single">645A8B31-4E6B-479A-9A47-2328367F05C1</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">ECD45DE1-EA1F-4ECC-8647-9779C342A384</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">F10B4A13-6D8B-41D4-921B-7B080FED66FB</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">A162369E-A1A3-44A3-B4DC-7586A6FD356D</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">ECD45DE1-EA1F-4ECC-8647-9779C342A384</HistoryItem>
                 </NavigationHistory>
             </View>
             <Text>
@@ -233,7 +233,7 @@
                 <PageLayout Facing="No">No</PageLayout>
                 <TypewriterScrolling>No</TypewriterScrolling>
                 <LineNumbers Interval="1">No</LineNumbers>
-                <Selection>1956,0</Selection>
+                <Selection>2462,0</Selection>
             </Text>
             <Outliner>
                 <Columns>
