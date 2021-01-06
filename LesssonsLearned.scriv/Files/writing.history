@@ -35,5 +35,6 @@
     <Day dwc="68" dcc="433" dtwc="0" owc="0" occ="0" dtcc="0">2020-12-03</Day>
     <Day dwc="352" dcc="2328" owc="0" occ="0">2020-12-04</Day>
     <Day dwc="15" dcc="116" dtwc="0" owc="0" occ="0" dtcc="0">2020-12-11</Day>
-    <Day dwc="39" dcc="250" owc="0" occ="0">2020-12-28</Day>
+    <Day dwc="39" dcc="250" dtwc="0" owc="0" occ="0" dtcc="0">2020-12-28</Day>
+    <Day dwc="28" dcc="241" owc="0" occ="0">2021-01-04</Day>
 </WritingHistory>

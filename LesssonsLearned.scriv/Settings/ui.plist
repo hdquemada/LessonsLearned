@@ -14,7 +14,7 @@
 	<key>CommentsUseTextScale</key>
 	<true/>
 	<key>CompileFolder</key>
-	<string>/Users/Hector/Desktop</string>
+	<string>/Users/Hector/Science Team FNIH Dropbox/Hector Quemada/Downloads</string>
 	<key>NotesScaleFactor</key>
 	<real>1.5</real>
 	<key>QRPanelSettings</key>
@@ -112,8 +112,8 @@
 	<true/>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {185, 664}}</string>
-		<string>{{186, 0}, {1094, 664}}</string>
+		<string>{{0, 0}, {175, 664}}</string>
+		<string>{{176, 0}, {1104, 664}}</string>
 	</array>
 	<key>binderWidth</key>
 	<real>243</real>
@@ -660,13 +660,13 @@
 	<key>fullScreenHorizontalPaperPosition</key>
 	<integer>2</integer>
 	<key>fullScreenInspectorMode</key>
-	<integer>0</integer>
+	<integer>6</integer>
 	<key>fullScreenInspectorVisible</key>
-	<false/>
+	<true/>
 	<key>fullScreenPaperHeight</key>
 	<integer>-1</integer>
 	<key>fullScreenPaperWidth</key>
-	<integer>1551</integer>
+	<integer>-1</integer>
 	<key>fullScreenTextEditorSettings</key>
 	<dict>
 		<key>textScaleFactor</key>
@@ -699,7 +699,7 @@
 		<real>2</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>0 49 1680 978 0 0 1680 1050 </string>
+	<string>8 92 1280 686 0 0 1280 778 </string>
 	<key>previousDocumentTargetType</key>
 	<integer>0</integer>
 	<key>searchResultsTable</key>
@@ -711,7 +711,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>200</real>
+			<real>229</real>
 		</dict>
 	</dict>
 	<key>supportingDocumentEditor.PDFAutoScales</key>
@@ -724,7 +724,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 368}, {547, 273.5}}</string>
+	<string>{{0, 168.5}, {552, 273.5}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
