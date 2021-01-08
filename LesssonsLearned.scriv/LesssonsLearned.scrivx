@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.2.2-14632" Device="OSX-HQUEMADA" Author="Hector Quemada" Modified="2021-01-04 16:20:00 -0500" ModID="5BF1541E-30C6-4A35-87B5-FE6C76B35ED6">
+<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.2.2-14632" Device="OSX-HQUEMADA" Author="Hector Quemada" Modified="2021-01-08 13:51:28 -0500" ModID="7D497D10-E1F0-43E9-B595-1DEC413B9D44">
     <Binder>
         <BinderItem UUID="635EBC13-D148-438A-B009-59019784F6EC" Type="DraftFolder" Created="2020-07-12 23:57:12 -0400" Modified="2020-07-12 23:57:12 -0400">
             <Title>Draft</Title>
@@ -86,14 +86,23 @@
                                 <TextSelection>279,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="AC2B3649-E410-4B57-A92A-9256963927A0" Type="Text" Created="2020-07-13 00:14:34 -0400" Modified="2021-01-04 16:14:23 -0500">
+                                <BinderItem UUID="AC2B3649-E410-4B57-A92A-9256963927A0" Type="Text" Created="2020-07-13 00:14:34 -0400" Modified="2021-01-08 12:21:50 -0500">
                                     <Title>Status of GMO Crop Deployment</Title>
                                     <MetaData>
                                         <SectionType>238DF250-B8A3-485A-B6C6-3E52363D2127</SectionType>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1661,0</TextSelection>
+                                        <TextSelection>6522,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="C84A2CDD-6371-4AF9-84D2-68A479973B13" Type="Text" Created="2020-10-26 11:51:48 -0400" Modified="2021-01-08 13:51:28 -0500">
+                                    <Title>Scientific society and agency positions on the technology</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>691,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -108,6 +117,16 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
+                                <BinderItem UUID="A9C4C734-CB12-45AD-BCA1-FC85B05E4070" Type="Text" Created="2020-07-22 15:12:09 -0400" Modified="2021-01-08 13:37:41 -0500">
+                                    <Title>Opposition remains</Title>
+                                    <MetaData>
+                                        <SectionType>238DF250-B8A3-485A-B6C6-3E52363D2127</SectionType>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>182,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
                                 <BinderItem UUID="64DD9AC3-AF2C-4808-B019-B3C76F7692DE" Type="Text" Created="2020-07-29 10:22:43 -0400" Modified="2020-12-03 17:05:18 -0500">
                                     <Title>Rationale for looking at Europe</Title>
                                     <MetaData>
@@ -115,16 +134,6 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>565,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="A9C4C734-CB12-45AD-BCA1-FC85B05E4070" Type="Text" Created="2020-07-22 15:12:09 -0400" Modified="2020-11-16 00:16:44 -0500">
-                                    <Title>Opposition remains</Title>
-                                    <MetaData>
-                                        <SectionType>238DF250-B8A3-485A-B6C6-3E52363D2127</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>1439,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="13D0027A-8C59-4DFE-868F-D996751FAD4E" Type="Folder" Created="2020-07-20 14:52:34 -0400" Modified="2020-07-29 10:12:11 -0400">
@@ -543,15 +552,6 @@
                         <TextSelection>161,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="C84A2CDD-6371-4AF9-84D2-68A479973B13" Type="Text" Created="2020-10-26 11:51:48 -0400" Modified="2020-10-26 13:13:10 -0400">
-                    <Title>Scientific Society and agency positions</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>995,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
                 <BinderItem UUID="426D7488-A651-430C-938B-F2601B09EA6F" Type="Text" Created="2020-10-29 09:31:11 -0400" Modified="2020-10-29 09:32:23 -0400">
                     <Title>Organizational connections</Title>
                     <MetaData>
@@ -577,6 +577,15 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>405,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="C613C02C-D526-4CE2-8224-7C4FB94F3474" Type="Text" Created="2021-01-06 13:39:46 -0500" Modified="2021-01-06 13:41:45 -0500">
+                    <Title>Consumer behavior vs stated attitudes</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>217,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -1200,12 +1209,12 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-07-12 23:57:11 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2021-01-05 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="97" Characters="787" Date="2021-01-04 15:47:18 -0500"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2021-01-09 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="183" Characters="1142" Date="2021-01-08 10:37:43 -0500"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2021-01-04 00:00:00 -0500">
-        <DraftWordCount>97</DraftWordCount>
-        <DraftCharCount>787</DraftCharCount>
+    <RecentWritingHistory Date="2021-01-08 00:00:00 -0500">
+        <DraftWordCount>183</DraftWordCount>
+        <DraftCharCount>1142</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
