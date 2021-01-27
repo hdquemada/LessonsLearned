@@ -704,7 +704,7 @@
 		<real>2</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>10 63 1654 962 0 0 1680 1025 </string>
+	<string>26 47 1654 962 0 0 1680 1025 </string>
 	<key>previousDocumentTargetType</key>
 	<integer>0</integer>
 	<key>searchResultsTable</key>
@@ -729,7 +729,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {620, 408}}</string>
+	<string>{{0, 256.25}, {620, 424}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
