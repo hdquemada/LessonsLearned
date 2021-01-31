@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.2.2-14632" Device="CAS-QuemHe19L1" Author="Hector Quemada" Modified="2021-01-28 12:03:10 -0500" ModID="1AB534FA-E96A-40CA-9A0F-A150B44E1CA8">
+<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.2.2-14632" Device="CAS-QuemHe19L1" Author="Hector Quemada" Modified="2021-01-30 20:56:16 -0500" ModID="870B6EA5-1BC6-4675-8DD7-B0BBC1E451F3">
     <Binder>
         <BinderItem UUID="635EBC13-D148-438A-B009-59019784F6EC" Type="DraftFolder" Created="2020-07-12 23:57:12 -0400" Modified="2020-07-12 23:57:12 -0400">
             <Title>Draft</Title>
@@ -170,13 +170,13 @@
                                                 </BinderItem>
                                             </Children>
                                         </BinderItem>
-                                        <BinderItem UUID="F679101C-B45B-4108-97A8-280B57065735" Type="Text" Created="2020-11-24 20:10:39 -0500" Modified="2021-01-28 12:03:10 -0500">
+                                        <BinderItem UUID="F679101C-B45B-4108-97A8-280B57065735" Type="Text" Created="2020-11-24 20:10:39 -0500" Modified="2021-01-30 20:56:16 -0500">
                                             <Title>Eiropean anti-GMO agenda</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>316,0</TextSelection>
+                                                <TextSelection>3254,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="C4EA4997-736B-4FC5-96F7-39F0475DF247" Type="Text" Created="2020-07-13 19:11:44 -0400" Modified="2020-10-13 11:46:26 -0400">
@@ -1223,12 +1223,12 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-07-12 23:57:11 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2021-01-29 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="60" Characters="426" Date="2021-01-28 11:41:28 -0500"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2021-01-31 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="103" Characters="741" Date="2021-01-30 20:37:14 -0500"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2021-01-28 00:00:00 -0500">
-        <DraftWordCount>60</DraftWordCount>
-        <DraftCharCount>426</DraftCharCount>
+    <RecentWritingHistory Date="2021-01-30 00:00:00 -0500">
+        <DraftWordCount>103</DraftWordCount>
+        <DraftCharCount>741</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
