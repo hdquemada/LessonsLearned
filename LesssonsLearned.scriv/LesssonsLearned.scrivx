@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.2.2-14632" Device="CAS-QuemHe19L1" Author="Hector Quemada" Modified="2021-02-03 15:37:16 -0500" ModID="7F2EF45A-8C30-487D-A856-9C138C68AA23">
+<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.2.2-14632" Device="CAS-QuemHe19L1" Author="Hector Quemada" Modified="2021-02-06 15:32:13 -0500" ModID="F90CEE08-BCD2-4297-8D0F-9CB3393122D8">
     <Binder>
         <BinderItem UUID="635EBC13-D148-438A-B009-59019784F6EC" Type="DraftFolder" Created="2020-07-12 23:57:12 -0400" Modified="2020-07-12 23:57:12 -0400">
             <Title>Draft</Title>
@@ -86,14 +86,14 @@
                                 <TextSelection>279,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="AC2B3649-E410-4B57-A92A-9256963927A0" Type="Text" Created="2020-07-13 00:14:34 -0400" Modified="2021-01-19 14:54:24 -0500">
+                                <BinderItem UUID="AC2B3649-E410-4B57-A92A-9256963927A0" Type="Text" Created="2020-07-13 00:14:34 -0400" Modified="2021-02-06 15:32:13 -0500">
                                     <Title>Status of GMO Crop Deployment</Title>
                                     <MetaData>
                                         <SectionType>238DF250-B8A3-485A-B6C6-3E52363D2127</SectionType>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>4335,0</TextSelection>
+                                        <TextSelection>1886,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="C84A2CDD-6371-4AF9-84D2-68A479973B13" Type="Text" Created="2020-10-26 11:51:48 -0400" Modified="2021-02-03 13:21:53 -0500">
@@ -1223,12 +1223,12 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-07-12 23:57:11 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2021-02-04 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="87" Characters="581" Date="2021-02-03 15:20:37 -0500"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2021-02-07 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="8" Characters="64" Date="2021-02-06 15:25:53 -0500"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2021-02-03 00:00:00 -0500">
-        <DraftWordCount>87</DraftWordCount>
-        <DraftCharCount>581</DraftCharCount>
+    <RecentWritingHistory Date="2021-02-06 00:00:00 -0500">
+        <DraftWordCount>8</DraftWordCount>
+        <DraftCharCount>64</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
