@@ -14,7 +14,7 @@
 	<key>CommentsUseTextScale</key>
 	<true/>
 	<key>CompileFolder</key>
-	<string>/Users/Hector/Science Team FNIH Dropbox/Hector Quemada/Downloads</string>
+	<string>/Users/hquemada/Science Team FNIH Dropbox/Hector Quemada/Downloads</string>
 	<key>NotesScaleFactor</key>
 	<real>1.5</real>
 	<key>QRPanelSettings</key>
@@ -735,7 +735,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 74}, {576.5, 424}}</string>
+	<string>{{0, 540.25}, {576.5, 424}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
