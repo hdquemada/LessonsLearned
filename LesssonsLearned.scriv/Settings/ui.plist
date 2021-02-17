@@ -735,7 +735,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 540.25}, {576.5, 424}}</string>
+	<string>{{0, 65}, {576.5, 424}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>

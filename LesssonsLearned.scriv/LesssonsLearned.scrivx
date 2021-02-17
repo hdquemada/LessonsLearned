@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.2.2-14632" Device="CAS-QuemHe19L1" Author="Hector Quemada" Modified="2021-02-11 13:54:48 -0500" ModID="62EFC194-55E4-4F98-9F38-EE39B5BF47A9">
+<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.2.2-14632" Device="CAS-QuemHe19L1" Author="Hector Quemada" Modified="2021-02-17 17:13:51 -0500" ModID="847EF280-CA6B-45D9-95B4-7219469A3029">
     <Binder>
         <BinderItem UUID="635EBC13-D148-438A-B009-59019784F6EC" Type="DraftFolder" Created="2020-07-12 23:57:12 -0400" Modified="2020-07-12 23:57:12 -0400">
             <Title>Draft</Title>
@@ -47,13 +47,13 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="DE468BDB-7DC0-4E53-9382-11A6C8E924BE" Type="Text" Created="2020-07-29 12:01:42 -0400" Modified="2020-08-04 15:10:58 -0400">
+                <BinderItem UUID="DE468BDB-7DC0-4E53-9382-11A6C8E924BE" Type="Text" Created="2020-07-29 12:01:42 -0400" Modified="2021-02-17 16:45:04 -0500">
                     <Title>Table of Abbreviations</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>79,0</TextSelection>
+                        <TextSelection>160,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="DF6F13B3-93B8-4259-AC06-F48860307264" Type="Folder" Created="2020-07-21 00:35:01 -0400" Modified="2020-07-21 00:35:17 -0400">
@@ -150,13 +150,13 @@
                                                 <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                             <Children>
-                                                <BinderItem UUID="645A8B31-4E6B-479A-9A47-2328367F05C1" Type="Text" Created="2020-07-29 10:11:48 -0400" Modified="2021-01-19 12:15:25 -0500">
+                                                <BinderItem UUID="645A8B31-4E6B-479A-9A47-2328367F05C1" Type="Text" Created="2020-07-29 10:11:48 -0400" Modified="2021-02-17 16:46:02 -0500">
                                                     <Title>Status of GM Crops in Europe</Title>
                                                     <MetaData>
                                                         <IncludeInCompile>Yes</IncludeInCompile>
                                                     </MetaData>
                                                     <TextSettings>
-                                                        <TextSelection>976,0</TextSelection>
+                                                        <TextSelection>3643,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
                                                 <BinderItem UUID="74BFC439-4F31-4992-90A6-E31BBBA4FBB7" Type="Folder" Created="2020-07-29 10:16:52 -0400" Modified="2020-07-29 10:17:54 -0400">
@@ -170,13 +170,13 @@
                                                 </BinderItem>
                                             </Children>
                                         </BinderItem>
-                                        <BinderItem UUID="F679101C-B45B-4108-97A8-280B57065735" Type="Text" Created="2020-11-24 20:10:39 -0500" Modified="2021-02-03 15:37:16 -0500">
+                                        <BinderItem UUID="F679101C-B45B-4108-97A8-280B57065735" Type="Text" Created="2020-11-24 20:10:39 -0500" Modified="2021-02-17 17:13:50 -0500">
                                             <Title>Eiropean anti-GMO agenda</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>1887,0</TextSelection>
+                                                <TextSelection>1617,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="C4EA4997-736B-4FC5-96F7-39F0475DF247" Type="Text" Created="2020-07-13 19:11:44 -0400" Modified="2020-10-13 11:46:26 -0400">
@@ -212,16 +212,6 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="4BF20E70-73B6-42D2-99F7-7CB31B1EB651" Type="Text" Created="2020-07-20 14:45:18 -0400" Modified="2021-01-26 18:28:48 -0500">
-                                            <Title>The case of opposition to GM maize despite the need for food</Title>
-                                            <MetaData>
-                                                <SectionType>238DF250-B8A3-485A-B6C6-3E52363D2127</SectionType>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>1032,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
                                         <BinderItem UUID="DFEB0688-F95A-44F8-A58C-A570215022BC" Type="Text" Created="2020-07-20 14:00:09 -0400" Modified="2020-07-24 15:56:58 -0400">
                                             <Title>Huffman 2003</Title>
                                             <MetaData>
@@ -1165,6 +1155,16 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="4BF20E70-73B6-42D2-99F7-7CB31B1EB651" Type="Text" Created="2020-07-20 14:45:18 -0400" Modified="2021-02-17 17:01:36 -0500">
+                    <Title>The case of opposition to GM maize despite the need for food</Title>
+                    <MetaData>
+                        <SectionType>238DF250-B8A3-485A-B6C6-3E52363D2127</SectionType>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -1223,12 +1223,12 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-07-12 23:57:11 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2021-02-12 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2021-02-11 13:54:10 -0500"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2021-02-18 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="127" Characters="895" Date="2021-02-17 16:09:54 -0500"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2021-02-11 00:00:00 -0500">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
+    <RecentWritingHistory Date="2021-02-17 00:00:00 -0500">
+        <DraftWordCount>127</DraftWordCount>
+        <DraftCharCount>895</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
