@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.2.2-14632" Device="CAS-QuemHe19L1" Author="Hector Quemada" Modified="2021-02-17 17:13:51 -0500" ModID="847EF280-CA6B-45D9-95B4-7219469A3029">
+<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.2.2-14632" Device="CAS-QuemHe19L1" Author="Hector Quemada" Modified="2021-02-18 17:47:32 -0500" ModID="A3059240-876D-4159-B836-690E5DB70C36">
     <Binder>
         <BinderItem UUID="635EBC13-D148-438A-B009-59019784F6EC" Type="DraftFolder" Created="2020-07-12 23:57:12 -0400" Modified="2020-07-12 23:57:12 -0400">
             <Title>Draft</Title>
@@ -170,13 +170,13 @@
                                                 </BinderItem>
                                             </Children>
                                         </BinderItem>
-                                        <BinderItem UUID="F679101C-B45B-4108-97A8-280B57065735" Type="Text" Created="2020-11-24 20:10:39 -0500" Modified="2021-02-17 17:13:50 -0500">
+                                        <BinderItem UUID="F679101C-B45B-4108-97A8-280B57065735" Type="Text" Created="2020-11-24 20:10:39 -0500" Modified="2021-02-18 17:47:31 -0500">
                                             <Title>Eiropean anti-GMO agenda</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>1617,0</TextSelection>
+                                                <TextSelection>5351,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="C4EA4997-736B-4FC5-96F7-39F0475DF247" Type="Text" Created="2020-07-13 19:11:44 -0400" Modified="2020-10-13 11:46:26 -0400">
@@ -186,40 +186,7 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>496,118</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="D8463700-FFD7-47F5-86C6-67A2A903D658" Type="Text" Created="2020-07-20 15:01:00 -0400" Modified="2020-07-29 15:40:28 -0400">
-                                            <Title>Zerbe</Title>
-                                            <MetaData>
-                                                <SectionType>238DF250-B8A3-485A-B6C6-3E52363D2127</SectionType>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>265,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                    </Children>
-                                </BinderItem>
-                                <BinderItem UUID="D3B4BCD3-E260-457B-84D5-5798402D7F13" Type="Folder" Created="2020-07-20 14:46:01 -0400" Modified="2020-07-20 14:52:11 -0400">
-                                    <Title>A story from Africa</Title>
-                                    <MetaData>
-                                        <SectionType>2FB31B55-043B-4839-8855-B503E34EA1A5</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>35,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                    <Children>
-                                        <BinderItem UUID="DFEB0688-F95A-44F8-A58C-A570215022BC" Type="Text" Created="2020-07-20 14:00:09 -0400" Modified="2020-07-24 15:56:58 -0400">
-                                            <Title>Huffman 2003</Title>
-                                            <MetaData>
-                                                <SectionType>238DF250-B8A3-485A-B6C6-3E52363D2127</SectionType>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>853,0</TextSelection>
+                                                <TextSelection>614,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -332,15 +299,6 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>83,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="5BD7D490-610F-41C9-98C1-5E999B4BF352" Type="Text" Created="2020-11-30 20:45:01 -0500" Modified="2020-11-30 20:48:26 -0500">
-                            <Title>Text of my presentation to board</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>18,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="3ED5A3AA-499B-400E-8BC8-42F76FA3A5E4" Type="Text" Created="2021-01-28 11:52:05 -0500" Modified="2021-01-28 11:56:46 -0500">
@@ -463,6 +421,38 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
+                <BinderItem UUID="F83FB1D7-7263-4C10-BB14-F6104682432E" Type="Text" Created="2021-02-18 16:25:38 -0500" Modified="2021-02-18 16:25:58 -0500">
+                    <Title>Agroecology</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>189,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="D3B4BCD3-E260-457B-84D5-5798402D7F13" Type="Folder" Created="2020-07-20 14:46:01 -0400" Modified="2020-07-20 14:52:11 -0400">
+                    <Title>A story from Africa</Title>
+                    <MetaData>
+                        <SectionType>2FB31B55-043B-4839-8855-B503E34EA1A5</SectionType>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>35,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="DFEB0688-F95A-44F8-A58C-A570215022BC" Type="Text" Created="2020-07-20 14:00:09 -0400" Modified="2020-07-24 15:56:58 -0400">
+                            <Title>Huffman 2003</Title>
+                            <MetaData>
+                                <SectionType>238DF250-B8A3-485A-B6C6-3E52363D2127</SectionType>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1034,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem UUID="80ACAF6C-B0E3-4925-8DDF-A4035CE62721" Type="Folder" Created="2020-07-15 11:44:55 -0400" Modified="2020-07-15 11:45:55 -0400">
@@ -511,13 +501,13 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="EE4E97CA-8415-4704-8FCC-89B5DF0BAC2C" Type="Text" Created="2020-10-26 08:33:53 -0400" Modified="2020-10-29 15:19:18 -0400">
+                <BinderItem UUID="EE4E97CA-8415-4704-8FCC-89B5DF0BAC2C" Type="Text" Created="2020-10-26 08:33:53 -0400" Modified="2021-02-18 17:25:30 -0500">
                     <Title>Key problem publications</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>161,0</TextSelection>
+                        <TextSelection>142,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="426D7488-A651-430C-938B-F2601B09EA6F" Type="Text" Created="2020-10-29 09:31:11 -0400" Modified="2020-10-29 09:32:23 -0400">
@@ -1165,6 +1155,25 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="D8463700-FFD7-47F5-86C6-67A2A903D658" Type="Text" Created="2020-07-20 15:01:00 -0400" Modified="2021-02-18 16:34:04 -0500">
+                    <Title>Zerbe</Title>
+                    <MetaData>
+                        <SectionType>238DF250-B8A3-485A-B6C6-3E52363D2127</SectionType>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="5BD7D490-610F-41C9-98C1-5E999B4BF352" Type="Text" Created="2020-11-30 20:45:01 -0500" Modified="2020-11-30 20:48:26 -0500">
+                    <Title>Text of my presentation to board</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>18,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -1223,14 +1232,14 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-07-12 23:57:11 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2021-02-18 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="127" Characters="895" Date="2021-02-17 16:09:54 -0500"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2021-02-19 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="161" Characters="1042" Date="2021-02-18 16:21:12 -0500"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2021-02-17 00:00:00 -0500">
-        <DraftWordCount>127</DraftWordCount>
-        <DraftCharCount>895</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+    <RecentWritingHistory Date="2021-02-18 00:00:00 -0500">
+        <DraftWordCount>161</DraftWordCount>
+        <DraftCharCount>1042</DraftCharCount>
+        <OtherWordCount>45</OtherWordCount>
+        <OtherCharCount>416</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999975,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
