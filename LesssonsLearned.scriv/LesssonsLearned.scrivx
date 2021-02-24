@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.2.2-14632" Device="CAS-QuemHe19L1" Author="Hector Quemada" Modified="2021-02-18 17:47:32 -0500" ModID="A3059240-876D-4159-B836-690E5DB70C36">
+<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.2.2-14632" Device="CAS-QuemHe19L1" Author="Hector Quemada" Modified="2021-02-23 13:01:56 -0500" ModID="B7FE4844-02F3-45F6-BF12-692AF71D2A11">
     <Binder>
         <BinderItem UUID="635EBC13-D148-438A-B009-59019784F6EC" Type="DraftFolder" Created="2020-07-12 23:57:12 -0400" Modified="2020-07-12 23:57:12 -0400">
             <Title>Draft</Title>
@@ -179,16 +179,6 @@
                                                 <TextSelection>5351,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="C4EA4997-736B-4FC5-96F7-39F0475DF247" Type="Text" Created="2020-07-13 19:11:44 -0400" Modified="2020-10-13 11:46:26 -0400">
-                                            <Title> Burke, 2004</Title>
-                                            <MetaData>
-                                                <SectionType>238DF250-B8A3-485A-B6C6-3E52363D2127</SectionType>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>614,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
                                     </Children>
                                 </BinderItem>
                             </Children>
@@ -252,6 +242,16 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
+                        <BinderItem UUID="C4EA4997-736B-4FC5-96F7-39F0475DF247" Type="Text" Created="2020-07-13 19:11:44 -0400" Modified="2020-10-13 11:46:26 -0400">
+                            <Title> Burke, 2004</Title>
+                            <MetaData>
+                                <SectionType>238DF250-B8A3-485A-B6C6-3E52363D2127</SectionType>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>614,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                         <BinderItem UUID="CD0473CB-7874-4D6D-A070-DAF096207444" Type="Text" Created="2020-10-06 08:20:14 -0400" Modified="2020-10-06 16:26:33 -0400">
                             <Title>Reynolds 2020: Similarities and Differences Between Agricultural GMOs and Gene Drives</Title>
                             <MetaData>
@@ -544,6 +544,15 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>217,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="975334CB-86A3-4679-9B19-3EE5AC78A37F" Type="Text" Created="2021-02-23 12:55:26 -0500" Modified="2021-02-23 13:01:56 -0500">
+                    <Title>Traditional GMOs have sensitized the public to issues that are magnified with gene drive</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>745,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -1232,14 +1241,14 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-07-12 23:57:11 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2021-02-19 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="161" Characters="1042" Date="2021-02-18 16:21:12 -0500"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2021-02-24 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2021-02-23 12:55:01 -0500"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2021-02-18 00:00:00 -0500">
-        <DraftWordCount>161</DraftWordCount>
-        <DraftCharCount>1042</DraftCharCount>
-        <OtherWordCount>45</OtherWordCount>
-        <OtherCharCount>416</OtherCharCount>
+    <RecentWritingHistory Date="2021-02-23 00:00:00 -0500">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>122</OtherWordCount>
+        <OtherCharCount>745</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999975,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
