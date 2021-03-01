@@ -112,8 +112,8 @@
 	<true/>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {283, 934}}</string>
-		<string>{{284, 0}, {1396, 934}}</string>
+		<string>{{0, 0}, {216, 707}}</string>
+		<string>{{217, 0}, {1063, 707}}</string>
 	</array>
 	<key>binderWidth</key>
 	<real>243</real>
@@ -200,6 +200,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>264C0F2D-A575-4F48-BF9C-E6E567D4B71E</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>267152A1-02EB-48ED-BDED-6143BAD725E3</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -395,6 +400,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>9853FFEC-B69D-476B-884C-74F44DC44264</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>99F51FEE-64FB-4D67-B48F-0C44ACC7C78E</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -682,7 +692,7 @@
 	<key>fullScreenInspectorMode</key>
 	<integer>6</integer>
 	<key>fullScreenInspectorVisible</key>
-	<true/>
+	<false/>
 	<key>fullScreenPaperHeight</key>
 	<integer>-1</integer>
 	<key>fullScreenPaperWidth</key>
@@ -696,7 +706,7 @@
 	<integer>2</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {336, 924}}</string>
+		<string>{{0, 0}, {256, 697}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>227</real>
@@ -712,7 +722,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {606, 294}}</string>
+	<string>{{0, 0}, {621, 294}}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
@@ -744,7 +754,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {620, 424}}</string>
+	<string>{{0, 255}, {531.5, 295}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
