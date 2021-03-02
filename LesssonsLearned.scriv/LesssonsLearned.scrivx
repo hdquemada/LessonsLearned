@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.2.2-14632" Device="CAS-QuemHe19L1" Author="Hector Quemada" Modified="2021-03-01 13:20:30 -0500" ModID="2F36ED69-E066-4FDD-85E4-79F70BBB7051">
+<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.2.2-14632" Device="CAS-QuemHe19L1" Author="Hector Quemada" Modified="2021-03-02 17:27:48 -0500" ModID="027281FC-A23B-4555-8C50-EF5FDC3A6B9D">
     <Binder>
         <BinderItem UUID="635EBC13-D148-438A-B009-59019784F6EC" Type="DraftFolder" Created="2020-07-12 23:57:12 -0400" Modified="2020-07-12 23:57:12 -0400">
             <Title>Draft</Title>
@@ -88,14 +88,14 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="AC2B3649-E410-4B57-A92A-9256963927A0" Type="Text" Created="2020-07-13 00:14:34 -0400" Modified="2021-03-01 12:11:28 -0500">
+                        <BinderItem UUID="AC2B3649-E410-4B57-A92A-9256963927A0" Type="Text" Created="2020-07-13 00:14:34 -0400" Modified="2021-03-02 17:27:25 -0500">
                             <Title>Status of GMO Crop Deployment</Title>
                             <MetaData>
                                 <SectionType>238DF250-B8A3-485A-B6C6-3E52363D2127</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2068,0</TextSelection>
+                                <TextSelection>1375,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="C84A2CDD-6371-4AF9-84D2-68A479973B13" Type="Text" Created="2020-10-26 11:51:48 -0400" Modified="2021-03-01 11:46:57 -0500">
@@ -104,23 +104,23 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,1463</TextSelection>
+                                <TextSelection>1463,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="A9C4C734-CB12-45AD-BCA1-FC85B05E4070" Type="Text" Created="2020-07-22 15:12:09 -0400" Modified="2021-03-01 12:04:01 -0500">
+                        <BinderItem UUID="A9C4C734-CB12-45AD-BCA1-FC85B05E4070" Type="Text" Created="2020-07-22 15:12:09 -0400" Modified="2021-03-02 17:26:32 -0500">
                             <Title>Opposition Remains</Title>
                             <MetaData>
                                 <SectionType>238DF250-B8A3-485A-B6C6-3E52363D2127</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,2242</TextSelection>
+                                <TextSelection>2242,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="1BD71837-690A-4164-BD05-AC224D4D7BD9" Type="Folder" Created="2020-07-20 14:45:02 -0400" Modified="2020-07-20 14:45:45 -0400">
-                    <Title>Opposition to GM Crops</Title>
+                <BinderItem UUID="1BD71837-690A-4164-BD05-AC224D4D7BD9" Type="Folder" Created="2020-07-20 14:45:02 -0400" Modified="2021-03-02 17:18:35 -0500">
+                    <Title>Opposition to GM Crops in Europe</Title>
                     <MetaData>
                         <SectionType>2FB31B55-043B-4839-8855-B503E34EA1A5</SectionType>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -129,47 +129,22 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="13D0027A-8C59-4DFE-868F-D996751FAD4E" Type="Folder" Created="2020-07-20 14:52:34 -0400" Modified="2021-02-26 16:49:32 -0500">
-                            <Title>Europe</Title>
+                        <BinderItem UUID="645A8B31-4E6B-479A-9A47-2328367F05C1" Type="Text" Created="2020-07-29 10:11:48 -0400" Modified="2021-03-01 11:46:57 -0500">
+                            <Title>Status of GM Crops in Europe</Title>
                             <MetaData>
-                                <SectionType>2FB31B55-043B-4839-8855-B503E34EA1A5</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>4345,0</TextSelection>
                             </TextSettings>
-                            <CorkboardAndOutliner>
-                                <SelectedSubdocumentUUIDs>F6783F3E-3C73-4317-9407-0DB0AE93E416</SelectedSubdocumentUUIDs>
-                            </CorkboardAndOutliner>
-                            <Children>
-                                <BinderItem UUID="F679101C-B45B-4108-97A8-280B57065735" Type="Text" Created="2020-11-24 20:10:39 -0500" Modified="2021-03-01 13:20:29 -0500">
-                                    <Title>Eiropean anti-GMO agenda</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>2399,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="645A8B31-4E6B-479A-9A47-2328367F05C1" Type="Text" Created="2020-07-29 10:11:48 -0400" Modified="2021-03-01 11:46:57 -0500">
-                                    <Title>Status of GM Crops in Europe</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>4345,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
                         </BinderItem>
-                        <BinderItem UUID="68EFCE19-D7DC-411A-8308-49179E4BC481" Type="Folder" Created="2020-07-20 15:26:10 -0400" Modified="2020-07-20 15:26:58 -0400">
-                            <Title>Opposition Elsewhere</Title>
+                        <BinderItem UUID="F679101C-B45B-4108-97A8-280B57065735" Type="Text" Created="2020-11-24 20:10:39 -0500" Modified="2021-03-02 17:05:53 -0500">
+                            <Title>Eiropean anti-GMO attitudes</Title>
                             <MetaData>
-                                <SectionType>2FB31B55-043B-4839-8855-B503E34EA1A5</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>2399,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -1199,6 +1174,38 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="87E7A5C2-EF80-4BE5-9970-2F6D142A4775" Type="Text" Created="2021-03-02 17:17:01 -0500" Modified="2021-03-02 17:26:32 -0500">
+                    <Title>Opposition in other countries</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="68EFCE19-D7DC-411A-8308-49179E4BC481" Type="Folder" Created="2020-07-20 15:26:10 -0400" Modified="2020-07-20 15:26:58 -0400">
+                    <Title>Opposition Elsewhere</Title>
+                    <MetaData>
+                        <SectionType>2FB31B55-043B-4839-8855-B503E34EA1A5</SectionType>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="13D0027A-8C59-4DFE-868F-D996751FAD4E" Type="Folder" Created="2020-07-20 14:52:34 -0400" Modified="2021-02-26 16:49:32 -0500">
+                    <Title>Europe</Title>
+                    <MetaData>
+                        <SectionType>2FB31B55-043B-4839-8855-B503E34EA1A5</SectionType>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentUUIDs>F6783F3E-3C73-4317-9407-0DB0AE93E416</SelectedSubdocumentUUIDs>
+                    </CorkboardAndOutliner>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -1257,12 +1264,12 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-07-12 23:57:11 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2021-03-02 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="137" Characters="1005" Date="2021-03-01 13:19:02 -0500"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2021-03-03 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="92" Characters="574" Date="2021-03-02 16:51:52 -0500"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2021-03-01 00:00:00 -0500">
-        <DraftWordCount>137</DraftWordCount>
-        <DraftCharCount>1005</DraftCharCount>
+    <RecentWritingHistory Date="2021-03-02 00:00:00 -0500">
+        <DraftWordCount>92</DraftWordCount>
+        <DraftCharCount>574</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>

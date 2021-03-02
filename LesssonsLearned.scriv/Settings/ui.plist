@@ -112,8 +112,8 @@
 	<true/>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {283.5, 934}}</string>
-		<string>{{284.5, 0}, {1395.5, 934}}</string>
+		<string>{{0, 0}, {284, 934}}</string>
+		<string>{{285, 0}, {1395, 934}}</string>
 	</array>
 	<key>binderWidth</key>
 	<real>243</real>
@@ -375,6 +375,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>86AA508A-2253-43B1-A39F-E192A05A826A</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>87E7A5C2-EF80-4BE5-9970-2F6D142A4775</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -754,7 +759,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 62}, {620, 424}}</string>
+	<string>{{0, 60}, {620, 424}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
