@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.2.2-14632" Device="CAS-QuemHe19L1" Author="Hector Quemada" Modified="2021-03-02 17:27:48 -0500" ModID="027281FC-A23B-4555-8C50-EF5FDC3A6B9D">
+<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.2.2-14632" Device="OSX-HQUEMADA" Author="Hector Quemada" Modified="2021-03-08 10:46:38 -0500" ModID="23AC3976-3BDA-41EA-8710-53AD239DA541">
     <Binder>
         <BinderItem UUID="635EBC13-D148-438A-B009-59019784F6EC" Type="DraftFolder" Created="2020-07-12 23:57:12 -0400" Modified="2020-07-12 23:57:12 -0400">
             <Title>Draft</Title>
@@ -27,7 +27,7 @@
                         <TextSelection>55,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="A2920E67-208B-4E4D-B4CF-A1FB3493FB59" Type="Text" Created="2020-07-13 00:08:52 -0400" Modified="2020-11-20 12:27:49 -0500">
+                <BinderItem UUID="A2920E67-208B-4E4D-B4CF-A1FB3493FB59" Type="Text" Created="2020-07-13 00:08:52 -0400" Modified="2021-03-08 08:40:02 -0500">
                     <Title>Abstract</Title>
                     <MetaData>
                         <SectionType>238DF250-B8A3-485A-B6C6-3E52363D2127</SectionType>
@@ -35,6 +35,15 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>9,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="2FFD5079-A110-4575-818F-B273EC625F89" Type="Text" Created="2021-03-08 00:16:15 -0500" Modified="2021-03-08 10:46:38 -0500">
+                    <Title>File Mar 08, 12 16 09 AM</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>213,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="ED927E96-CEE9-48B7-8BFF-A7329E7FBE72" Type="Text" Created="2020-07-21 00:38:26 -0400" Modified="2020-08-04 14:38:23 -0400">
@@ -1206,6 +1215,15 @@
                         <SelectedSubdocumentUUIDs>F6783F3E-3C73-4317-9407-0DB0AE93E416</SelectedSubdocumentUUIDs>
                     </CorkboardAndOutliner>
                 </BinderItem>
+                <BinderItem UUID="F3335CE6-6D34-4407-991E-89ACB4F4B329" Type="Text" Created="2021-03-08 00:16:15 -0500" Modified="2021-03-08 00:16:15 -0500">
+                    <Title>File Mar 08, 12 16 09 AM</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -1264,12 +1282,12 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-07-12 23:57:11 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2021-03-03 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="92" Characters="574" Date="2021-03-02 16:51:52 -0500"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2021-03-09 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="-3" Characters="-21" Date="2021-03-08 10:25:50 -0500"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2021-03-02 00:00:00 -0500">
-        <DraftWordCount>92</DraftWordCount>
-        <DraftCharCount>574</DraftCharCount>
+    <RecentWritingHistory Date="2021-03-08 00:00:00 -0500">
+        <DraftWordCount>-3</DraftWordCount>
+        <DraftCharCount>-21</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>

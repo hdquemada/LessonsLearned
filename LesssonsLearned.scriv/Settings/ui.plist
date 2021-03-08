@@ -112,8 +112,8 @@
 	<true/>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {284, 934}}</string>
-		<string>{{285, 0}, {1395, 934}}</string>
+		<string>{{0, 0}, {216, 707}}</string>
+		<string>{{217, 0}, {1063, 707}}</string>
 	</array>
 	<key>binderWidth</key>
 	<real>243</real>
@@ -220,6 +220,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>2E5425B1-E00C-4106-9811-07825054608A</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>2FFD5079-A110-4575-818F-B273EC625F89</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -634,6 +639,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>F3335CE6-6D34-4407-991E-89ACB4F4B329</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>F42BB1C7-4546-4F2E-A994-46E80C4AEC75</key>
 		<dict>
 			<key>Row</key>
@@ -711,7 +721,7 @@
 	<integer>2</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {336, 924}}</string>
+		<string>{{0, 0}, {256, 697}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>227</real>
@@ -727,7 +737,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {606, 294}}</string>
+	<string>{{0, 0}, {621, 294}}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
@@ -746,7 +756,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>200</real>
+			<real>229</real>
 		</dict>
 	</dict>
 	<key>supportingDocumentEditor.PDFAutoScales</key>
@@ -759,7 +769,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 60}, {620, 424}}</string>
+	<string>{{0, 0}, {531.5, 295}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
