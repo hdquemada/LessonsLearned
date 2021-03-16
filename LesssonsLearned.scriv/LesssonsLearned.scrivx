@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.2.2-14632" Device="OSX-HQUEMADA" Author="Hector Quemada" Modified="2021-03-09 10:28:05 -0500" ModID="2C28C378-5BA8-43E9-BF38-F0CA2C911E7F">
+<ScrivenerProject Identifier="1FE09EB6-C2F9-4736-9E7B-5A1DCBFEBFF1" Version="2.0" Creator="SCRMAC-3.2.2-14632" Device="CAS-QuemHe19L1" Author="Hector Quemada" Modified="2021-03-15 13:12:42 -0400" ModID="2CEB7871-48E0-4D10-92E9-D17973E63C5F">
     <Binder>
         <BinderItem UUID="635EBC13-D148-438A-B009-59019784F6EC" Type="DraftFolder" Created="2020-07-12 23:57:12 -0400" Modified="2020-07-12 23:57:12 -0400">
             <Title>Draft</Title>
@@ -147,13 +147,13 @@
                                 <TextSelection>4345,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="F679101C-B45B-4108-97A8-280B57065735" Type="Text" Created="2020-11-24 20:10:39 -0500" Modified="2021-03-09 10:24:28 -0500">
+                        <BinderItem UUID="F679101C-B45B-4108-97A8-280B57065735" Type="Text" Created="2020-11-24 20:10:39 -0500" Modified="2021-03-15 13:12:42 -0400">
                             <Title>Eiropean anti-GMO attitudes</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2399,0</TextSelection>
+                                <TextSelection>3970,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -1282,12 +1282,12 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-07-12 23:57:11 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2021-03-10 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="103" Characters="657" Date="2021-03-09 10:06:45 -0500"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2021-03-16 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="42" Characters="310" Date="2021-03-15 12:54:16 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2021-03-09 00:00:00 -0500">
-        <DraftWordCount>103</DraftWordCount>
-        <DraftCharCount>657</DraftCharCount>
+    <RecentWritingHistory Date="2021-03-15 00:00:00 -0400">
+        <DraftWordCount>42</DraftWordCount>
+        <DraftCharCount>310</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
